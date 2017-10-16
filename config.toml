@@ -1,4 +1,4 @@
-baseurl = "http://artist.twiztedmyrtle.com"
+baseurl = "https://s3-us-west-2.amazonaws.com/twizted-2018/"
 languageCode = "en-us"
 theme = "hugo-future-imperfect"
 title = "Twizted Myrtle"
