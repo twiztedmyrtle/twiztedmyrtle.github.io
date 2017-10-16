@@ -11,6 +11,8 @@ title = "prints"
 type = "page"
 
 +++
+
+
 <article>
     <section class="section">
         <div class="container-fullwidth">
@@ -59,12 +61,12 @@ type = "page"
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
                     <div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
-                        <h1 class="super text-italic">Art should disturb the comfortable & comfort the disturbed</h1> </div>
+                        <h1 class="super text-italic">Art should disturb the comfortable &amp; comfort the disturbed</h1> </div>
                     <div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
                     </div>
                 </div>
                 <div class="col-md-8 element-top-20 col-md-offset-2">
-                    <p class="lead os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Art that only a few privileged can own through manufactured demand to drive up the commercial value is manipulative; it promotes concepts of scarcity and superiority to pander to our fragile egos. For Twizted Myrtle to offer limited edition would simply be disingenuous.
+                    <p class="lead os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Art that only a few privileged can own through manufactured demand to drive up the commercial value is manipulative. It promotes concepts of scarcity and superiority to pander to our fragile egos. For Twizted Myrtle to offer limited edition would simply be disingenuous.
                     </p>
                     <p class="lead os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Twizted Myrtle is about living with love, compassion and abundance. We seek truth in pursuit of freedom in body, mind and spirit. We dare to think and act differently. We create our own path and live on our own terms. Twizted Myrtle is about seizing and living the moment that is now! When deciding whether a piece of art should grace your walls, there’s only one question – <br>Does it sing to your soul?
                     </p>
@@ -79,8 +81,7 @@ type = "page"
         </div>
     </section>
     <section class="section tilt">
-        <div class="background-media" style="background-image: url('/img/twiztedmyrtle/twizted-pattern.png'); background-repeat:no-repeat; background-size:cover; background-attachment:fixed; background-position: 50% 0%;" data-start="background-position: 50% -31px"
-        data-0-top-bottom="background-position: 50% 50px"></div>
+        <div class="background-media" style="background-image: url('/img/twiztedmyrtle/twizted-pattern.png'); background-repeat:no-repeat; background-size:cover; background-attachment:fixed; background-position: 50% 0%;" data-start="background-position: 50% -31px" data-0-top-bottom="background-position: 50% 50px"></div>
         <div class="background-overlay" style="background-color: rgba(200,188,182,0.8);"></div>
         <div class="circle-container tilt-back">
             <div class="row">
@@ -93,7 +94,7 @@ type = "page"
                     </div>
                     <p class="lead os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Art is about curiosity, exploration and creativity. Traditionalists impart wisdom and encourage you to adhere to the established rules, find your style and stick to it like rubber and glue. In other words, find your box within the box. Isn’t that the antithesis of what art is?
                     </p>
-                    <p class="element-bottom-30 lead class="lead os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s"">Art is about the <strong>art of seeing</strong>. When you let life unfold, without expectations or judgments, there are hidden moments within moments that unravel themselves. There is beauty in the strangest of places and smallest of things. There’s untold beauty in subjects that are easily overlooked, written off or deemed as imperfect. All creatures are beautiful, but not all see their beauty. </p>
+                    <p class="element-bottom-30 lead class=" lead="" os-animation"="" data-os-animation="fadeIn" data-os-animation-delay="0.3s" "="">Art is about the <strong>art of seeing</strong>. When you let life unfold, without expectations or judgments, there are hidden moments within moments that unravel themselves. There is beauty in the strangest of places and smallest of things. There’s untold beauty in subjects that are easily overlooked, written off or deemed as imperfect. All creatures are beautiful, but not all see their beauty. </p>
                     <p class="lead os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Art is about connection – primal bison, to glowing icebergs, to emerging agapanthus. They are different from us, and yet, one can see humanity in them, and them in us. We are interconnected. When the moment of magic happens, it’s inexplicable and transcendental. It’s spiritual intimacy of two souls. That’s a moment of twizted awakening! </p>
                 </div>
             </div>
@@ -140,12 +141,12 @@ type = "page"
                     <img src="/img/twiztedmyrtle/Dibond.jpg" alt="">
                     <h2>Di-Bond</h2>
                     <p class="" data-os-animation="fadeIn" data-os-animation-delay="0.3s">
-                        Artwork is printed directly onto the brushed metal DiBond&#174; surface which brings out a unique and textured look to Twizted Images. DiBond is a trad name for two thin sheets of aluminum (0.3mm) enclosing a polyethylene core. DiBond is 1/8" thick, lightweight but strong, and provides high resistance to weathering and corrosion for unsurpassed durability. In fact, many modern buildings and architectural accents are coated in this material. DiBond brushed aluminum prints are ready to hang and the perfect option for a clean and modern look.
+                        Artwork is printed directly onto the brushed metal DiBond® surface which brings out a unique and textured look to Twizted Images. DiBond is a trade name for two thin sheets of aluminum (0.3mm) enclosing a polyethylene core. DiBond is 1/8" thick, lightweight but strong, and provides high resistance to weathering and corrosion for unsurpassed durability. In fact, many modern buildings and architectural accents are coated in this material. DiBond brushed aluminum prints are ready to hang and the perfect option for a clean and modern look.
                     </p>
                     <img src="/img/twiztedmyrtle/canvas.jpg" alt="">
                     <h2>Canvas</h2>
                     <p class="" data-os-animation="fadeIn" data-os-animation-delay="0.3s">
-                        Twizted Images come to life with this semi-gloss archival-rated custom canvas treatment. This classic material offers a unique texture while being lightweight. Printed with the latest in latex ink technology. Each canvas is hand-stretched across a 1.5" deep wooden frame (industry standard is 0.75") tht gives the image that classic, gallery wrapped canvas look, and is carefully packaged. Ready to hang and add character to your room!
+                        Twizted Images come to life with this semi-gloss archival-rated custom canvas treatment. This classic material offers a unique texture while being lightweight. Printed with the latest in latex ink technology. Each canvas is hand-stretched across a 1.5" deep wooden frame (industry standard is 0.75") that gives the image that classic, gallery wrapped canvas look, and is carefully packaged. Ready to hang and add character to your room!
                     </p>
                     <h2>Prints</h2>
                     <p class=" element-bottom-70" data-os-animation="fadeIn" data-os-animation-delay="0.3s">
@@ -159,5 +160,5 @@ type = "page"
                 <div class="visible-md element-height-60"></div>
                 <div class="visible-lg element-height-60"></div>
             </div>
-    </section>
+    </div></div></section>
 </article>
