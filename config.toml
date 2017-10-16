@@ -1,146 +1,93 @@
 baseurl = "http://artist.twiztedmyrtle.com"
 languageCode = "en-us"
-title = "Twizted Myrtle"
 theme = "hugo-future-imperfect"
+title = "Twizted Myrtle"
 uglyurls = true
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-  podcast = "podcasts"
-
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 6
+[[menu.main]]
+name = "Scars Project"
+url = "/scars-project"
+weight = 5
+[[menu.main]]
+name = "Podcast"
+url = "/podcast"
+weight = 4
+[[menu.main]]
+identifier = "fa fa-newspaper-o"
+name = "Chitchat"
+url = "/blog"
+weight = 3
+[[menu.main]]
+name = "Gallery"
+url = "http://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw"
+weight = 2
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 1
+[params]
+authorname = "Asha Wadher"
+categoriesbycount = true
+description = "Twisted Myrtle mirrors the journey of life perfectly, which is what I am trying to capture and challenge through my creative works. And its zen like qualities that evoke sentiments of peace and freedom are ultimately the perfect name for this beautiful journey."
+faviconversion = ""
+includereadingtime = true
+loadfavicon = true
+navbartitle = "TwiztedMyrtle"
+socialappearatbottom = true
+socialappearattop = true
+viewmorepostlink = "/blog.html"
+[params.intro]
+about = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+header = "Twizted Myrtle"
+paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+[params.intro.pic]
+alt = "Twizted Myrtle"
+circle = false
+imperfect = true
+src = "/img/main/logo.jpg"
+width = ""
+[params.postamount]
+sidebar = 50
 [permalinks]
-  blog = "blog/:slug.html"
-  podcast ="podcast/:title.html"
-
-
-preserveTaxonomyNames = true
-paginate = 3
+blog = "blog/:slug.html"
 disqusShortname = "twiztedmyrtle1"
 googleAnalytics = "UA-48283949-1"
-
-[params]
-	AuthorName = "Asha Wadher"
-  # Sets the meta tag description, usually reserved for the main page
-  description          = "Twisted Myrtle mirrors the journey of life perfectly, which is what I am trying to capture and challenge through my creative works. And its zen like qualities that evoke sentiments of peace and freedom are ultimately the perfect name for this beautiful journey."
-  # This will appear on the top left of the navigation bar
-  navbarTitle          = "TwiztedMyrtle"
-  # Social media buttons that appear on the sidebar
-  socialAppearAtTop    = true
-  socialAppearAtBottom = true
-  # set this to the section name if section is not post
-  viewMorePostLink     = "/blog.html"
-
-# Optional Params
-  categoriesByCount    = true
-  includeReadingTime   = true
-  # The set of favicons used are based on the write-up from this link:
-  # https://github.com/audreyr/favicon-cheat-sheet
-  # Please see the favicon partial template for more information
-  loadFavicon          = true
-  faviconVersion       = ""
-
-  # Load custom CSS or JavaScript files. This replaces the deprecated params
-  # minifiedFilesCSS and minifiedFilesJS. The variable is an array so that you
-  # can load multiple files if necessary. You can also load the standard theme
-  # files by adding the value, "default".
-  # customCSS            = ["default", "/path/to/file"]
-  # customJS             = ["default", "/path/to/file"]
-
-  # Loading min files for exampleSite
-  #customCSS            = ["/css/main.min.css"]
-  #customJS             = ["/js/main.min.js"]
-
-# parms.intro will appear on the sidebar
-# This is optional, but it's suggested to use
-[params.intro]
-  header    = "Twizted Myrtle"
-
-  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
-
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
-
-# This will also appear on the sidebar.
-# A width of less than 100px is recommended
-# This is optional
-[params.intro.pic]
-  src       = "/img/main/logo.jpg"
-  # modify your picture in the shape of a circle or
-  # future imperfect's hexagonal shape
-  circle    = false
-  imperfect = true
-  width     = ""
-  alt       = "Twizted Myrtle"
-
-# Adjust the amount of recent posts on the sidebar.
-# This is optional. The default value 5 will be used
-[params.postAmount]
-  sidebar = 50
-
-# Set up your menu items in the navigation bar
-# You can use identifier to prepend a font awesome icon to your text
-
-[[menu.main]]
-  name = "About"
-  url = "/about"
-  weight = 1
-
-[[menu.main]]
-  name = "Gallery"
-  url = "http://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw"
-  weight = 2
-
-[[menu.main]]
-  name = "Chitchat"
-  url = "/blog"
-  identifier = "fa fa-newspaper-o"
-  weight = 3
-
-[[menu.main]]
-  name = "Podcast"
-  url = "/podcast"
-  weight = 4
-
-[[menu.main]]
-  name = "Scars Project"
-  url = "/scars-project"
-  weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "/contact"
-  weight = 6
-
-
-# Insert your username and the icon will apear on the page as long as
-# socialAppearAtTop or socialAppearAtBottom is set to true in the params area
-# The social media icons will appear on the sidebar
+paginate = 3
+podcast = "podcast/:title.html"
+preserveTaxonomyNames = true
 [social]
-  github          = ""
-  bitbucket       = ""
-  jsfiddle        = ""
-  codepen         = ""
-  foursquare      = ""
-  dribbble        = ""
-  deviantart      = ""
-  behance         = ""
-  flickr          = ""
-  instagram       = "twiztedmyrtle"
-  youtube         = "twiztedmyrtle"
-  vimeo           = ""
-  vine            = ""
-  medium          = "twiztedmyrtle"
-  wordpress       = ""
-  tumblr          = ""
-  xing            = ""
-  linkedin        = ""
-  slideshare      = ""
-  stackoverflow   = ""
-  reddit          = ""
-  pinterest       = ""
-  googleplus      = ""
-  facebook        = "twiztedmyrtle"
-  facebook_admin  = ""
-  twitter_domain  = ""
-  twitter         = "twiztedmyrtle"
-  email           = ""
+behance = ""
+bitbucket = ""
+codepen = ""
+deviantart = ""
+dribbble = ""
+email = ""
+facebook = "twiztedmyrtle"
+facebook_admin = ""
+flickr = ""
+foursquare = ""
+github = ""
+googleplus = ""
+instagram = "twiztedmyrtle"
+jsfiddle = ""
+linkedin = ""
+medium = "twiztedmyrtle"
+pinterest = ""
+reddit = ""
+slideshare = ""
+stackoverflow = ""
+tumblr = ""
+twitter = "twiztedmyrtle"
+twitter_domain = ""
+vimeo = ""
+vine = ""
+wordpress = ""
+xing = ""
+youtube = "twiztedmyrtle"
+[taxonomies]
+category = "categories"
+podcast = "podcasts"
+tag = "tags"
