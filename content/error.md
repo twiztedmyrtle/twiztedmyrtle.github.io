@@ -8,9 +8,9 @@ featuredalt = ""
 featuredpath = ""
 linktitle = ""
 title = "error"
+type = "page"
 
 +++
-
 <script type="text/javascript" charset="utf-8">
   $(document).ready(function() {
 

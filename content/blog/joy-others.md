@@ -1,18 +1,16 @@
 +++
-title = "Joy through others"
 author = "Asha Wadher"
-date = "2014-03-02"
+categories = []
+date = "2014-03-02T00:00:00Z"
 description = ""
-
 featured = "Joy-Through-Others.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "Joy through others"
 type = "post"
-categories = []
 
 +++
-
 After capturing the peacock shot at Aji Dam (see "[Why so special?](/posts/why-so-special.html), we weren't ready to go home just yet. We drove around the city as it was slowly waking up and to see what else we could stumble upon.<!--more-->
 
 This photograph is one of my favorite shots. As we were driving, I saw this mini truck with 4 kids and their mother, I assume, enjoying their open air and most luxurious ride. I was drawn to them. I asked my cousin to speed up and get me as close to them as possible.

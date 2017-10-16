@@ -1,18 +1,16 @@
 +++
-title = "How to beat depression"
 author = "Asha Wadher"
-date = "2014-08-21"
+categories = []
+date = "2014-08-21T00:00:00Z"
 description = ""
-
 featured = "Can-Anyone-Hear-Me-Depression.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "How to beat depression"
 type = "post"
-categories = []
 
 +++
-
 Life is tough. No matter your financial status, race, religion, color or gender, we all have our obstacles to overcome. We are all susceptible to fall victim to depression from life altering events like loss of a loved one<!--more-->, mourning the death of a relationship, postpartum depression, miscarriage, bullying, rape, financial woes, divorce, medical problems, disability from an accident, survivors' guilt and so on. The list is endless.
 
 But we can overcome it gracefully and valiantly. My qualifications for sharing the solutions derive from my own personal experiences. I am not a psychologist. Here are 10 steps to get out of depression and 10 steps to help someone suffering from depression.

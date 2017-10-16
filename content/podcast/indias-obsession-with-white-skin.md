@@ -1,18 +1,15 @@
 +++
-title = "India’s obsession with white skin"
 author = "Asha Wadher"
-date = "2016-02-13"
+categories = []
+date = "2016-02-13T00:00:00Z"
 description = ""
 featured = "Indias-Obsession-WhiteSkin.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "India’s obsession with white skin"
 
 +++
-
-
 You think America has problems with skin color? Try India! Did you know that India is obsessed with white skin. What are the implications of this unhealthy desire for fair skin? How does this translate into society … our thoughts, self worth and interactions? We explore this topic in depth with Suhrid Ganguly, a Bengali, who has a darker skin complexion.
 
 <a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode5_Suhrid_Ganguly_India_obsession_over_white_skin.mp3" target="_blank">Listen to Show</a>

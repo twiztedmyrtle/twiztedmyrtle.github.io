@@ -1,18 +1,15 @@
 +++
-title = "Life After “The Last Letter” by Marc Lee, an American Decorated Fallen Hero"
 author = "Asha Wadher"
-date = "2016-05-21"
+categories = []
+date = "2016-05-21T00:00:00Z"
 description = ""
 featured = "AmericanSniper-Marc-Lee-ChrisKyle.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "Life After “The Last Letter” by Marc Lee, an American Decorated Fallen Hero"
 
 +++
-
-
 Knock. Knock. Your son, Marc Lee, has been killed in action. As a parent, losing your child is the most painful, heart wrenching and unnatural thing to experience. How do you even process this? How do you deal with such depths of pain and grief? Can you ever heal from such a devastating loss? How do you go on? We talk to Debbie Lee, Marc’s Mom, to discuss this difficult and inspiring journey.
 
 Meet Debbie Lee. She is an author, public speaker and political activist, advocating for our troops and their families. Debbie is the proud mother of Marc Lee, an American fallen hero. Marc was featured in the movie “American Sniper” and was close to Chris Kyle. He was killed in action becoming the first Navy Seal killed in Iraq and was awarded the Silver Star and Purple Heart for his heroic actions. Marc had written a thought provoking and emotionally moving letter to his Mom 2 weeks before. It would be his last letter. His last letter continues to live and breathe every day. It inspired his Mom, Debbie, to come out from retirement and create America’s Mighty Warriors, a non-profit organization. She has since dedicated her life to ensuring that our troops and Gold Star families, families of the fallen, are supported and have access to services to help them with recovery after injury or loss.

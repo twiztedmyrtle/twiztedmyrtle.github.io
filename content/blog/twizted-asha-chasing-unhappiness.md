@@ -1,18 +1,16 @@
 +++
-title = "Chasing Unhappiness"
 author = "Asha Wadher"
-date = "2016-08-20"
+categories = []
+date = "2016-08-20T00:00:00Z"
 description = ""
 featured = "Twizted-Chasing-Unhappiness.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "Chasing Unhappiness"
 type = "post"
-categories = []
 
 +++
-
-
 While lazing around on a Sunday afternoon, my mind, like most entrepreneurs, was working. In doing so, I asked myself one question – The day you reach the heights of success you’ve always envisioned for your company (my <a href="http://www.inc.com/leigh-buchanan/big-ideas/jim-collins-big-hairy-audacious-goals.html" target="_blank">BHAG</a> – Big Hairy Audacious Goal), how will you feel that day? The answer surprised me – Emptiness.
 
 While I would feel a strong sense of accomplishment, proud of our team and what we built together, I also became acutely aware that it would be a shallow experience; I would feel a deep sense of emptiness.

@@ -1,18 +1,15 @@
 +++
-title = "Sara’s journey of sexual abuse, self-injury and drug addiction"
 author = "Asha Wadher"
-date = "2016-01-16"
+categories = []
+date = "2016-01-16T00:00:00Z"
 description = ""
 featured = "Sara-SexualAbuse-Self-Injury-DrugAddiction.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "Sara’s journey of sexual abuse, self-injury and drug addiction"
 
 +++
-
-
 Meet Sara. It would be fair to say that she's been through hell and back. Sara sheds light on how her perpetrator groomed her for one year to become a victim of sexual abuse. How did he get in her mind? What drove her to cut her body with a razor and become addicted to it? How did she get introduced to drugs?
 
 Her reasons were profound! She left me speechless.  <a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode1_Sarah_Final6.mp3" target="_blank">Listen to Show</a>

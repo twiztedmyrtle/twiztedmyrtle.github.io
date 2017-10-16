@@ -1,18 +1,15 @@
 +++
-title = "Why Do Pakistanis and Indians hate each other?"
 author = "Asha Wadher"
-date = "2016-03-19"
+categories = []
+date = "2016-03-19T00:00:00Z"
 description = ""
 featured = "Why-Pakistanis-Indians-HateEachOther.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "Why Do Pakistanis and Indians hate each other?"
 
 +++
-
-
 Why do Pakistanis and Indians hate each other? How does a child pick up on these social and historical cues? Personally, I hated Pakistanis as I was growing up. Do we have good reason to hate each other? What role does Patriotism and cricket play in fueling this hatred? Mustapha, Pakistani, who married an Indian girl, shares his experiences and insight into this issue.
 
 <a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode11_Mustapha_Why_Pakistan_India_Hate_Relationship.mp3" target="_blank">Listen to Show</a>

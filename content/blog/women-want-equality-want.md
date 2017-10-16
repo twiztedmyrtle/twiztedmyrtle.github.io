@@ -1,18 +1,16 @@
 +++
-title = "Women want equality. But only when we want it."
 author = "Asha Wadher"
-date = "2014-10-08"
+categories = []
+date = "2014-10-08T00:00:00Z"
 description = ""
-
 featured = "Women_Want_Selective_Equality.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "Women want equality. But only when we want it."
 type = "post"
-categories = []
 
 +++
-
 Consider a business lunch meeting, date night or just hanging out with friends. Waiter brings the check and typically drops it off closer to the man. Ignoring that gender bias for a hot second, who do you think should pay?<!--more-->
 
 Do we really want equality? Or do we want equality just when it suits us? Currently, it's the latter. And that's just not cool. We explore seven (7) reasons why it is REALLY, REALLY important for women to start picking up the tab.

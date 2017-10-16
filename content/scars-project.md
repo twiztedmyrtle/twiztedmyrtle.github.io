@@ -8,9 +8,9 @@ featuredalt = ""
 featuredpath = ""
 linktitle = ""
 title = "scars project"
+type = "page"
 
 +++
-
 <article>
     <section class="section">
         <div class="background-media" data-0-top-bottom="background-position: 50% 50px" data-start="background-position: 50% -31px" style="background-image: url(/img/twiztedmyrtle/scars-1.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:cover; background-position: 50% 0%;">

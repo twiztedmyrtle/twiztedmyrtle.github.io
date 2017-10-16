@@ -1,19 +1,15 @@
 +++
-title = "Pt 1 - Can Anyone Succumb to Cults and Brainwashing?"
 author = "Asha Wadher"
-date = "2016-05-14"
+categories = []
+date = "2016-05-14T00:00:00Z"
 description = ""
 featured = "Brainwashing-Rick-Ross-Cult-Expert.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "Pt 1 - Can Anyone Succumb to Cults and Brainwashing?"
 
 +++
-
-
-
 Rick Ross is the founder and Executive Director of The Cult Education Institute. He is an internationally known expert on destructive cults, controversial groups and movements. Rick helps us understand if there is a particular profile of people that are more susceptible to cults. How does a cult leader disable our ability to think independently and rationally? What are the exit costs of leaving a cult group? How is Catholicism or Mormonism different from Scientology? And what about ISIS and Al Qaeda?
 
  <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep18_Part1_RickRoss_CultExpert.mp3" target="_blank">Listen to Show</a>

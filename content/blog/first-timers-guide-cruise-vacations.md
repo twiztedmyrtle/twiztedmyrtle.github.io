@@ -1,18 +1,16 @@
 +++
-title = "First timers guide to Cruise Vacations"
 author = "Asha Wadher"
-date = "2014-10-29"
+categories = []
+date = "2014-10-29T00:00:00Z"
 description = ""
-
 featured = "First-Timers-Guide-CruiseVacations.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "First timers guide to Cruise Vacations"
 type = "post"
-categories = []
 
 +++
-
 I've traveled the world by plane, train, bus and car, but never a cruise. The concept of being stuck in a finite amount of space never seemed appealing to me. Still, I wanted to experience it first hand and decide how I really felt about cruise vacations. So in July 2010, I booked a 7 day Mexican Riviera Cruise on the <a href="http://www.royalcaribbean.com/home.do" target="_blank">Royal Caribbean</a>, Mariner of the Seas, for our family vacation. Our ports of call were Cabo San Lucas, Mazatlan and Puerto Vallarta. Through the eyes of a cruise virgin, but a seasoned traveler, here is a revelation of all aspects of my cruise experience ...
 
 

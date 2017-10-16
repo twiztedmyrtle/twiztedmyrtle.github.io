@@ -1,18 +1,16 @@
 +++
-title = "Three hardest words to say"
 author = "Asha Wadher"
-date = "2015-02-11"
+categories = []
+date = "2015-02-11T00:00:00Z"
 description = ""
-
 featured = "Twizted-Three-Hardest-Words-To-Say.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "Three hardest words to say"
 type = "post"
-categories = []
 
 +++
-
 Several years ago, if you told me to say "I love you" to my parents or siblings, I would have laughed and brushed you off. The mere thought of verbalizing such emotional words that made me feel so exposed and vulnerable <!--more--> was screechingly uncomfortable. We all knew that we loved and cared for each other deeply; but we never actually uttered those three tough words. Never!
 
 Regardless of class, education or background, matters of the heart and expressing your emotions verbally have traditionally been a no go zone in the Indian culture; this was particularly the case when I was growing up and generations prior. Furthermore, saying these words in our mother tongue or national language, Gujarati and Hindi respectively, sounded really weird and perhaps best reserved for <a href="https://www.youtube.com/watch?v=2R88Gxq1NE8" target="_blank">Bollywood</a>. Being shy and reserved has also been a fundamental part of the culture. And I was particularly shy around my Dad when it came to certain things.

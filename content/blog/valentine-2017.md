@@ -1,19 +1,16 @@
 +++
-title = "You Complete Me"
 author = "Asha Wadher"
-date = "2017-02-11"
+categories = []
+date = "2017-02-11T00:00:00Z"
 description = ""
 featured = "YouCompleteMe.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "You Complete Me"
 type = "post"
-categories = []
 
 +++
-
-
-
 Romantic words that make your heart flutter, and arguably, the biggest crock of shit ever vocalized as the Holy Grail in the name of love! So what do these words really mean? Let the indulgence begin …<!--more-->
 
 <br>

@@ -1,18 +1,16 @@
 +++
-title = "Why so special?"
 author = "Asha Wadher"
-date = "2014-03-01"
+categories = []
+date = "2014-03-01T00:00:00Z"
 description = ""
-
 featured = "Why-So-Special-Peacock-India.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "Why so special?"
 type = "post"
-categories = []
 
 +++
-
 While this may not be the sharpest photo in my collection, it is very dear to me because of what it signifies for my journey in photography. Here's the back story ...
 
 

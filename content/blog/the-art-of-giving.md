@@ -1,18 +1,16 @@
 +++
-title = "The Art of Giving"
 author = "Asha Wadher"
-date = "2016-12-04"
+categories = []
+date = "2016-12-04T00:00:00Z"
 description = ""
 featured = "Art-of-Giving.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "The Art of Giving"
 type = "post"
-categories = []
 
 +++
-
-
 Why do we give gifts? Consciously or sub-consciously and to varying degrees, we use gifts as a way to further our agenda – impress or pacify someone, fulfill an obligation, win them over, one-up the recipient or our competition, score points <!--more-->, call in a favor in the future, use as a tool for guilt and manipulation, earn bragging rights or boost our own ego. When we give with ulterior motives, agenda or expectations, a gift turns into a contract.
 
 Think you give selflessly and without any expectations?

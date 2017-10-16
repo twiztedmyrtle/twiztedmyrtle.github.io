@@ -1,18 +1,16 @@
 +++
-title = "When the poor are rich"
 author = "Asha Wadher"
-date = "2014-04-04"
+categories = []
+date = "2014-04-04T00:00:00Z"
 description = ""
-
 featured = "When-Poor-Are-Rich-India.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "When the poor are rich"
 type = "post"
-categories = []
 
 +++
-
 This is one of my most cherished photos that left an indelible impression on me. It captures the essence of life and human spirit in more ways than one.
 
 Their home is the median of a very busy main road in [Bombay, India](http://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw). All of their precious belongings are clearly on display that include a battered and probably unhygienic mattress, make shift pillow, clothes and containers. The girl's right leg is on the street with cars narrowly scraping by her, drivers are honking and inching through the chaos, bikers are anxiously seeking an opening so they can zip through traffic, people are jay walking, street vendors are hustling with their customers ...

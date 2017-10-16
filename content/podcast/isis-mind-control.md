@@ -1,18 +1,15 @@
 +++
-title = "Pt 2 - ISIS & Mind Control: Looking at Suicide Bombers Through a Different Lens"
 author = "Asha Wadher"
-date = "2016-05-15"
+categories = []
+date = "2016-05-15T00:00:00Z"
 description = ""
 featured = "ISIS-MindControl-Cults-Brainwashing.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "Pt 2 - ISIS & Mind Control: Looking at Suicide Bombers Through a Different Lens"
 
 +++
-
-
 Are suicide bombers and members of terrorist groups like ISIS and Al Qaeda demons or are they victims themselves? What does the future hold for young children who have been brainswashed by ISIS? Can and how can people that have been in cult groups for decades be deprogrammed successfully? Will Tom Cruise ever be able to get out of Scientology? Rick Ross, an expert on destructive cults, shares valuable insights into this other world and the process of deprogramming minds.
 
  <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep19_Part2_RickRoss_Cults_Brainwashing.mp3" target="_blank">Listen to Show</a>

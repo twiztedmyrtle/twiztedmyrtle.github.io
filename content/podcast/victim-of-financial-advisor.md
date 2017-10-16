@@ -1,18 +1,15 @@
 +++
-title = "How NOT to become a victim to your financial advisor with Tigran"
 author = "Asha Wadher"
-date = "2016-03-12"
+categories = []
+date = "2016-03-12T00:00:00Z"
 description = ""
 featured = "Financial-Advisor-Dont-Become-Victim.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "How NOT to become a victim to your financial advisor with Tigran"
 
 +++
-
-
 Ever had a bad experience with a financial advisor or know someone who did? Are you afraid of being a victim to these shady advisors? My financial advisor, and friend, certainly helped me lose thousands of dollars. Sadly, this is a fairly common occurrence. Are you trying to get back in the game, but don't know how? Tigran from Hatton Consulting shares insights into the financial industry so you can avoid the pitfalls and get back in the game.
 
 <a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode9_Tigran_Part1.mp3" target="_blank">Listen to Show</a>

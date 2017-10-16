@@ -1,17 +1,15 @@
 +++
 author = "Asha Wadher"
 categories = []
-date = "2016-06-25"
+date = "2016-06-25T00:00:00Z"
 description = ""
 featured = "Adam-Sud-WholeFoods-Diabetes-Addict-Transformation.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
 title = "Pt 1 - How Adam Sud Reversed His Diabetes, Lost 150 lbs, Kicked His Food/Rx Addiction and Transformed His Life"
-type = "podcast"
 
 +++
-
 Adam Sud is the son of founding investor of Whole Foods. Despite having access to all the right ingredients in life, Adam found himself addicted to prescription drugs, overweight at 300 lbs, diagnosed with Type 2 Diabetes, low self esteem, wrapped in depression and anger, out of cash, unemployed and primed to live on the streets? How? And why? Adam went from a journey of self-destruction to inspiring self-transformation. Adam reversed his Type 2 Diabetes, lost 150 lbs, gained his self esteem and emotional health back. His secret - Plant based lifestyle! Yes, you read that right ... Plant based lifestyle! With a new lease on his life, he lives a conscious and purpose driven life today. His insights and experiences also lead to an engaging discussion about challenging our approach to medicine and healthcare. ​
 
  <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep21_Adam_Sud_SelfDestruction_SelfTransformation.mp3" target="_blank">Listen to Show</a>

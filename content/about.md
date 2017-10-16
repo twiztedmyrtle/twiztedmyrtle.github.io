@@ -1,8 +1,9 @@
 +++
+date = "2014-04-09T00:00:00Z"
 title = "The Story Behind Twizted Myrtle"
-date = "2014-04-09"
-+++
+type = "page"
 
++++
 <article>
     <section class="section">
         <div class="container-fullwidth">

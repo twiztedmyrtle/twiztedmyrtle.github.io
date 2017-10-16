@@ -1,18 +1,16 @@
 +++
-title = "This is India. Uncensored"
 author = "Asha Wadher"
-date = "2014-06-17"
+categories = []
+date = "2014-06-17T00:00:00Z"
 description = ""
-
 featured = "This-Is-India-Uncensored.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "This is India. Uncensored"
 type = "post"
-categories = []
 
 +++
-
 This is India ...
 Vivid, colorful, historically rich, incredible architecture, vivacious, full of life and energy, majestic, deeply contrasting, sensory overload, heart breaking poverty, mind blowing wealth, beautiful, dirty, luxurious, full of heart <!--more-->and yet so heartless ...
 

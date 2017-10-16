@@ -1,18 +1,15 @@
 +++
-title = "Behind the Scenes with Nyla, an Extraordinaire Burlesque Stripper"
 author = "Asha Wadher"
-date = "2016-07-09"
+categories = []
+date = "2016-07-09T00:00:00Z"
 description = ""
 featured = "Nyla-BurlesqueStripper.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "Behind the Scenes with Nyla, an Extraordinaire Burlesque Stripper"
 
 +++
-
-
 What does a man REALLY want when he goes to a strip club? Nyla, founder of Violet Flame Studios, and an extraordinaire Burlesque Stripper, takes us behind the scenes and unveils how strip clubs work, stripper code of ethics and the art of seduction. But how did she make the big leap from being a dancer to a stripper? What was it like when she got topless for the first time? How are Robert DeNiro, Joe Pesci and Steve Jobs part of this story? Is there more to stripping than just taking your clothes off? And Nyla's interesting perspective on young girls, sexuality and money!
 
  <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep23_Nyla_VioletFlameStudios_Burlesque_Stripper.mp3" target="_blank">Listen to Show</a>

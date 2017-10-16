@@ -1,18 +1,16 @@
 +++
-title = "Enter the world of Steampunk"
 author = "Asha Wadher"
-date = "2014-08-27"
+categories = []
+date = "2014-08-27T00:00:00Z"
 description = ""
-
 featured = "Steampunk-Portland.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "Enter the world of Steampunk"
 type = "post"
-categories = []
 
 +++
-
 The beauty of traveling is when you run into the unexpected and new learnings await you. I had such an encounter during my recent travels to Portland, Oregon. I was drawn by an intriguing costume parade taking place in the lobby of the DoubleTree hotel where I was staying. So I followed the costumes. I discovered there was a convention taking place – GearCon 2014. Little did I know, I was about to time travel to an entirely different world!
 
 Each attendee was flaunting an incredibly unique and creative costume. It was hard to focus on any one of them because you wanted to consume the visual spectacle in its entirety and detail without missing a beat. This reminded me of the movies Wild Wild West and Sherlock Holmes. But I knew there was more to them than costumes and my minuscule frame of reference through Hollywood. So I proclaimed my ignorance and started asking questions. The conversations I had with folks at the convention were inspiring and fascinating.

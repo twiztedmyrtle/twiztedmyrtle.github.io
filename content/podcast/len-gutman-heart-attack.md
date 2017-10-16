@@ -1,18 +1,15 @@
 +++
-title = "How Len’s heart attack “woke” him up from a life of quiet desperation"
 author = "Asha Wadher"
-date = "2016-01-23"
+categories = []
+date = "2016-01-23T00:00:00Z"
 description = ""
 featured = "Heart-Attack-Awakening-Len-Gutman.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "How Len’s heart attack “woke” him up from a life of quiet desperation"
 
 +++
-
-
 Are you living a life of quiet desperation? You know you’re not happy, but don’t know how to get out of it? Len Gutman knows what that’s like. It took a heart attack to wake him up and change the course of his life. His journey led him to discovering true happiness.
 
 Here’s how he did it - <a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode2_Len_Gutman_Final6.mp3" target="_blank">Listen to Show</a>

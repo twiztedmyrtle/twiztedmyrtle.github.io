@@ -1,18 +1,15 @@
 +++
-title = "To Legalize or Not to Legalize Marijuana, with Doug Coleman, Special Agent at Drug Enforcement Agency"
 author = "Asha Wadher"
-date = "2016-10-23"
+categories = []
+date = "2016-10-23T00:00:00Z"
 description = ""
 featured = "Doug-Coleman-DEA-Marijuana-Legalize.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "To Legalize or Not to Legalize Marijuana, with Doug Coleman, Special Agent at Drug Enforcement Agency"
 
 +++
-
-
 Doug Coleman is a 25-year veteran and Special Agent for DEA, in charge of the Phoenix Field Division, and Michael Pooley, Metro Operations Lieutenant for Tempe Police Department. As a border state, Arizona plays a vital role in the infiltration and distribution of drugs to the rest of our country. We engage in a riveting conversation about all things drugs, no holds barred!
 
 Do DEA agents have any compassion for drug dealers and the choices they make as a result of their circumstances? What happens within the Sinaloa cartel when their leader, like El Chapo, is captured? Would Donald Trump’s wall help curb drug activity? We further delve into a healthy discussion about all things to consider when deciding for ourselves if we should legalize marijuana in the state of Arizona. Is marijuana as harmless as we are led to believe? Are we, as consumers, responsible for the national opioid epidemic and prescription drug abuse? Are pharmaceutical companies bigger drug pushers than the traditional drug cartels? How does Michael Botticelli, the Director of ONDCP, who has himself been in long term recovery from substance use disorder, help in the war of drugs. Speaking of, why does Doug despise the term “war on drugs?” And why Doug is the poster child for someone who should have been involved with drugs, but on the other side of the law!

@@ -8,9 +8,9 @@ featuredalt = ""
 featuredpath = ""
 linktitle = ""
 title = "copyright"
+type = "page"
 
 +++
-
 <article>
     <section class="section">
         <div class="divider-wrapper">

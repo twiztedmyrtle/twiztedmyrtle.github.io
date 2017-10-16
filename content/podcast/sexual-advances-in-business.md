@@ -1,18 +1,15 @@
 +++
-title = "Sexual Advances in Business"
 author = "Asha Wadher"
-date = "2016-02-06"
+categories = []
+date = "2016-02-06T00:00:00Z"
 description = ""
 featured = "SexualAdvances-Business-Rachel-Lutowsky.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "Sexual Advances in Business"
 
 +++
-
-
 As a working woman, do you struggle with men hitting on you in business settings? Have you figured out how to handle these unwanted sexual advances, while being taken seriously for your work? Rachel Lutowsky, founder of Dynamic Leadership Solutions, shares some of her undesired experiences and what she’s learned from them.
 
 As a working man, you may also want to tune in to listen to what women experience in the workplace.  <a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode4_Rachel_Lutowsky_SexualAdvancesinBusiness.mp3" target="_blank">Listen to Show</a>

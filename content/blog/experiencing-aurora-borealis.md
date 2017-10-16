@@ -1,18 +1,16 @@
 +++
-title = "Experiencing Aurora Borealis"
 author = "Asha Wadher"
-date = "2015-03-04"
+categories = []
+date = "2015-03-04T00:00:00Z"
 description = ""
-
 featured = "Iceland-Aurora-Borealis.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "Experiencing Aurora Borealis"
 type = "post"
-categories = []
 
 +++
-
 Last year, the temptation to see <a href="http://www.aurora-service.eu/aurora-school/aurora-borealis/" target="_blank">Aurora Borealis</a> grew beyond being a number on my bucket list. I could not resist anymore. So I booked my trip to Iceland for two weeks in December. My excitement came crashing down when my friend educated me that seeing Aurora Borealis is not guaranteed. It's a matter of <a href="https://www.youtube.com/watch?v=7Mz2laHjVoQ" target="_blank">right weather conditions</a> and location within the country. So off I went to Iceland, with more realistic expectations while hoping to get lucky.
 
 And oh boy, did I get lucky! A whopping seven times! Each time, it was beautiful and stunning. There was no shortage of Ooohs and Aaaahs. But there were two sightings that were **most memorable** of them all. The first time I saw the Aurora with my photo tour group was at the Glacier Lagoon in Jökulsárlón. Picture this – serene, pure and jaw dropping beauty of the Glacier Lagoon; stunning Aurora Borealis that stretched across the sky with its reflection in the water giving you double vision; Milky Way that lit up the entire sky and made you feel like it was within arms reach; and a distant red glow from the Holuhraun Volcanic eruption. All of these natural wonders captured in one frame! Simply mind blowing.

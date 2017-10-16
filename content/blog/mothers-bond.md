@@ -1,18 +1,16 @@
 +++
-title = "That Mother's Bond"
 author = "Asha Wadher"
-date = "2014-05-11"
+categories = []
+date = "2014-05-11T00:00:00Z"
 description = ""
-
 featured = "Twizted-That-Mothers-Bond.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "That Mother's Bond"
 type = "post"
-categories = []
 
 +++
-
 This is my all time favorite picture of my Mom with me as it embodies that sacred relationship between a mother and her daughter perfectly.
 
 Let's fast forward several years ...

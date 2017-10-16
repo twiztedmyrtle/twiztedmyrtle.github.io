@@ -1,18 +1,16 @@
 +++
 author = "Asha Wadher"
-title = "Beautiful words of inspiration"
-date = "2014-04-26"
+categories = []
+date = "2014-04-26T00:00:00Z"
 description = ""
-
 featured = "Inspirational-Words-TwiztedJourney.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "Beautiful words of inspiration"
 type = "post"
-categories = []
 
 +++
-
 My brother and I started our company, atmosol, 9 years back. We announced 3 days ago that I have decided to leave atmosol to pursue my new dreams and passion – photography and world travel amongst others. I've been blown away by the volume and content within the emails, texts, messages on FB/LI and phone calls that I have received. Looks like I may have a few people show up at my funeral in the future after all ![:)](/img/twiztedmyrtle/simple-smile.png) . Yay!
 
 I heard from my friends & family, entrepreneur community, friends at Amazon, vendor partners and acquaintances. And then there were folks that just came out of the woodwork like my anesthesiologist, lady that sold me furniture eons ago, business leads from over 6 yrs ago that never materialized, former team members (apparently I didn't piss them off enough) and so on.

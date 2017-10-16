@@ -1,18 +1,16 @@
 +++
-title = "I was high ... on speed!"
 author = "Asha Wadher"
-date = "2014-10-15"
+categories = []
+date = "2014-10-15T00:00:00Z"
 description = ""
-
 featured = "High-on-Speed-Bondurant.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "I was high ... on speed!"
 type = "post"
-categories = []
 
 +++
-
 It was a beautiful morning on Dec 7<sup>th</sup>, 2012 and I was headed out for <a href="http://www.bondurant.com/" target="_blank">Bondurant High Performance Driving School</a>. The wait for this day had been too long. I had finally signed up for their one-day course which was jam-packed with<!--more--> learning driving maneuvers, techniques and track time. I was super excited, nervous and slightly intimidated. But mostly, I could not contain myself!
 
 The first thing on the agenda was classroom time. Our instructor went over basics – understanding car mechanics and responses, getting familiar with the track, what lines to take, where to focus, when to brake, when to speed up, depth perception, weight transfer, brake and tire failures, what moves could result in a collision and ...

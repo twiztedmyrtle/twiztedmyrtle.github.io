@@ -1,18 +1,16 @@
 +++
-title = "Portland embraces weird"
 author = "Asha Wadher"
-date = "2014-09-03"
+categories = []
+date = "2014-09-03T00:00:00Z"
 description = ""
-
 featured = "Keep-Portland-Weird.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "Portland embraces weird"
 type = "post"
-categories = []
 
 +++
-
 There are 3 things synonymous in my memory bank when I reminisce about Portland – It's artistic and creative flair, attitude of anything goes which really means, the weirder it is the better, and a very specific type of body odor <!--more--> that can be used as a deadly weapon to disperse protests instead of using tear gas.
 
 The artistic and creative flair is undeniable and penetrates every aspect of the city and culture. It is embodied in the mobile food carts, architecture, home décor (both outside and inside), and sculptures and paintings in every nook and cranny. The creative genius and freedom is everywhere. They are not afraid to experiment and try new things. There is a sense of liberation and freedom that you experience as you appreciate the vision and creativity of their artistic work. It's one of my absolute favorite things to experience about the city.

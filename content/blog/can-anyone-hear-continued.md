@@ -1,18 +1,16 @@
 +++
-title = "Can anyone hear me? continued ..."
 author = "Asha Wadher"
-date = "2014-08-15"
+categories = []
+date = "2014-08-15T00:00:00Z"
 description = ""
-
 featured = "Can-anyone-hear-me-RobinWilliams.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "Can anyone hear me? continued ..."
 type = "post"
-categories = []
 
 +++
-
 To continue our conversation inspired by [Robin Williams](/posts/robin-williams-and-depression.html) death and the story I shared ...
 
 

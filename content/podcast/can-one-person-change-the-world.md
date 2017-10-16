@@ -1,17 +1,15 @@
 +++
-title = "Pt 1 - Can One Person Change The World?"
 author = "Asha Wadher"
-date = "2016-04-02"
+categories = []
+date = "2016-04-02T00:00:00Z"
 description = ""
 featured = "Shawn-Heinrichs-ChangetheWorld_TwiztedMyrtle.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "Pt 1 - Can One Person Change The World?"
 
 +++
-
 Shawn Heinrichs, an Emmy Award Winning Cinematographer, artist, photographer, and Shark and Manta Ray Defender. Or, more accurately, a Real Life Avenger! Shawn’s incredibly moving work was recently featured in the documentary film, Racing Extinction. But what inspired him to transform his life from corporate America to dedicating and risking his life to save Sharks and Manta Rays? Can one man really change the world?
 
  <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep12_Part1_Shawn_Heinrichs_LifeTransition.mp3" target="_blank">Listen to Show</a>

@@ -1,18 +1,15 @@
 +++
-title = "When Fashion Is Murder"
 author = "Asha Wadher"
-date = "2016-11-20"
+categories = []
+date = "2016-11-20T00:00:00Z"
 description = ""
 featured = "When-Fashion-Is-Murder-PETA-Christina-Sewell.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-type = "podcast"
-categories = []
+title = "When Fashion Is Murder"
 
 +++
-
-
 Compassionate or Murderer - What statement do your fashion choices make about you?
 
 Our desire for comfort and to look cool in fur coats, leather handbags and snakeskin shoes comes at an unthinkable price; cows, dogs and cats are amongst the many animals that are subjected to heart wrenching cruelty. How is that cool? What really happens behind the scenes? How can India be the biggest supplier of cows for the leather industry when they consider cows to be sacred?
