@@ -1,18 +1,17 @@
 +++
-title = "Differences are not welcome!"
 author = "Asha Wadher"
-date = "2014-04-30"
+categories = []
+date = "2014-04-30T00:00:00Z"
 description = ""
-
+draft = true
 featured = "131016-Phuket-Bangkok-0640.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
+title = "Differences are not welcome!"
 type = "post"
-categories = []
 
 +++
-
 See these 2 wild monkeys? Yup, that's us! We are all the same, in that we are all human. And yet, we specifically focus on our differences in a negative way. This manifests itself in us disliking, picking, bullying and/or being violent<!--more--> towards someone or a group of people based on their religion, color, caste, nationality, sexual orientation, race, political affiliation, income, body type, accent, intelligence, diet preferences, diseases, the way they look, the way they dress, the choices they make ...
  the list is endless.
 
