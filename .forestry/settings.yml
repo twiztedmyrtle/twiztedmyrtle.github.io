@@ -7,8 +7,8 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
-  blog:
-    default_front_matter_template: blog
   podcast:
     default_front_matter_template: podcast
+  blog:
+    default_front_matter_template: blog
 version: '0.28'
