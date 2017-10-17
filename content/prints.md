@@ -11,8 +11,6 @@ title = "prints"
 type = "page"
 
 +++
-
-
 <article>
     <section class="section">
         <div class="container-fullwidth">
