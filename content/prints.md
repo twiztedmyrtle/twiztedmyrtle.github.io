@@ -16,7 +16,7 @@ type = "page"
         <div class="container-fullwidth">
         <div class="row">
           <div class="col-md-12">
-            <div class="flexslider" data-flex-directions="hide" data-flex-controlsposition="inside" id="about-slider" data-flex-animation="fade" style="height:480px;">
+            <div class="flexslider" data-flex-directions="hide" data-flex-controlsposition="inside" id="about-slider" data-flex-animation="fade" style="height:480px;" data-flex-speed="4000">
               <ul class="slides">
                 <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
                     <img src="/img/twiztedmyrtle/print-buying.jpg">
@@ -93,7 +93,7 @@ type = "page"
                     <p class="lead os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Art is about curiosity, exploration and creativity. Traditionalists impart wisdom and encourage you to adhere to the established rules, find your style and stick to it like rubber and glue. In other words, find your box within the box. Isn’t that the antithesis of what art is?
                     </p>
                     <p class="element-bottom-30 lead class=" lead="" os-animation"="" data-os-animation="fadeIn" data-os-animation-delay="0.3s" "="">Art is about the <strong>art of seeing</strong>. When you let life unfold, without expectations or judgments, there are hidden moments within moments that unravel themselves. There is beauty in the strangest of places and smallest of things. There’s untold beauty in subjects that are easily overlooked, written off or deemed as imperfect. All creatures are beautiful, but not all see their beauty. </p>
-                    <p class="lead os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Art is about connection – primal bison, to glowing icebergs, to emerging agapanthus. They are different from us, and yet, one can see humanity in them, and them in us. We are interconnected. When the moment of magic happens, it’s inexplicable and transcendental. It’s spiritual intimacy of two souls. That’s a moment of twizted awakening! </p>
+                    <p class="lead os-animation element-bottom-70" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Art is about connection – primal bison, to glowing icebergs, to emerging agapanthus. They are different from us, and yet, one can see humanity in them, and them in us. We are interconnected. When the moment of magic happens, it’s inexplicable and transcendental. It’s spiritual intimacy of two souls. That’s a moment of twizted awakening! </p>
                 </div>
             </div>
         </div>
@@ -114,7 +114,7 @@ type = "page"
                     <!-- <h1 class="super text-italic">Open Edition Collection</h1> </div> -->
                 <div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
                 </div>
-                <h1 class="text-center element-top-120 element-bottom-30 super">Choose Your Piece</h1>
+                <h1 class="text-center element-top-30 element-bottom-30 super">Choose Your Piece</h1>
                 <p class="lead os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Twizted art is a striking way to express your individuality and style. Your interpretation and intimate connection to the artwork is what makes it unique and one of a kind. There’s a wide selection of alluring images that evoke your senses and transcend you to a different world, and others are thought-provoking conversation starters that engage, heal and inspire. Find what moves your soul.
                 </p>
                 <p class="lead os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Twizted art has been valued at fair fare ranging from $375 to $2,100. Twizted Images truly come to life when printed on Acrylic, Canvas or DiBond® – each with their own distinctive look and unforgettable style for the discerning admirer. Each piece is signed and ready to hang!

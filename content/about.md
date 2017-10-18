@@ -9,21 +9,21 @@ type = "page"
         <div class="container-fullwidth">
                 <div class="row">
                   <div class="col-md-12">
-                    <div class="flexslider" data-flex-directions="hide" data-flex-controlsposition="inside" id="about-slider" data-flex-animation="fade" style="height:480px;">
+                    <div class="flexslider" data-flex-directions="hide" data-flex-controlsposition="inside" id="about-slider" data-flex-animation="fade" style="height:480px;" data-flex-speed="4000">
                       <ul class="slides">
-                        <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
+                        <li data-slotamount="3" data-saveperformance="on" data-title="Intro Slide">
                             <!-- MAIN IMAGE --><img src="/img/twiztedmyrtle/about/story4.jpg">
                         </li>
-                        <li>
+                        <li data-slotamount="3" data-saveperformance="on" data-title="Intro Slide">
                           <!-- MAIN IMAGE --><img src="/img/twiztedmyrtle/about/story1.jpg">
                         </li>
-                        <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
+                        <li data-slotamount="3" data-saveperformance="on" data-title="Intro Slide">
                             <!-- MAIN IMAGE --><img src="/img/twiztedmyrtle/about/story3.jpg">
                         </li>
-                        <!-- <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
+                        <!-- <li data-slotamount="3" data-saveperformance="on" data-title="Intro Slide">
                             MAIN IMAGE<img src="/img/twiztedmyrtle/about/story7.jpg">
                         </li> -->
-                        <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
+                        <li data-slotamount="3" data-saveperformance="on" data-title="Intro Slide">
                             <!-- MAIN IMAGE --><img src="/img/twiztedmyrtle/about/story2.jpg">
                         </li>
                       </ul>
@@ -354,7 +354,7 @@ type = "page"
         <div class="container-fullwidth container-vertical-middle">
             <div class="row vertical-middle">
                 <div class="col-md-5" style="background:#f0f0f0;">
-                    <div class="text-center flexslider feature-slider" data-flex-animation="fade" data-flex-controls="hide" data-flex-controls-position="outside" data-flex-controlsalign="center" data-flex-directions="hide" data-flex-slideshow="true"
+                    <div class="text-center flexslider feature-slider" data-flex-animation="fade"  data-flex-controls="hide" data-flex-controls-position="outside" data-flex-controlsalign="center" data-flex-directions="hide" data-flex-slideshow="true"
                     data-flex-speed="20000" data-os-animation="none" data-os-animation-delay="0s" id="flexslider-02">
                         <ul class="slides">
                             <li>
@@ -462,10 +462,10 @@ type = "page"
                           <figure> <img alt="Modern Luxury Scottsdale" src="/img/twiztedmyrtle/client-1.jpg"> </figure>
                         </div>
                         <div class="col-md-3">
-                          <figure> <img alt="She Knows Magazine" src="/img/twiztedmyrtle/client-4.jpg" draggable="false"> </figure>
+                          <figure> <img alt="Arizona Foothills Magazine" src="/img/twiztedmyrtle/client-2.jpg"> </figure>
                         </div>
                         <div class="col-md-3">
-                          <figure> <img alt="Univision" src="/img/twiztedmyrtle/client-8.jpg"> </figure>
+                          <figure> <img alt="SanTan Sun News" src="/img/twiztedmyrtle/client-7.jpg"> </figure>
                         </div>
                         <div class="col-md-3">
                           <figure> <img alt="Uptown Magazine" src="/img/twiztedmyrtle/client-3.jpg"> </figure>
@@ -473,16 +473,16 @@ type = "page"
                     </div>
                     <div class="row">
                     <div class="col-md-3">
-                      <figure> <img alt="Valley India Times Magazine" src="/img/twiztedmyrtle/client-6.jpg"> </figure>
-                    </div>
-                    <div class="col-md-3">
                       <figure> <img alt="Phoenix Business Journal" src="/img/twiztedmyrtle/client-5.jpg"> </figure>
                     </div>
                     <div class="col-md-3">
-                      <figure> <img alt="SanTan Sun News" src="/img/twiztedmyrtle/client-7.jpg"> </figure>
+                      <figure> <img alt="She Knows Magazine" src="/img/twiztedmyrtle/client-4.jpg" draggable="false"> </figure>
                     </div>
                     <div class="col-md-3">
-                      <figure> <img alt="Arizona Foothills Magazine" src="/img/twiztedmyrtle/client-2.jpg"> </figure>
+                      <figure> <img alt="Univision" src="/img/twiztedmyrtle/client-8.jpg"> </figure>
+                    </div>
+                    <div class="col-md-3">
+                      <figure> <img alt="Heaven Art Gallery" src="/img/twiztedmyrtle/client-6.jpg"> </figure>
                     </div>
                   </div>
               </div>

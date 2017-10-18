@@ -9288,7 +9288,7 @@ h3+.breadcrumb-blog {
 .subfooter .widget_social ul.social-icons li a {
     line-height: 24px;
     height: 24px;
-    padding-right: 15px
+    // padding-right: 15px
 }
 
 .widget_calendar caption {
