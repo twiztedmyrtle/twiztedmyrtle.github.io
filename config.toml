@@ -47,7 +47,7 @@ paragraph = "Another fine responsive site template by <a href=\"http://html5up.n
 alt = "Twizted Myrtle"
 circle = false
 imperfect = true
-src = "/img/main/logo.jpg"
+src = "/twiztedmyrtle/img/main/logo.jpg"
 width = ""
 [params.postamount]
 sidebar = 50
