@@ -2,7 +2,7 @@ baseurl = "https://twiztedmyrtle.github.io/twiztedmyrtle/"
 languageCode = "en-us"
 theme = "hugo-future-imperfect"
 title = "Twizted Myrtle"
-uglyurls = false
+uglyurls = true
 [[menu.main]]
 name = "Contact"
 url = "/contact"
