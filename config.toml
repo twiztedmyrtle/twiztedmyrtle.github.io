@@ -1,4 +1,4 @@
-baseurl = "https://twiztedmyrtle.github.io/twiztedmyrtle/"
+baseurl = "https://twiztedmyrtle.github.io/"
 languageCode = "en-us"
 theme = "hugo-future-imperfect"
 title = "Twizted Myrtle"
