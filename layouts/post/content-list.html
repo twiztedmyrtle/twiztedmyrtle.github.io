@@ -1,0 +1,15 @@
+<article class="post flex-50">
+    {{ .Render "featured" }}
+    {{ .Render "header" }}
+    {{ with .Description }}
+        <p>{{ . }}</p>
+    {{ end }}
+    <div class="post-body">
+      <a href="{{ .Permalink }}" class="black-text"><p>{{ slicestr .Summary 0 200 | markdownify }}...</p></a>
+    </div>
+
+    <!-- <footer class="small-screen-center post-more"> -->
+      <!-- <a href="{{ .Permalink }}" class="post-more-link btn btn-primary">read more</a> -->
+        <!-- {{ .Render "footer-category" }} -->
+    <!-- </footer> -->
+</article>
