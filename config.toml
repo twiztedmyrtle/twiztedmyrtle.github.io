@@ -1,0 +1,93 @@
+baseurl = "https://twiztedmyrtle.github.io/"
+languageCode = "en-us"
+theme = "hugo-future-imperfect"
+title = "Twizted Myrtle"
+uglyurls = true
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 6
+[[menu.main]]
+name = "Scars Project"
+url = "/scars-project"
+weight = 5
+[[menu.main]]
+name = "Podcast"
+url = "/podcast"
+weight = 4
+[[menu.main]]
+identifier = "fa fa-newspaper-o"
+name = "Chitchat"
+url = "/blog"
+weight = 3
+[[menu.main]]
+name = "Gallery"
+url = "http://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw"
+weight = 2
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 1
+[params]
+authorname = "Asha Wadher"
+categoriesbycount = true
+description = "Twisted Myrtle mirrors the journey of life perfectly, which is what I am trying to capture and challenge through my creative works. And its zen like qualities that evoke sentiments of peace and freedom are ultimately the perfect name for this beautiful journey."
+faviconversion = ""
+includereadingtime = true
+loadfavicon = true
+navbartitle = "TwiztedMyrtle"
+socialappearatbottom = true
+socialappearattop = true
+viewmorepostlink = "/blog.html"
+[params.intro]
+about = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+header = "Twizted Myrtle"
+paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+[params.intro.pic]
+alt = "Twizted Myrtle"
+circle = false
+imperfect = true
+src = "/img/main/logo.jpg"
+width = ""
+[params.postamount]
+sidebar = 50
+[permalinks]
+blog = "blog/:slug.html"
+disqusShortname = "twiztedmyrtle1"
+googleAnalytics = "UA-48283949-1"
+paginate = 3
+podcast = "podcast/:title.html"
+preserveTaxonomyNames = true
+[social]
+behance = ""
+bitbucket = ""
+codepen = ""
+deviantart = ""
+dribbble = ""
+email = ""
+facebook = "twiztedmyrtle"
+facebook_admin = ""
+flickr = ""
+foursquare = ""
+github = ""
+googleplus = ""
+instagram = "twiztedmyrtle"
+jsfiddle = ""
+linkedin = ""
+medium = "twiztedmyrtle"
+pinterest = ""
+reddit = ""
+slideshare = ""
+stackoverflow = ""
+tumblr = ""
+twitter = "twiztedmyrtle"
+twitter_domain = ""
+vimeo = ""
+vine = ""
+wordpress = ""
+xing = ""
+youtube = "twiztedmyrtle"
+[taxonomies]
+category = "categories"
+podcast = "podcasts"
+tag = "tags"
