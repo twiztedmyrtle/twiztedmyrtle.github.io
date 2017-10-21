@@ -40,14 +40,14 @@ socialappearatbottom = true
 socialappearattop = true
 viewmorepostlink = "/blog.html"
 [params.intro]
-about = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+about = "Twisted Myrtle mirrors the journey of life perfectly, which is what I am trying to capture and challenge through my creative works. And its zen like qualities that evoke sentiments of peace and freedom are ultimately the perfect name for this beautiful journey."
 header = "Twizted Myrtle"
-paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+paragraph = "Twisted Myrtle mirrors the journey of life perfectly, which is what I am trying to capture and challenge through my creative works. And its zen like qualities that evoke sentiments of peace and freedom are ultimately the perfect name for this beautiful journey."
 [params.intro.pic]
 alt = "Twizted Myrtle"
 circle = false
 imperfect = true
-src = "/img/main/logo.jpg"
+src = "/img/logo.svg"
 width = ""
 [params.postamount]
 sidebar = 50
