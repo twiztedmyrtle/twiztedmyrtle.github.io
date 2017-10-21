@@ -38,7 +38,7 @@ loadfavicon = true
 navbartitle = "TwiztedMyrtle"
 socialappearatbottom = true
 socialappearattop = true
-viewmorepostlink = "/blog.html"
+viewmorepostlink = "/blog"
 [params.intro]
 about = "Twisted Myrtle mirrors the journey of life perfectly, which is what I am trying to capture and challenge through my creative works. And its zen like qualities that evoke sentiments of peace and freedom are ultimately the perfect name for this beautiful journey."
 header = "Twizted Myrtle"
