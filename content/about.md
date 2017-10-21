@@ -452,20 +452,20 @@ type = "page"
       <div class="container-fullwidth">
           <div class="row">
               <div class="col-md-12">
-                  <h1 class="text-center element-top-70 element-bottom-70 os-animation super animated fadeIn" data-os-animation="fadeIn" data-os-animation-delay="0s" style="animation-delay: 0s;">Validation by Society</h1>
+                  <h1 class="text-center element-top-70 element-bottom-30 os-animation super animated fadeIn" data-os-animation="fadeIn" data-os-animation-delay="0s" style="animation-delay: 0s;">Validation by Society</h1>
                   </div>
               </div>
-              <div class="row">
+              <div class="row element-bottom-70">
                 <div class="col-md-10 col-md-offset-1">
                     <div class="row">
                         <div class="col-md-3">
-                          <figure> <img alt="Modern Luxury Scottsdale" src="/img/twiztedmyrtle/client-1.jpg"> </figure>
+                          <figure> <img alt="Modern Luxury Scottsdale" src="/img/twiztedmyrtle/client-1.jpg" style="opacity: .3"> </figure>
                         </div>
                         <div class="col-md-3">
-                          <figure> <img alt="Arizona Foothills Magazine" src="/img/twiztedmyrtle/client-2.jpg"> </figure>
+                          <figure> <img alt="Arizona Foothills Magazine" src="/img/twiztedmyrtle/client-2.jpg" style="opacity: .5"> </figure>
                         </div>
                         <div class="col-md-3">
-                          <figure> <img alt="SanTan Sun News" src="/img/twiztedmyrtle/client-7.jpg"> </figure>
+                          <figure> <img alt="SanTan Sun News" src="/img/twiztedmyrtle/client-7.jpg" style="opacity: .5"> </figure>
                         </div>
                         <div class="col-md-3">
                           <figure> <img alt="Uptown Magazine" src="/img/twiztedmyrtle/client-3.jpg"> </figure>
@@ -473,16 +473,16 @@ type = "page"
                     </div>
                     <div class="row">
                     <div class="col-md-3">
-                      <figure> <img alt="Phoenix Business Journal" src="/img/twiztedmyrtle/client-5.jpg"> </figure>
+                      <figure> <img alt="Phoenix Business Journal" src="/img/twiztedmyrtle/client-5.jpg" style="opacity: .4"> </figure>
                     </div>
                     <div class="col-md-3">
-                      <figure> <img alt="She Knows Magazine" src="/img/twiztedmyrtle/client-4.jpg" draggable="false"> </figure>
+                      <figure> <img alt="She Knows Magazine" src="/img/twiztedmyrtle/client-4.jpg" style="opacity: .8" draggable="false"> </figure>
                     </div>
                     <div class="col-md-3">
-                      <figure> <img alt="Univision" src="/img/twiztedmyrtle/client-8.jpg"> </figure>
+                      <figure> <img alt="Univision" src="/img/twiztedmyrtle/client-8.jpg" style="opacity: .7"> </figure>
                     </div>
                     <div class="col-md-3">
-                      <figure> <img alt="Heaven Art Gallery" src="/img/twiztedmyrtle/client-6.jpg"> </figure>
+                      <figure> <img alt="Heaven Art Gallery" src="/img/twiztedmyrtle/client-6.jpg" style="opacity: .5"> </figure>
                     </div>
                   </div>
               </div>

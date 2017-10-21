@@ -15,7 +15,7 @@ type = "page"
     <section class="section">
         <div class="background-media" data-0-top-bottom="background-position: 50% 50px" data-start="background-position: 50% -31px" style="background-image: url(/img/twiztedmyrtle/scars-1.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:cover; background-position: 50% 0%;">
         </div>
-        <div class="background-overlay" style="background-color: rgba(86,180,151,0.2);"></div>
+        <div class="background-overlay" style="background-color: rgba(255,255,255,0.2);"></div>
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
@@ -35,7 +35,7 @@ type = "page"
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-md-offset-2">
+                <div class="col-md-10 col-md-offset-1">
                     <div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
                         <h1 class="super text-italic">Empowering Scars</h1> </div>
                     <div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">

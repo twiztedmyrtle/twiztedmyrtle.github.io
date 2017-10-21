@@ -16,7 +16,7 @@ type = "page"
 		<div class="container-fullwidth">
 		<div class="row">
 		  <div class="col-md-12">
-			<div class="flexslider" data-flex-directions="hide" data-flex-controlsposition="inside" id="about-slider" data-flex-animation="fade" style="height:480px;">
+			<div class="flexslider" data-flex-directions="hide" data-flex-controlsposition="inside" id="about-slider" data-flex-animation="fade" style="height:480px;" data-flex-speed="4000">
 			  <ul class="slides">
 				<li>
 				  <img src="/img/twiztedmyrtle/giving-back2.jpg">
@@ -110,7 +110,7 @@ type = "page"
 		<div class="container-fullwidth">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="text-center element-top-70 element-bottom-70 os-animation big animated fadeIn" data-os-animation="fadeIn" data-os-animation-delay="0s" style="animation-delay: 0s;">Other charities</h1>
+					<h1 class="text-center element-top-70 element-bottom-70 os-animation big animated fadeIn" data-os-animation="fadeIn" data-os-animation-delay="0s" style="animation-delay: 0s;">Find your thing</h1>
 					</div>
 				</div>
 				<div class="row element-left-30 element-bottom-70">

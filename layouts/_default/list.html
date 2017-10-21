@@ -8,7 +8,7 @@
             <section class="section">
                 <div class="background-media" data-0-top-bottom="background-position: 50% 50px" data-start="background-position: 50% -200px" style="background-image: url(/img/twiztedmyrtle/blog-bg.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:cover; background-position: 50% 0%;">
                 </div>
-                <div class="background-overlay" style="background-color: rgba(86,180,151,0.2);"></div>
+                <div class="background-overlay" style="background-color: rgba(255,255,255,0.2);"></div>
                 <div class="container">
                     <div class="divider-wrapper">
                         <div class="visible-xs element-height-100"></div>
@@ -84,7 +84,7 @@
                 <div class="container-fullwidth">
                     <div class="row">
                         <div class="col-md-10 col-md-offset-1">
-                            <div class="blog-list-layout-normal element-top-120">
+                            <div class="blog-list-layout-normal element-top-20">
                                 <!-- Please note that the param orderByPublishDate is no longer being used since the pagination is not what is expected. Use at your own risk! -->
                                 {{ if .Site.Params.orderByPublishDate }}
                                     {{ $paginator := .Paginate (where .Data.Pages.ByPublishDate.Reverse "Type" "post") }}

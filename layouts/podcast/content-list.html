@@ -4,7 +4,7 @@
     {{ with .Description }}
         <p>{{ . }}</p>
     {{ end }}
-    <div class="post-body">
+    <div class="post-body" style="font-size: .9em">
       <a href="{{ .Permalink }}" class="black-text"><p>{{ printf "%s" .Summary | markdownify }}</p></a>
     </div>
 

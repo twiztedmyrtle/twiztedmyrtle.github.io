@@ -13,11 +13,9 @@
 
     <footer>
         {{ .Render "footer-category" }}
-        {{ .Render "subscribe" }}
         {{ partial "share-menu" . }}
     </footer>
 </article>
-{{ .Render "prev-next" }}
 
 {{ if ne .Site.DisqusShortname "" }}
     {{ if not (in (printf "%#v" .Site.BaseURL) "localhost") }}

@@ -1,18 +1,43 @@
 <nav class="post-navigation" id="nav-below">
-  <ul class="pager">
+  <ul class="pager" style="margin-top: 0px; margin-bottom: 0px">
     {{ if .PrevInSection }}
         <!-- <li class="previous"><a href="{{ .PrevInSection.Permalink }}"
                 class="btn btn-primary btn-icon btn-sm btn-icon-left" rel="prev"> <i class="fa fa-angle-left"></i> {{ .PrevInSection.Title }}</a></li> -->
-        <li class="previous"><a href="{{ .PrevInSection.Permalink }}"
-                class="btn btn-primary btn-icon btn-sm btn-icon-left" rel="prev"> <i class="fa fa-angle-left"></i> Previous</a></li>
+        <li class="previous">
+          <a href="{{ .PrevInSection.Permalink }}" class="" style="background-image: url('')" rel="prev">
+            <span class="pager-nav-details">
+              <p>
+                <i class="fa fa-angle-left"></i>
+                PREVIOUS
+              </p>
+              <hr>
+              <h6 class="pager-title">
+                {{ .PrevInSection.Title }}
+              </h6>
+              <hr>
+
+            </span>
+          </a>
+        </li>
     {{ end }}
 
     {{ if .NextInSection }}
         <!-- <li class="next"><a href="{{ .NextInSection.Permalink }}"
                 class="btn btn-primary btn-icon btn-sm btn-icon-right" rel="next"> {{ .NextInSection.Title }} <i class="fa fa-angle-right"></i></a></li> -->
 
-        <li class="next"><a href="{{ .NextInSection.Permalink }}"
-                class="btn btn-primary btn-icon btn-sm btn-icon-right" rel="next"> Next <i class="fa fa-angle-right"></i></a></li>
+        <li class="next">
+          <a href="{{ .NextInSection.Permalink }}" class="active" style="background: #e9e9e9 url()" rel="next">
+            <span class="pager-nav-details active" style="height: 144px;">
+              <p>
+                NEXT
+                <i class="fa fa-angle-right"></i>
+              </p>
+              <hr>
+              <h6 class="pager-title">{{ .NextInSection.Title }}</h6>
+              <hr>
+            </span>
+          </a>
+        </li>
     {{ end }}
   </ul>
 </nav>
