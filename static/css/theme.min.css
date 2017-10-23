@@ -6417,16 +6417,17 @@ html[xmlns] .slides {
 .flex-direction-nav a {
     display: block;
     position: absolute;
-    font-size: 16px;
-    width: 24px;
-    height: 24px;
-    top: 50%;
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+    top: 80%;
     margin-top: -.5em;
     font-family: 'FontAwesome';
     text-align: center;
     vertical-align: middle;
-    line-height: 24px;
-    z-index: 3
+    line-height: 100px;
+    z-index: 3;
+    color: #c8bcb6 !important;
 }
 
 .flex-direction-nav a:before {

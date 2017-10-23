@@ -92,7 +92,7 @@ type = "page"
                     </div>
                     <p class="lead os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Art is about curiosity, exploration and creativity. Traditionalists impart wisdom and encourage you to adhere to the established rules, find your style and stick to it like rubber and glue. In other words, find your box within the box. Isn’t that the antithesis of what art is?
                     </p>
-                    <p class="element-bottom-30 lead class=" lead="" os-animation"="" data-os-animation="fadeIn" data-os-animation-delay="0.3s" "="">Art is about the <strong>art of seeing</strong>. When you let life unfold, without expectations or judgments, there are hidden moments within moments that unravel themselves. There is beauty in the strangest of places and smallest of things. There’s untold beauty in subjects that are easily overlooked, written off or deemed as imperfect. All creatures are beautiful, but not all see their beauty. </p>
+                    <p class="element-bottom-30 lead class=" lead="" os-animation"="" data-os-animation="fadeIn" data-os-animation-delay="0.3s" "="">Art is about the art of seeing. When you let life unfold, without expectations or judgments, there are hidden moments within moments that unravel themselves. There is beauty in the strangest of places and smallest of things. There’s untold beauty in subjects that are easily overlooked, written off or deemed as imperfect. All creatures are beautiful, but not all see their beauty. </p>
                     <p class="lead os-animation element-bottom-70" data-os-animation="fadeIn" data-os-animation-delay="0.3s">Art is about connection – primal bison, to glowing icebergs, to emerging agapanthus. They are different from us, and yet, one can see humanity in them, and them in us. We are interconnected. When the moment of magic happens, it’s inexplicable and transcendental. It’s spiritual intimacy of two souls. That’s a moment of twizted awakening! </p>
                 </div>
             </div>
@@ -125,31 +125,28 @@ type = "page"
             </div>
             </div>
             <div class="row">
-                <div class="col-md-8 col-md-offset-2">
+                <div class="col-md-10 col-md-offset-1">
                     <div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
                         <!-- <h1 class="super text-italic">Limited Edition Collection</h1> </div> -->
                     <div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
                     </div>
-                    <h1 class="text-center element-top-120 element-bottom-30 super">Choose Your Style</h1>
-                    <img src="/img/twiztedmyrtle/print-big.jpg" alt="">
-                    <h2>Acrylic</h2>
-                    <p class="" data-os-animation="fadeIn" data-os-animation-delay="0.3s">
-                       Twizted Signed Images are printed on award-winning archival Kodak Professional Endura Premier Metallic Paper and mounted to a 1/8" thick piece of framer's grade acrylic with a museum back and cleat mount. Images garner unparalleled dynamic quality and come to life as they interact with light, often appearing weightless; this premier printing medium provides amazing depth, unmatched detail, and ultimately, stunning results! It has a distinctive, modern and sensuous appeal for the discerning admirer. Ready to hang and make a statement that reflects your sentiments and style.
-                    </p>
-                    <img src="/img/twiztedmyrtle/Dibond.jpg" alt="">
-                    <h2>Di-Bond</h2>
-                    <p class="" data-os-animation="fadeIn" data-os-animation-delay="0.3s">
-                        Artwork is printed directly onto the brushed metal DiBond® surface which brings out a unique and textured look to Twizted Images. DiBond is a trade name for two thin sheets of aluminum (0.3mm) enclosing a polyethylene core. DiBond is 1/8" thick, lightweight but strong, and provides high resistance to weathering and corrosion for unsurpassed durability. In fact, many modern buildings and architectural accents are coated in this material. DiBond brushed aluminum prints are ready to hang and the perfect option for a clean and modern look.
-                    </p>
-                    <img src="/img/twiztedmyrtle/canvas.jpg" alt="">
-                    <h2>Canvas</h2>
-                    <p class="" data-os-animation="fadeIn" data-os-animation-delay="0.3s">
-                        Twizted Images come to life with this semi-gloss archival-rated custom canvas treatment. This classic material offers a unique texture while being lightweight. Printed with the latest in latex ink technology. Each canvas is hand-stretched across a 1.5" deep wooden frame (industry standard is 0.75") that gives the image that classic, gallery wrapped canvas look, and is carefully packaged. Ready to hang and add character to your room!
-                    </p>
-                    <h2>Prints</h2>
-                    <p class=" element-bottom-70" data-os-animation="fadeIn" data-os-animation-delay="0.3s">
-                        Photo Prints - Images are printed on high definition Fuji Lustre photo paper that is thick and professional grade with 100 year archival paper quality. The Fuji Lustre paper has a mild sheen that brings out color with little reflectivity. The commercial grade professional photo printers combined with the Fuji Lustre paper truly create gorgeous results with high levels of contrast. Images are printed and then trimmed with an extra 1/2" of white all around, providing freedom to frame and display the print with your personalized touch. Prints are ship rolled in a tube.
-                    </p>
+                    <h1 class="text-center element-top-10 element-bottom-30 super">Choose Your Style</h1>
+                    <div class="flexslider" data-flex-directions="show" data-flex-controlsposition="outside" id="prints-slider" data-flex-animation="fade" style="height:600px;" data-flex-speed="12000">
+                      <ul class="slides">
+                        <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
+                            <img src="/img/twiztedmyrtle/Acrylic-Option.jpg">
+                        </li>
+                        <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
+                            <img src="/img/twiztedmyrtle/Dibond-Option.jpg">
+                        </li>
+                        <li>
+                          <img src="/img/twiztedmyrtle/Canvas-Option.jpg">
+                        </li>
+                        <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
+                            <img src="/img/twiztedmyrtle/Prints-Option.jpg">
+                        </li>
+                      </ul>
+                    </div>
                 </div>
             </div>
             <div class="divider-wrapper">
