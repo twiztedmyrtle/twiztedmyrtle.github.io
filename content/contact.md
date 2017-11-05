@@ -44,7 +44,7 @@ type = "page"
       </select>
     </span> </span> &nbsp; Twizted!
             <br> My name is <span class="input text">
-     <input type="text" id="fname" name="first_name" placeholder="full name"/>
+     <input type="text" id="fname" name="first_name" placeholder="full name" required />
    </span>. I'm contacting you because <span id="motivation" class="input-container ext">
     <span class="placeholder">Yoda sent me</span>&nbsp;<span class="fa fa-angle-down"></span> <span class="input selectbox">
       <select class="fancy-select hidden" name="contacting because">
@@ -56,7 +56,7 @@ type = "page"
         <option value="I just dig your work">I just dig your work</option>
       </select>
     </span> </span>. You can write to me at <span class="input text">
-    <input type="text" id="email" name="email" placeholder="email address"/>
+    <input type="text" id="email" name="email" placeholder="email address" required/>
   </span>. I’m eager to talk to you about -
             <br>
             <textarea name="message" placeholder="what's on your mind" rows="4" cols="50"></textarea>

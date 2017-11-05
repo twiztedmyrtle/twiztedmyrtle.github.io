@@ -97,7 +97,7 @@ type = "page"
                 <div class="col-md-8 col-md-offset-2 col-xs-10 col-xs-offset-1 element-top-30">
                     <p>Asha was born in India, raised in Oman, and lived in London before settling in the U.S. Her multi-continent, multi-cultural, global experience was a clear predecessor that fed her insatiable curiosity – and the inspiration for her defining Twizted voice.</p>
                     <p> As a rare breed, she's truly mastered the art of metamorphosis in body, mind and soul. In her first adult incarnation she graduated Magna Cum Laude from ASU and pursued a thriving career in the hospitality industry. Then, she grew new wings. Ever intrepid and intrigued by the unknown, she launched and helped grow a thriving e-Commerce technology company with her brother, proving herself as an entrepreneur and demonstrating both the skills and resolve required of a woman intent on succeeding in a male-dominated industry.</p>
-                    <p> In 2014, she boldly stepped into uncharted territories again, starting a new venture, Twizted Myrtle, in pursuit of her undeniable thirst to confront and create consequential social change. Few understood why she would leave behind a burgeoning e-Commerce business that served marquee clients like Samsonite, Viacom, Red Bull, Taylor Swift, Miramax and other household names – all during the pinnacle of a successful career. </p>
+                    <p> In 2014, she boldly stepped into uncharted territories again, starting a new venture, Twizted Myrtle, in pursuit of her undeniable thirst to confront and create consequential social change. Few understood why she would leave behind a burgeoning e-Commerce business that served marquee clients like Samsonite, Viacom, T-Mobile, Red Bull, Taylor Swift and other household names – all during the pinnacle of a successful career. </p>
                     <p> The impetus for leaving the traditional business world for a less conventional path was intensely personal; a deafening voice and inimitable force inside her told Asha that she needed to contribute to the world in a very personal and life-changing way. Asha found herself in the throes of depression and new depths of loneliness. She was acutely aware her “success” was empty. Like many do, she had lost her soul in the daily grind of chasing unhappiness.</p>
                     <p> Ironically, during this time, her depression revealed spiritual clarity; it connected her to the struggles of others who face the same suffocating walls of relenting darkness. Photography became a sacred respite that unleashed a strident voice; like a caged tiger set free, she could never again return to the confined existence dictated by society.</p>
                     <p>Twizted Myrtle became the multi-pronged platform to confront social issues that we’ve been plagued with for centuries. To break free from these vicious circles, she challenges what we accept, without question, as “wisdom,” and our conventional way of thinking through artistic means – provocative writings, thought-jarring podcasts and captivating photography.</p>
@@ -145,8 +145,8 @@ type = "page"
                 <div class="col-md-6">
                     <div class="panel-group element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0s" id="accordion_653">
                         <div class="">
-                            <div class="panel-heading"> <a class="accordion-toggle accordion-heading" data-parent="#accordion_653" data-toggle="collapse" href="#q1">What’s stirring?</a> </div>
-                            <div class="panel-collapse collapse in" id="q1">
+                            <div class="panel-heading"> <a class="accordion-toggle accordion-heading collapsed" data-parent="#accordion_653" data-toggle="collapse" href="#q1">What’s stirring?</a> </div>
+                            <div class="panel-collapse collapse" id="q1">
                                 <div class="panel-body">
                                     <div class="col-text-1">
                                         <p>Pot, of course. We’re here to shake and stir our long-established ways of thinking through artistic mediums – writings, podcasts and photography. We’re here to unearth and talk about everything under the sun. We challenge and dare to redefine concepts like marriage, whore, tradition, honor, failure, gentleman and more. There will be no sacred cows. </p>
@@ -156,8 +156,8 @@ type = "page"
                             </div>
                         </div>
                         <div class="">
-                            <div class="panel-heading"> <a class="accordion-toggle accordion-heading collapsed" data-parent="#accordion_653" data-toggle="collapse" href="#q2">3 things people say that piss me off</a> </div>
-                            <div class="panel-collapse collapse" id="q2">
+                            <div class="panel-heading"> <a class="accordion-toggle accordion-heading" data-parent="#accordion_653" data-toggle="collapse" href="#q2">3 things people say that piss me off</a> </div>
+                            <div class="panel-collapse collapse in" id="q2">
                                 <div class="panel-body">
                                     <div class="col-text-1">
                                         <ul>
@@ -191,7 +191,7 @@ type = "page"
                             <div class="panel-collapse collapse" id="q5">
                                 <div class="panel-body">
                                     <div class="col-text-1">
-                                        <p>But it’s in my biology. I can’t help myself! <br><br>Try getting your knickers in a twist over things that really matter like rape, bullying, discrimination, animal cruelty, climate change and master manipulators that mindfuck you everyday without your knowledge or consent. Get offended about that, not the dreaded F word.</p>
+                                        <p>But it’s in my biology. I can’t help myself! <br>Try getting your knickers in a twist over things that really matter like rape, bullying, discrimination, animal cruelty, climate change and master manipulators that mindfuck you everyday without your knowledge or consent. Get offended about that, not the dreaded F word.</p>
                                     </div>
                                 </div>
                             </div>
@@ -339,7 +339,7 @@ type = "page"
                             id="q19">
                                 <div class="panel-body">
                                     <div class="col-text-1">
-                                        <p>Darth Vader (gotta have James Earl Jones’s voice), Gandhi, Obama, Jon Stewart, Ironman, Kevin Spacey, Ellen DeGeneres, Al Franken, Ali G, Steve Carell, Melissa McCarthy, Thor and Stephen Colbert. Promises to be an evening of ridiculous fun and mind-numbingly intellectually stimulating. </p>
+                                        <p>Darth Vader (gotta have James Earl Jones’s voice), Yoda, Gandhi, Obama, Stephen Colbert, Jon Stewart, Ironman, Melissa McCarthy, Al Franken, Ali G, Loki and Thor. Promises to be an evening of ridiculous fun and mind-numbingly intellectually stimulating. </p>
                                     </div>
                                 </div>
                             </div>
