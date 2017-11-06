@@ -22,6 +22,7 @@
                             </li>
                             <li>
                               <a data-iconcolor="#004879" href="https://instagram.com/twiztedmyrtle/" target="_social"> <i class="fa fa-2x fa-instagram"></i> </a>
+                              <img src="">
                             </li>
                             <!-- <li>
                               <a data-iconcolor="#E45135" href="https://plus.google.com/+AshaWadher/" target="_social"> <i class="fa fa-2x fa-google-plus"></i> </a>
@@ -60,13 +61,26 @@
         <!-- If the value "default" is passed into the param then we will first
              load the standard js files associated with the theme -->
         {{ if or (in ($.Scratch.Get "jsFiles") "default") (eq ($.Scratch.Get "jsFiles") false) }}
+            <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
             <script src="/js/jquery.min.js"></script>
             <script src="/js/skel.min.js"></script>
             <script src="/js/util.js"></script>
             <script src="/js/main.js"></script>
             <script src="/js/backToTop.js"></script>
             <script src="/js/highlight.pack.js"></script>
-            <script type="text/javascript">
+            <script src="/js/rev/jquery.themepunch.enablelog.js"></script>
+            <script src="/js/rev/jquery.themepunch.revolution.min.js"></script>
+            <script src="/js/rev/jquery.themepunch.tools.min.js"></script>
+            <script src="/js/rev/revolution.extension.actions.min.js"></script>
+            <script src="/js/rev/revolution.extension.carousel.min.js"></script>
+            <script src="/js/rev/revolution.extension.kenburn.min.js"></script>
+            <script src="/js/rev/revolution.extension.layeranimation.min.js"></script>
+            <script src="/js/rev/revolution.extension.migration.min.js"></script>
+            <script src="/js/rev/revolution.extension.navigation.min.js"></script>
+            <script src="/js/rev/revolution.extension.parallax.min.js"></script>
+            <script src="/js/rev/revolution.extension.slideanims.min.js"></script>
+            <script src="/js/rev/revolution.extension.video.min.js"></script>
+		    <script type="text/javascript">
                 var oxyThemeData = {
                     navbarHeight: 100,
                     navbarScrolled: 90,

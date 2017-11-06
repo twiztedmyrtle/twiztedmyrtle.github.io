@@ -8335,7 +8335,7 @@ h3+.breadcrumb-blog {
 }
 
 .post-head {
-    margin-bottom: 24px;
+    margin-bottom: 0px;
     position: relative
 }
 
@@ -8377,7 +8377,9 @@ h3+.breadcrumb-blog {
     padding-right: 0;
     border-right-width: 0
 }
-
+.post-body a p{
+    margin:0px !important;
+}
 .single-post .post-body+.post-details {
     margin: 36px 0;
     text-align: center
