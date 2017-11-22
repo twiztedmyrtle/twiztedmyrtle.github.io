@@ -5,11 +5,12 @@
         {{ $.Scratch.Set "structType" "page" }}
         {{ partial "mp3-path" . }}
         {{ $path := $.Scratch.Get "path" }}
+
         <div class="post-media">
           <div class="figure fade-in text-center figcaption-middle">
-             <a href="{{ $path }}/{{ .Params.mediamp3 }}" target="_blank">Listen to Show</a>
+             <a href="{{ $path }}/{{ .Params.mediamp3 }}">abc</a>
 
-            <a href="{{ $path }}/{{ .Params.mediamp3 }}" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
+            <a href="{{ $path }}/{{ .Params.mediamp3 }}"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
             <!-- <a href="{{ .Permalink }}" class="image featured">
             <img src="{{ $path }}/{{ .Params.featured }}" alt="{{ .Params.featuredalt }}" />
             <div class="figure-overlay">

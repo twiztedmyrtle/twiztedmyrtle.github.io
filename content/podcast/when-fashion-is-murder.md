@@ -20,7 +20,8 @@ Christina Sewell, Fashion Campaign Coordinator at <a target="_blank" href="http:
 
  <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep26_Christina_Sewell_Peta_Murder_for_Fashion_Vegan_Clothing.mp3" target="_blank">Listen to Show</a>
 
-<a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep26_Christina_Sewell_Peta_Murder_for_Fashion_Vegan_Clothing.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
+<!--a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep26_Christina_Sewell_Peta_Murder_for_Fashion_Vegan_Clothing.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a-->
+<audio src="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep26_Christina_Sewell_Peta_Murder_for_Fashion_Vegan_Clothing.mp3"></audio>
 
 <p style="margin-bottom: 0em;">Resources -</p>
 

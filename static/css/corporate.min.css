@@ -1534,6 +1534,7 @@ input[type="button"] {
   min-height: 1px;
   padding-left: 15px;
   padding-right: 15px;
+  
 }
 
 .pager>li>a i {
@@ -1562,7 +1563,7 @@ input[type="button"] {
 }
 
 .pager>li:active .pager-nav-details, .pager>li:hover .pager-nav-details {
-    height: 144px;
+    height: auto;
 }
 
 .pager p {
