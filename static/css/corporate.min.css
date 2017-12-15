@@ -1568,13 +1568,13 @@ input[type="button"] {
     left: 50%;
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
-    background: #459c81;
+    background: rgba(69, 156, 129, .7);
     padding: 10px 20px;
     height: 34px;
     overflow: hidden;
     transition: all .3s ease-out;
-    min-width: 80%;
-    max-width: 80%;
+    min-width: 50%;
+    max-width: 60%;
 }
 
 .pager>li:active .pager-nav-details, .pager>li:hover .pager-nav-details {
