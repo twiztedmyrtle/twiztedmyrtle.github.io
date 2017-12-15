@@ -11,7 +11,7 @@ title = "Going against the grain"
 type = "post"
 
 +++
-I'm not a big foodie, but holy cowabunga! <a href="http://grilledcheesegrill.com/" target="_blank">Grilled Cheese Grill</a> in Portland, was THAT bloody good. If you've never experienced food orgasms, then add this to your list in a hurry. Every bite was a bite of heaven.<!--more--> During my first visit, I was impressed with the entire set up, the little details and the experience.
+<p>I'm not a big foodie, but holy cowabunga! <a href="http://grilledcheesegrill.com/" target="_blank">Grilled Cheese Grill</a> in Portland, was THAT bloody good. If you've never experienced food orgasms, then add this to your list in a hurry. Every bite was a bite of heaven.  During my first visit, I was impressed with the entire set up, the little details and the experience.</p>
 
 A silver bullet shaped trailer was transformed into a mobile kitchen. A vintage school bus was retrofitted to become a creative, fun and whimsical dining area, in addition to the picnic tables. The bus was designed to make you feel like a kid again. Hence their motto – "Come by for a taste of childhood. Unless your childhood sucked, then we'll let ya have a taste of ours." The menu was simple, colorful in the right amount and sprinkled with humor; the variety and creative combinations made you feel hungrier by the second. The staff was warm, friendly and had the famous Portland "weird" look.
 

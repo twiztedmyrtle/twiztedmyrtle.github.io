@@ -6982,12 +6982,13 @@ body[class*="oxy-agent-"] .mejs-overlay-play {
 }
 
 .mejs-audio {
-    height: 36px!important
+    height: 60px!important;
+    margin-bottom: 30px;
 }
 
 .mejs-audio .mejs-controls {
     background: none!important;
-    height: 32px!important
+    height: 43px!important
 }
 
 .mejs-controls .mejs-button button:focus {

@@ -10,11 +10,8 @@ linktitle = ""
 title = "How to stop living in fear? - Joe Bailey, psychologist, author and speaker"
 
 +++
+<audio src="https://s3.amazonaws.com/twizted/static/assets/podcast/Ep11_JoeBailey_Fearproof_Your_Life_.mp3"></audio>
 Do you live everyday in fear and anxiety? Does media play a role in the fear with which we live our lives? ISIS. Ebola. Earthquake … the list goes on. How about living in fear due to our own personal experiences and thoughts? Or Donald Trump (and Cruz)? Joe Bailey, psychologist, author and speaker, discuss where fear comes from, why we respond to it and how we can fearproof our lives.
-
-<a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode12_Fearproof_Your_Life_Joe_Bailey.mp3" target="_blank">Listen to Show</a>
-
-<a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode12_Fearproof_Your_Life_Joe_Bailey.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
 
 
 

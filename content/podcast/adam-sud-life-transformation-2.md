@@ -10,11 +10,8 @@ linktitle = ""
 title = "Pt 2 - Adam Sud, Former Addict's Perspective on How to Get Through to an Addict and The War on Drugs"
 
 +++
+<audio src="https://s3.amazonaws.com/twizted/static/assets/podcast/Ep22_Adam_Sud_Addicts_Perspective_How_To_Talk_To_An-Addict_Decriminalize_Drugs.mp3"></audio>
 Adam Sud is the son of one of the founding investors of Whole Foods. Despite having all the right ingredients in life, Adam’s life was on the fastest route to self destruction. But Adam took charge and reversed his Type 2 Diabetes, lost 150lbs, kicked his addiction to Adderall and Food …  and transformed his life … physically, as well as emotionally. In our last episode, Adam shared the journey of his transformation and what he lost. Today, we find out what he gained. Adam knows the power of words. They can be destructive or inspirational. Often we are unable to get through to our loved ones when they need help as they destroy their lives through addiction. How can we effectively communicate and use the power of words to get through to them? Having been an addict, what does Adam think the solution should be to drugs? ​
-
- <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep22_Adam_Sud_Addicts_Perspective_How_To_Talk_To_An-Addict_Decriminalize_Drugs.mp3" target="_blank">Listen to Show</a>
-
-<a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep22_Adam_Sud_Addicts_Perspective_How_To_Talk_To_An-Addict_Decriminalize_Drugs.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
 
 
 

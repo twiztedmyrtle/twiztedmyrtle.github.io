@@ -10,11 +10,8 @@ linktitle = ""
 title = "How do you know you’re gay?"
 
 +++
+<audio src="https://s3.amazonaws.com/twizted/static/assets/podcast/Ep03_JeffreyHattrick_BeingGay.mp3"></audio>
 Jeffrey Hattrick was born in a conservative Catholic family. He found himself attracted to men. Oh Boy! So how did his parents react when a love letter he wrote to his man crush fell out of his bag? How did he handle being shoved in trash cans in school? Is it okay to call someone gay, queer or fag? Do gay people have the desire to have children? How do gay people have sex? Jeffrey openly shares his experiences and insights into what it’s like being gay.
-
-<a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode3_Jeffrey_Hattrick_BeingGay.mp3" target="_blank">Listen to Show</a>
-
-<a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode3_Jeffrey_Hattrick_BeingGay.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
 
 
 

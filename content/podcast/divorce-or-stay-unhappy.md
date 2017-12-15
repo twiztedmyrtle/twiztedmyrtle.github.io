@@ -10,12 +10,8 @@ linktitle = ""
 title = "Divorce or Stay Unhappily Married for Kids, Society and Culture?"
 
 +++
+<audio src="https://s3.amazonaws.com/twizted/static/assets/podcast/Ep14_NitinGupta_Divorce.mp3"></audio>
 How many unhappy people do you know that stay married for the sake of their kids? Or because even thinking of divorce is taboo in your culture? Should you dare? Does divorce make you a selfish person? Nitin, Indian, was married for 18 years. He shares what he experienced in his marriage, why he considered divorce and how that has impacted his son.
-
- <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep14_NitinGupta_Divorce.mp3" target="_blank">Listen to Show</a>
-
-<a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep14_NitinGupta_Divorce.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
-
 
 
 <p style="margin-bottom: 0em;">Resources -</p>

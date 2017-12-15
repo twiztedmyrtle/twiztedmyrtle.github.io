@@ -10,11 +10,8 @@ linktitle = ""
 title = "Why Do Pakistanis and Indians hate each other?"
 
 +++
+<audio src="https://s3.amazonaws.com/twizted/static/assets/podcast/Ep10_Mustapha_Pakistan_India_Hatred.mp3"></audio>
 Why do Pakistanis and Indians hate each other? How does a child pick up on these social and historical cues? Personally, I hated Pakistanis as I was growing up. Do we have good reason to hate each other? What role does Patriotism and cricket play in fueling this hatred? Mustapha, Pakistani, who married an Indian girl, shares his experiences and insight into this issue.
-
-<a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode11_Mustapha_Why_Pakistan_India_Hate_Relationship.mp3" target="_blank">Listen to Show</a>
-
-<a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode11_Mustapha_Why_Pakistan_India_Hate_Relationship.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
 
 
 

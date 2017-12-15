@@ -11,7 +11,7 @@ title = "A Majestic Close Encounter"
 type = "post"
 
 +++
-Whales are majestic creatures that symbolize freedom. They can make hearts palpitate with giddiness and excitement like teenage romance. So imagine the inner screams when the Captain radioed our Zodiac driver<!--more-->, Christophe, that there is a whale by the ship and is putting on quite the show. Okay, let's back up a little.
+Whales are majestic creatures that symbolize freedom. They can make hearts palpitate with giddiness and excitement like teenage romance. So imagine the inner screams when the Captain radioed our Zodiac driver , Christophe, that there is a whale by the ship and is putting on quite the show. Okay, let's back up a little.
 
 Few weeks' back, I was on a photo tour in Svalbard, 79 degrees north in the Arctic. My fellow photographers and I were on a zodiac, cruising around the mesmerizing blue glaciers while in search for polar bears. We had scoped the place out pretty well and realized that we were not going on a date with the polar bears today. And that's when the Captain radioed us!
 

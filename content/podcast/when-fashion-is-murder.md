@@ -10,6 +10,7 @@ linktitle = ""
 title = "When Fashion Is Murder"
 
 +++
+<audio src="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep26_Christina_Sewell_Peta_Murder_for_Fashion_Vegan_Clothing.mp3"></audio>
 Compassionate or Murderer - What statement do your fashion choices make about you?
 
 Our desire for comfort and to look cool in fur coats, leather handbags and snakeskin shoes comes at an unthinkable price; cows, dogs and cats are amongst the many animals that are subjected to heart wrenching cruelty. How is that cool? What really happens behind the scenes? How can India be the biggest supplier of cows for the leather industry when they consider cows to be sacred?
@@ -21,7 +22,7 @@ Christina Sewell, Fashion Campaign Coordinator at <a target="_blank" href="http:
  <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep26_Christina_Sewell_Peta_Murder_for_Fashion_Vegan_Clothing.mp3" target="_blank">Listen to Show</a>
 
 <!--a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep26_Christina_Sewell_Peta_Murder_for_Fashion_Vegan_Clothing.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a-->
-<audio src="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep26_Christina_Sewell_Peta_Murder_for_Fashion_Vegan_Clothing.mp3"></audio>
+
 
 <p style="margin-bottom: 0em;">Resources -</p>
 

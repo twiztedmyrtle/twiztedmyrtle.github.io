@@ -11,7 +11,7 @@ title = "Twizted New Year"
 type = "post"
 
 +++
-Every year we wish for peace and happiness. So why have we not attained it yet? We can achieve the unthinkable like landing man on the moon when we have collective undeterred resolve. And yet, peace continues to evade us.<!--more-->
+Every year we wish for peace and happiness. So why have we not attained it yet? We can achieve the unthinkable like landing man on the moon when we have collective undeterred resolve. And yet, peace continues to evade us.
 
 Truthfully, we haven’t attained peace in this world because we don’t <strong><i>really</i></strong> want it that badly; it’s a nice to have, not a want to have. And there is a fundamental issue in our vision for peace. We feel that we will only have peace on this planet when everyone does what we want them to do, and believe in what we believe. Do you see how asinine and comical our vision is?
 

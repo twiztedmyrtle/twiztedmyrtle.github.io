@@ -11,7 +11,7 @@ title = "Magical Islands in Phuket"
 type = "post"
 
 +++
-The <a href="http://www.johngray-seacanoe.com/index.php" target="_blank">John Gray Sea Canoe</a> tour in Phuket, Thailand, took me by surprise. I expected to see some cool sea caves, hundreds of bats huddled at the top of the cave ceilings, enjoy a little kayaking, appreciate nature's beauty<!--more-->, take a few photos to remember the day and head back to the hotel. While all that came true, we experienced something so much more magical than that.
+The <a href="http://www.johngray-seacanoe.com/index.php" target="_blank">John Gray Sea Canoe</a> tour in Phuket, Thailand, took me by surprise. I expected to see some cool sea caves, hundreds of bats huddled at the top of the cave ceilings, enjoy a little kayaking, appreciate nature's beauty , take a few photos to remember the day and head back to the hotel. While all that came true, we experienced something so much more magical than that.
 
 During our boat ride to Phang Nga, one couldn't help but be in awe of the spectacular and pure beauty of the islands. I was convinced for a moment that the creators of the movie Avatar were inspired by Thailand. It felt as though they simply replicated this picturesque landscape of hundreds of islands; the only difference being, they suspended these islands in air.
 

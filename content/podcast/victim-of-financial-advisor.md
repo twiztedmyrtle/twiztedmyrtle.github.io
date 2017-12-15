@@ -10,11 +10,12 @@ linktitle = ""
 title = "How NOT to become a victim to your financial advisor with Tigran"
 
 +++
+<audio src="https://s3.amazonaws.com/twizted/static/assets/podcast/Twizted_Myrtle_Tigran_Ep9.mp3"></audio>
 Ever had a bad experience with a financial advisor or know someone who did? Are you afraid of being a victim to these shady advisors? My financial advisor, and friend, certainly helped me lose thousands of dollars. Sadly, this is a fairly common occurrence. Are you trying to get back in the game, but don't know how? Tigran from Hatton Consulting shares insights into the financial industry so you can avoid the pitfalls and get back in the game.
 
-<a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode9_Tigran_Part1.mp3" target="_blank">Listen to Show</a>
+<!-- <a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode9_Tigran_Part1.mp3" target="_blank">Listen to Show</a>
 
-<a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode9_Tigran_Part1.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
+<a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode9_Tigran_Part1.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a> -->
 
 <p style="margin-bottom: 0em;">Resources -</p>
 

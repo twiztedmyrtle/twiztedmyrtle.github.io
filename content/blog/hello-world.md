@@ -11,7 +11,7 @@ title = "Hello world!"
 type = "post"
 
 +++
-Photography is so much about perspective. Photos convey one aspect of the truth, but not always the entire truth or reality. There just may be another side to the story. <!--more--> As I have discovered this through my photography, I have fallen in love with this art even more.
+Photography is so much about perspective. Photos convey one aspect of the truth, but not always the entire truth or reality. There just may be another side to the story.   As I have discovered this through my photography, I have fallen in love with this art even more.
 
 I hope to share with you the inside scoop, fun travel stories, my sentiments, ask questions and challenge our thoughts in pursuit of greater understanding and truth. I am excited about exploring the world we live in together with you.
 

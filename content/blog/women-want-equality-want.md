@@ -11,7 +11,7 @@ title = "Women want equality. But only when we want it."
 type = "post"
 
 +++
-Consider a business lunch meeting, date night or just hanging out with friends. Waiter brings the check and typically drops it off closer to the man. Ignoring that gender bias for a hot second, who do you think should pay?<!--more-->
+Consider a business lunch meeting, date night or just hanging out with friends. Waiter brings the check and typically drops it off closer to the man. Ignoring that gender bias for a hot second, who do you think should pay?
 
 Do we really want equality? Or do we want equality just when it suits us? Currently, it's the latter. And that's just not cool. We explore seven (7) reasons why it is REALLY, REALLY important for women to start picking up the tab.
 

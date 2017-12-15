@@ -5,7 +5,7 @@
         <p>{{ . }}</p>
     {{ end }}
     <div class="post-body" style="font-size: .9em">
-      <a href="{{ .Permalink }}" class="black-text"><p>{{ printf "%s" .Summary | markdownify }}</p></a>
+      <a href="{{ .Permalink }}" class="black-text"><p>{{ slicestr .Summary 0 200 }}...</p></a>
     </div>
 
     <!-- <footer class="small-screen-center post-more"> -->

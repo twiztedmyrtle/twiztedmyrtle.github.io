@@ -10,11 +10,10 @@ linktitle = ""
 title = "Pratham USA, Breaking The Cycle of Poverty and Illiteracy in India"
 
 +++
+<audio src="https://s3.amazonaws.com/twizted/static/assets/podcast/Ep16_AmitShah_PrathamUSA.mp3"></audio>
+
 Meet Amit Shah. Education and poverty strike a very personal chord for him. His passion for education turned into action when he got involved with Pratham USA, as a Board Member. Pratham is a non profit organization that strives to educate 200 million children in India that currently cannot read or write. How is that even possible when India boasts 96% enrollment of children in schools? Amit shares his experiences and insights in the lives of some of the children from low income families – what their daily lives look like, daily struggles, their dreams and aspirations. We dive into the cultural, political and economic barriers in India, and learn about how Pratham is making great strides in helping to break the cycle of poverty and illiteracy.
 
- <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep16_AmitShah_PrathamUSA.mp3" target="_blank">Listen to Show</a>
-
-<a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep16_AmitShah_PrathamUSA.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
 
 
 

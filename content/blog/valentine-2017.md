@@ -11,7 +11,7 @@ title = "You Complete Me"
 type = "post"
 
 +++
-Romantic words that make your heart flutter, and arguably, the biggest crock of shit ever vocalized as the Holy Grail in the name of love! So what do these words really mean? Let the indulgence begin …<!--more-->
+Romantic words that make your heart flutter, and arguably, the biggest crock of shit ever vocalized as the Holy Grail in the name of love! So what do these words really mean? Let the indulgence begin …
 
 <br>
 

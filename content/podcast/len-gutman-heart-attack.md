@@ -10,12 +10,8 @@ linktitle = ""
 title = "How Len’s heart attack “woke” him up from a life of quiet desperation"
 
 +++
+<audio src="https://s3.amazonaws.com/twizted/static/assets/podcast/Ep02_LenGutman_HeartAttack.mp3"></audio>
 Are you living a life of quiet desperation? You know you’re not happy, but don’t know how to get out of it? Len Gutman knows what that’s like. It took a heart attack to wake him up and change the course of his life. His journey led him to discovering true happiness.
-
-Here’s how he did it - <a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode2_Len_Gutman_Final6.mp3" target="_blank">Listen to Show</a>
-
-<a href="http://doublewidenetwork.s3.amazonaws.com/twizted_myrtle/Twizted_Myrtle_Episode2_Len_Gutman_Final6.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
-
 
 
 <p style="margin-bottom: 0em;">Resources -</p>

@@ -10,11 +10,8 @@ linktitle = ""
 title = "The Real Truth Behind Men, Sex and How They Think"
 
 +++
+<audio src="https://s3.amazonaws.com/twizted/static/assets/podcast/Ep17_VinceKelvin_PickUpArtist.mp3"></audio>
 Vince Kelvin is a famous seduction coach. As a pick up artist, he teaches men how to seduce women and get them in the sack. Sickening, right? Or so it would seem at first glance. Vince opens up about his own personal journey into how be became a pick up artist. His "artistry" was featured in Lisa Ling's documentary "This Is Life" on CNN. How does he feel about love, marriage and relationships? He shares candidly about how men think, and WHY. Where do men’s insecurities come from? Why are they so focused on sex? What does honesty mean to a man? Sit tight and buckle your seat belts for a surprising ride.
-
- <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep17_VinceKelvin_PickUpArtist.mp3" target="_blank">Listen to Show</a>
-
-<a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep17_VinceKelvin_PickUpArtist.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a>
 
 
 
