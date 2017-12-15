@@ -4,30 +4,30 @@ theme = "hugo-future-imperfect"
 title = "Twizted Myrtle"
 uglyurls = true
 [[menu.main]]
-name = "Contact"
-url = "/contact"
-weight = 6
+name = "About"
+url = "/about"
+weight = 1
 [[menu.main]]
-name = "Scars Project"
-url = "/scars-project"
-weight = 5
-[[menu.main]]
-name = "Podcast"
-url = "/podcast"
-weight = 4
+name = "Gallery"
+url = "http://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw"
+weight = 2
 [[menu.main]]
 identifier = "fa fa-newspaper-o"
 name = "Chitchat"
 url = "/blog"
 weight = 3
 [[menu.main]]
-name = "Gallery"
-url = "http://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw"
-weight = 2
+name = "Podcast"
+url = "/podcast"
+weight = 4
 [[menu.main]]
-name = "About"
-url = "/about"
-weight = 1
+name = "Scars Project"
+url = "/scars-project"
+weight = 5
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 6
 [params]
 authorname = "Asha Wadher"
 categoriesbycount = true
