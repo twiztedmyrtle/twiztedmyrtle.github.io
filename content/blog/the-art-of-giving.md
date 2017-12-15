@@ -26,7 +26,7 @@ essence, the gift is about our needs and our desires.
 
 Such sentiments showcase we are “giving” with expectations attached to them, without awareness or consent by the recipient. The recipient did not agree that in exchange for the watch, they must remember our birthday every year and also do something to make us feel special. They did not agree to any form of exchange; that’s why it’s a gift!
 
-<img class="2x" src="{% static '/img/twiztedmyrtle/blog/sheldon-quote.jpg' %}"/>
+<img class="2x" src="/img/twiztedmyrtle/blog/sheldon-quote.jpg"/>
 
 
 These everyday scenarios are analogous to us holding the recipient accountable
