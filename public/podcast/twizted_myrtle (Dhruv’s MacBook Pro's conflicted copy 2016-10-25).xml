@@ -1,0 +1,462 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>Myrtle Productions</title>
+        <link> http://twiztedmyrtle.com/
+        </link>
+        <language>en-us</language>
+        <copyright>Myrtle Productions LLC</copyright>
+        <description>
+            Twizted Myrtle believes in challenging our thoughts, beliefs and judgments. We engage in thought provoking conversations with raw honesty on a host of issues most would fear to tread. You may get angry. You may get sad. Or you may get inspired. What you do with these emotions and new perspectives is up to you. Join us to discover your power, transform your life and LIVE again!
+        </description>
+        <atom:link href="http://artist.twiztedmyrtle.com/static/assets/podcast/twizted_myrtle.xml" rel="self" type="application/rss+xml" />
+        <itunes:author>Twizted</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:new-feed-url>
+            http://artist.twiztedmyrtle.com/static/assets/podcast/twizted_myrtle.xml
+        </itunes:new-feed-url>
+        <itunes:owner>
+            <itunes:name>Myrtle Productions</itunes:name>
+            <itunes:email>asha@twiztedmyrtle.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+        <image>
+            <url>
+                http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg
+            </url>
+            <title>Myrtle Productions</title>
+            <link> http://twiztedmyrtle.com/
+            </link>
+        </image>
+		<itunes:category text="Society &amp; Culture">
+			<itunes:category text="Philosophy"/>
+		</itunes:category>
+		<itunes:category text="Health">
+			<itunes:category text="Self-Help"/>
+		</itunes:category>
+		<itunes:category text="Business">
+		</itunes:category>
+        <item>
+            <title>
+                To Legalize or Not to Legalize Marijuana, with Doug Coleman, Special Agent at Drug Enforcement Agency
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Doug Coleman is a 25-year veteran and Special Agent for DEA, in charge of the Phoenix Field Division, and Michael Pooley, Metro Operations Lieutenant for Tempe Police Department. As a border state, Arizona plays a vital role in the infiltration and distribution of drugs to the rest of our country. We engage in a riveting conversation about all things drugs, no holds barred&apos;
+
+                Do DEA agents have any compassion for drug dealers and the choices they make as a result of their circumstances? What happens within the Sinaloa cartel when their leader, like El Chapo, is captured? Would Donald Trump’s wall help curb drug activity? We further delve into a healthy discussion about all things to consider when deciding for ourselves if we should legalize marijuana in the state of Arizona. Is marijuana as harmless as we are led to believe? Are we, as consumers, responsible for the national opioid epidemic and prescription drug abuse? Are pharmaceutical companies bigger drug pushers than the traditional drug cartels? How does Michael Botticelli, the Director of ONDCP, who has himself been in long term recovery from substance use disorder, help in the war of drugs. Speaking of, why does Doug despise the term “war on drugs?” And why Doug is the poster child for someone who should have been involved with drugs, but on the other side of the law&apos;
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep25_Doug_Coleman_DEA_Marijuana_Legalize_Drugs.mp3" length="105928604" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep25_Doug_Coleman_DEA_Marijuana_Legalize_Drugs.mp3
+            </guid>
+            <pubDate>Sat, 23 Oct 2016 01:13:22 +0000</pubDate>
+            <itunes:duration>1:13:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                How Louie Psihoyos, Academy Award Winning Director, Creates the Tipping Point to Change the World!
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Louie Psihoyos is an Academy Award Winning Director, and Founder/CEO of Oceanic Preservation Society. With a three day crash course in film making, it's ironic that Louie's first documentary film, The Cove, won over 100 awards including the Academy Award. How is this even possible? What advice did Steven Spielberg give him? Did he listen? Louie discusses how covert operations allowed him to capture one of the most poignant and chilling scenes in The Cove, where elders in Taiji, Japan, share how they used to kill Blue Whales prior to wreaking havoc on dolphins. Louie believes that if his films simply make money, then he has failed. So how do his films like The Cove, Racing Extinction, and his upcoming project, Game Changers, inspire ordinary people like you and I to do something about the issues, and take on giants like Sea World? And what inspires the people that inspire us? Join us for a candid, inspiring and fun conversation with some inside stories on Elon Musk, Jim Clark and Ric O’ Barry.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep24_Louie_Psihoyos_Academy_Award_Director_Creates_Tipping_Point.mp3" length="47296670" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep24_Louie_Psihoyos_Academy_Award_Director_Creates_Tipping_Point.mp3
+            </guid>
+            <pubDate>Sat, 16 Jul 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>33:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Behind the Scenes with Nyla, an Extraordinaire Burlesque Stripper
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                What does a man REALLY want when he goes to a strip club? Nyla, founder of Violet Flame Studios, and an extraordinaire Burlesque Stripper, takes us behind the scenes and unveils how strip clubs work, stripper code of ethics and the art of seduction. But how did she make the big leap from being a dancer to a stripper? What was it like when she got topless for the first time? And why is Robert DeNiro, Joe Pesci and Steve Jobs part of this story? Is there more to stripping than just taking your clothes off? What skills or training is required, if any? And Nyla's interesting perspective on young girls, sexuality and money!
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep23_Nyla_VioletFlameStudios_Burlesque_Stripper.mp3" length="62372820" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep23_Nyla_VioletFlameStudios_Burlesque_Stripper.mp3
+            </guid>
+            <pubDate>Sat, 9 Jul 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>43:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Pt 2 - Adam Sud, Former Addict's Perspective on How to Talk to Them and The War on Drugs
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Adam Sud is the son of one of the founding investors of Whole Foods. Despite having all the right ingredients in life, Adam’s life was on the fastest route to self destruction. But Adam took charge and reversed his Type 2 Diabetes, lost 150lbs, kicked his addiction to Adderall and Food …  and transformed his life … physically, as well as emotionally. In our last episode, Adam shared the journey of his transformation and what he lost. Today, we find out what he gained. Adam knows the power of words. They can be destructive or inspirational. Often we are unable to get through to our loved ones when they need help as they destroy their lives through addiction. How can we effectively communicate and use the power of words to get through to them? Having been an addict, what does Adam think the solution should be to drugs?
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep22_Adam_Sud_Addicts_Perspective_How_To_Talk_To_An-Addict_Decriminalize_Drugs.mp3" length="45359146" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep22_Adam_Sud_Addicts_Perspective_How_To_Talk_To_An-Addict_Decriminalize_Drugs.mp3
+            </guid>
+            <pubDate>Sat, 2 Jul 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>29:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Pt 1 - How Adam Sud Reversed his Diabetes, Lost 150 lbs, Kicked his Food/Rx Addiction and Transformed His Life
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Adam Sud is the son of the founding investors of Whole Foods. Despite having access to all the right ingredients in life, Adam found himself addicted to prescription drugs, overweight at 300 lbs, diagnosed with Type 2 Diabetes, low self esteem, wrapped in depression and anger, out of cash, unemployed and primed to live on the streets? How? And why? Adam went from a journey of self-destruction to inspiring self-transformation. Adam reversed his Type 2 Diabetes, lost 150 lbs, gained his self esteem and emotional health back. His secret - Plant based lifestyle! Yes, you read that right ... Plant based lifestyle! With a new lease on his life, he lives a conscious and purpose driven life today. His insights and experiences also lead to an engaging discussion about challenging our approach to medicine and healthcare.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep21_Adam_Sud_SelfDestruction_SelfTransformation.mp3" length="65291997" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep21_Adam_Sud_SelfDestruction_SelfTransformation.mp3
+            </guid>
+            <pubDate>Sat, 25 Jun 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>45:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Life After “The Last Letter” by Marc Lee, featured in movie American Sniper and an American Decorated Fallen Hero
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Knock. Knock. Your son, Marc Lee, has been killed in action in Iraq. As a parent, how do you even begin to process that your son is dead? How do you deal with such depths of pain and grief? And to live through that pain all over again when Chris Kyle, the American Sniper, and Marc’s friend, was shot and killed. Can you ever heal from such devastating loss? Debbie Lee, Marc’s Mom, discusses her difficult journey through her grief. And how her son’s last letter brought her out from retirement, and inspired her to live a life dedicated to our troops and Gold Star families. Marc Lee was featured in the movie American Sniper and Live to Tell documentary series on the History Channel. Marc was killed in action becoming the first Navy Seal killed in Iraq and was awarded the Silver Star and Purple Heart for his heroic actions.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep20_DebbieLee_AmericasMightyWarriors.mp3" length="86479088" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep20_DebbieLee_AmericasMightyWarriors.mp3
+            </guid>
+            <pubDate>Sat, 28 May 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>1:00:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Pt 2 - ISIS &amp; Mind Control: Looking at Suicide Bombers Through a Different Lens
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Are suicide bombers and members of terrorist groups like ISIS and Al Qaeda demons or are they victims themselves? What does the future hold for young children who have been brainswashed by ISIS? Can and how can people that have been in cult groups for decades be deprogrammed successfully? Will Tom Cruise ever be able to get out of Scientology? Rick Ross, an expert on destructive cults, shares valuable insights into this other world and the process of deprogramming minds.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep19_Part2_RickRoss_Cults_Brainwashing.mp3" length="73365906" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep19_Part2_RickRoss_Cults_Brainwashing.mp3
+            </guid>
+            <pubDate>Sat, 21 May 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>51:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+               Pt 1 - Can Anyone Succumb to Cults &amp; Brainwashing?
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Rick Ross is an expert on destructive cults and controversial groups or movements. He is the founder and Executive Director of The Cult Education Institute. Rick helps us understand if there is a particular profile of people that are more susceptible to cults. How does a cult leader disable our ability to think independently and rationally? What are the exit costs of leaving a cult? How is Catholicism or Mormonism different from Scientology? And what about ISIS and Al Qaeda?
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep18_Part1_RickRoss_CultExpert.mp3" length="63058492" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep18_Part1_RickRoss_CultExpert.mp3
+            </guid>
+            <pubDate>Sat, 14 May 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>44:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                The Real Truth Behind Men, Sex and How They Think
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Vince Kelvin is a famous seduction coach. As a pick up artist, he teaches men how to seduce women and get them in the sack. Sickening, right? Or so it would seem at first glance. Vince gets personal about his own personal journey into how be became a pick up artist. His "artistry" was featured in Lisa Ling's documentary "This Is Life" on CNN. How does he feel about love, marriage and relationships? He shares candidly about how men think, and WHY. Where do men’s insecurities come from? Why are they so focused on sex? What does honesty mean to a man? Sit tight and buckle your seat belts for a surprising ride.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep17_VinceKelvin_PickUpArtist.mp3" length="89991900" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep17_VinceKelvin_PickUpArtist.mp3
+            </guid>
+            <pubDate>Sat, 7 May 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>1:02:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Pratham USA, Breaking the Cycle of Poverty and Illiteracy in India
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Education and poverty strike a very personal chord for Amit Shah. His passion for education turned into action when he got involved with Pratham USA, as a Board Member. Pratham is a non profit organization that strives to educate 200 million children in India that currently cannot read or write. How is that even possible when India boasts 96% enrollment of children in schools? Amit shares his experiences and insights in the lives of some of the children from low income families – what their daily lives look like, daily struggles, their dreams and aspirations. We dive into the cultural, political and economic barriers in India, and learn about how Pratham is making great strides in helping to break the cycle of poverty and illiteracy.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep16_AmitShah_PrathamUSA.mp3" length="55184107" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep16_AmitShah_PrathamUSA.mp3
+            </guid>
+            <pubDate>Sat, 30 Apr 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>38:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Time to Reconsider "Stranger Danger" Teachings and Rethink Concept of Trust
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Kids are sexually abused mostly by people in our trusted circle - friends, relatives, teachers and priests. So isn't it time to reconsider "Stranger Danger?" If we can't trust our family and friends, then who can we trust? Michael Pooley, Lieutenant and PIO at Tempe Police Department, and Rachel Lutowsky, Founder of Dynamic Leadership, and parents, share new and noteworthy insights on what to teach your children so they don't become victims.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep15_Pooley_Rachel_Child_Safety.mp3" length="41440672" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep15_Pooley_Rachel_Child_Safety.mp3
+            </guid>
+            <pubDate>Sat, 23 Apr 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>43:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Divorce Or Stay Unhappily Married for Kids, Society and Culture?
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                How many unhappy people do you know that stay married for the sake of their kids? Or because even thinking of divorce is taboo in your culture? Should you dare? Does divorce make you a selfish person? Nitin, Indian, was married for 18 years. He shares what he experienced in his marriage, why he considered divorce and how that has impacted his son.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep14_NitinGupta_Divorce.mp3" length="62071467" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep14_NitinGupta_Divorce.mp3
+            </guid>
+            <pubDate>Sat, 16 Apr 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>52:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Pt 2 - Racing Extinction - A Wake Up Call!
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Shawn Heinrichs - Conversation continues with Shawn, an Emmy Winning Award Winning Cinematographer, artist, photographer and marine conservationist. It's an awakening, inspiring and intellectually stimulating conversation. Why do people choose to believe that they, as one person, cannot make a difference? Why is the fishing industry knowingly leading creatures to extinction and the death of their livelihood? What does Shawn think of humanity? And behind the scenes on some of the moments showcased in the documentary film, Racing Extinction.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep13_Part2_Shawn_Heinrichs_RacingExtinction.mp3" length="63149317" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep13_Part2_Shawn_Heinrichs_RacingExtinction.mp3
+            </guid>
+            <pubDate>Sat, 9 Apr 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>44:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Pt 1 - CFO to Activist and Real Life Avenger
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Shawn Heinrichs, an Emmy Award Winning Cinematographer, artist, photographer, and Shark and Manta Ray Defender. Or, more accurately, a Real Life Avenger! Shawn’s incredibly moving work was recently featured in the documentary film, Racing Extinction. But what inspired him to transform his life from corporate America to dedicating and risking his life to save Sharks and Manta Rays? Can one man really change the world?
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep12_Part1_Shawn_Heinrichs_LifeTransition.mp3" length="71431074" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep12_Part1_Shawn_Heinrichs_LifeTransition.mp3
+            </guid>
+            <pubDate>Sat, 2 Apr 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>50:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+         <item>
+            <title>
+                Fearproof Your Life with Author Joe Bailey
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Do you live everyday in fear and anxiety? Does media play a role in the fear with which we live our lives? ISIS. Ebola. Earthquake … the list goes on. How about living in fear due to our own personal experiences and thoughts? Or Donald Trump (and Cruz)? Joe Bailey, psychologist, author and speaker, discuss where fear comes from, why we respond to it and how we can fearproof our lives.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep11_JoeBailey_Fearproof_Your_Life_.mp3" length="59977983" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep11_JoeBailey_Fearproof_Your_Life_.mp3
+            </guid>
+            <pubDate>Sat, 26 Mar 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>42:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Why Do Pakistanis and Indians Hate Each Other?
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Why do Pakistanis and Indians hate each other? How does a child pick up on these social and historical cues? Do we have good reason to hate each other? What role does Patriotism and cricket play in fueling this hatred? Your host, Asha, hated Pakistanis as a teenager. Mustpaha, Pakistani, and Asha, discuss their thoughts and new insights openly.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep10_Mustapha_Pakistan_India_Hatred.mp3" length="54534752" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep10_Mustapha_Pakistan_India_Hatred.mp3
+            </guid>
+            <pubDate>Sat, 19 Mar 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>38:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+               How NOT to Become Victim to Your Financial Advisor
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Ever had a bad experience with a financial advisor or know someone who did? Are you afraid of being a victim to these shady advisors? My financial advisor, and friend, certainly helped me lose thousands of dollars. Sadly, this is a fairly common occurrence. Are you trying to get back in the game, but don't know how? Tigran from Hatton Consulting shares insights into the financial industry so you can avoid the pitfalls and get back in the game.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep09_Tigran_Victim_FinancialAdvisor.mp3" length="55876233" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep09_Tigran_Victim_FinancialAdvisor.mp3
+            </guid>
+            <pubDate>Sat, 12 Mar 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>39:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Growing Up Black In Chicago with Gina
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Does every Black person experience racial discrimination? Do we need more Black role models? Why do kids wear their pants down? Why do they say ax rather than ask? We discuss this and all things Black with Gina who grew up in Chicago in the 1970s.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep08_Gina_GrowingUpBlack.mp3" length="40451990" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep08_Gina_GrowingUpBlack.mp3
+            </guid>
+            <pubDate>Sat, 5 Mar 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>28:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                How Being An Entrepreneur Impacts Personal Relationships
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Being an entrepreneur sounds glamorous. But there is a dark underbelly to being a business owner. Josh Carroll, COO and Co-Founder of endsight, shares raw insights into how his entrepreneurial journey impacted his relationship with his wife. Their glamorous life had it all – bankruptcy, post partum depression, fights, dysfunctional love, bitterness and so much more. How did they sort through so much baggage?
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep07_Part2_JoshCarroll_Entrepreneur_Marriage_.mp3" length="60950864" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep07_Part2_JoshCarroll_Entrepreneur_Marriage_.mp3
+            </guid>
+            <pubDate>Sat, 26 Mar 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>42:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                What's it REALLY Like To Be An Entrepreneur?
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+               Rarely do you hear true and uncensored stories about what it's REALLY like to be an entrepreneur. To most, owning your own company means you're rolling in a pile of Benjamins and life is peachy. Josh Carroll, COO and Co-Founder of endsight, shares openly and with refreshing honesty about the "real" story behind his entrepreneurial success.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep06_Part1_JoshCarroll_Entrepreneur_Truth.mp3" length="58459656" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep06_Part1_JoshCarroll_Entrepreneur_Truth.mp3
+            </guid>
+            <pubDate>Sat, 20 Feb 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>41:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                India's Obsession with White Skin
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                You think America has problems with skin color? Try India! Did you know that India is obsessed with white skin. What are the implications of this unhealthy desire for fair skin? How does this translate into society … our thoughts, self worth and interactions? We explore this topic in depth with Suhrid Ganguly, a Bengali, who has a darker skin complexion.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep05_SuhridGanguly_WhiteSkinObsession.mp3" length="52489339" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep05_SuhridGanguly_WhiteSkinObsession.mp3
+            </guid>
+            <pubDate>Sat, 13 Feb 2016 11:04:33 +0000</pubDate>
+            <itunes:duration>37:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Sexual Advances in Business
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twiztedmyrtle/blog/TwiztedMyrtle_Rachel_Lutowsky.jpg" />
+            <description>As a working woman, do you struggle with men hitting on you in business settings? Have you figured out how to handle these unwanted sexual advances, while being taken seriously for your work? Rachel Lutowsky, founder of Dynamic Leadership Solutions, and your host, Asha, share some of their undesired experiences and what they've learned from them.</description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep04_RachelLutowsky_SexualAdvances.mp3" length="41760523" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep04_RachelLutowsky_SexualAdvances.mp3
+            </guid>
+            <pubDate>Sat, 06 Feb 2016 16:42:33 +0000</pubDate>
+            <itunes:duration>42:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>How Do You Know You're Gay?</title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Jeffrey Hattrick was born in a conservative Catholic family. He found himself attracted to men. Oh Boy! So how did his parents react when a love letter he wrote to his man crush fell out of his bag? How did he handle being shoved in trash cans in school? Is it okay to call someone gay, queer or fag? Do gay people have the desire to have children? How do gay people have sex? Jeffrey openly shares his experiences and insights into what it’s like being gay.
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep03_JeffreyHattrick_BeingGay.mp3" length="55193248" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep03_JeffreyHattrick_BeingGay.mp3
+            </guid>
+            <pubDate>Sat, 30 Jan 2016 15:21:33 +0000</pubDate>
+            <itunes:duration>57:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Living a Life of Quiet Desperation?
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                You know you’re not happy, but don’t know how to get out of it? Len Gutman knows what that’s like. It took a heart attack to "wake" him up and change the course of his life. His journey led him to discovering true happiness. How did he do it?
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep02_LenGutman_HeartAttack.mp3" length="46640967" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep02_LenGutman_HeartAttack.mp3
+            </guid>
+            <pubDate>Sat, 23 Jan 2016 11:45:33 +0000</pubDate>
+            <itunes:duration>48:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Sara's Journey of Sexual Abuse, Self Injury &amp; Drug Addiction at 11yrs old
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Sara sheds light on how her perpetrator groomed her for one year to become a victim of sexual abuse. How did he get in her mind? What drove her to cut her body with a razor and become addicted to it? How did she get introduced to drugs? Her reasons were profound!
+            </description>
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep01_Sara_SpiralingJourney.mp3" length="67100028" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep01_Sara_SpiralingJourney.mp3
+            </guid>
+            <pubDate>Sat, 16 Jan 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>46:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+    </channel>
+</rss>

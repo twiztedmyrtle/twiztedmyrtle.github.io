@@ -11,7 +11,7 @@ title = "Iceland, my worst nightmare transformed"
 type = "post"
 
 +++
-Iceland is unique, complex and intriguing. The island is transforming and evolving in real time since it is geologically active. It is a land of many volcanoes, geysers, geothermal springs, black sand beach , moss and lava fields, mountains, glaciers, lakes, fjords and aurora borealis. I was sold. So I booked a 14-day trip for December, which included a 7-day photo tour with the talented photographer, <a href="http://www.iuriebelegurschi.com/" target="_blank">Iurie Belegurschi</a>. As December approached, I was hardly able to contain my excitement. I was like a child waiting for Christmas day.
+<p>Iceland is unique, complex and intriguing. The island is transforming and evolving in real time since it is geologically active. It is a land of many volcanoes, geysers, geothermal springs, black sand beach , moss and lava fields, mountains, glaciers, lakes, fjords and aurora borealis. I was sold. So I booked a 14-day trip for December, which included a 7-day photo tour with the talented photographer, <a href="http://www.iuriebelegurschi.com/" target="_blank">Iurie Belegurschi</a>. As December approached, I was hardly able to contain my excitement. I was like a child waiting for Christmas day.</p>
 
 And with that excitement, my trip to Iceland started with an "Oh shit" moment. My first rude awakening came when I left Keflavik airport and got smacked in the face by the cruel bitter wind. On day 2, I threw up violently as if my inner organs wanted to meet me face to face. I could feel the cold had made its way into my bones and no amount of clothing or blankets could bring warmth to my body. It was too late.
 

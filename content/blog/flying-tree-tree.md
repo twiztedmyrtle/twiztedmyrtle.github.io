@@ -11,7 +11,7 @@ title = "Flying tree to tree"
 type = "post"
 
 +++
-It was impossible to resist <a href="http://www.flyinghanuman.com/" target="_blank">The Flying Hanuman</a>, a thrilling zip lining eco adventure in Phuket, Thailand.
+<p>It was impossible to resist <a href="http://www.flyinghanuman.com/" target="_blank">The Flying Hanuman</a>, a thrilling zip lining eco adventure in Phuket, Thailand.</p>
 
 Our party of 8 got suited up. The stench of hundreds of people's body odor was living and breathing within the gear. I was thankful to know that my gag reflexes were in good working order ![:)](/img/twiztedmyrtle/simple-smile.png) . And like a dummy, I innocently and confidently asked one of the guides if they had febreze. My sister was in stitches and disbelief while I made this request. The guide responded without missing a beat ...
  he showed me his armpits, ushering me to smell them in lieu of febreze ![:)](/img/twiztedmyrtle/simple-smile.png) . Good one. He got me!

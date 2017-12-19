@@ -11,7 +11,7 @@ title = "In search of lions ..."
 type = "post"
 
 +++
-It's 2 am and the taxi is waiting for us. My relatives and I start our journey from [Rajkot](http://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw) to Gir National Forest, Gujarat, India. We made it there by 5:30am. Phew! A sigh of relief because I wanted to catch the very first morning tour  to take some cool shots of the Asiatic Lions against the background of the beautiful morning sunrays.
+<p>It's 2 am and the taxi is waiting for us. My relatives and I start our journey from [Rajkot](http://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw) to Gir National Forest, Gujarat, India. We made it there by 5:30am. Phew! A sigh of relief because I wanted to catch the very first morning tour  to take some cool shots of the Asiatic Lions against the background of the beautiful morning sunrays.</p>
 
 We got in line to get our tickets and were brimming with excitement. Counter closed! What just happened? Found out we missed the first tour by 4 people in front of us. So we were now supposed to wait in line until the counter reopened (minimum 1.5 hours, but who knows). I didn't quite understand why they couldn't just give us the tickets for the 2<sup>nd</sup> tour so we were not prisoners in that queue for an unknown period of time.
 

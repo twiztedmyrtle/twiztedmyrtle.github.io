@@ -11,7 +11,7 @@ title = "Joy through others"
 type = "post"
 
 +++
-After capturing the peacock shot at Aji Dam (see "[Why so special?](/posts/why-so-special.html), we weren't ready to go home just yet. We drove around the city as it was slowly waking up and to see what else we could stumble upon.
+<p>After capturing the peacock shot at Aji Dam (see "[Why so special?](/posts/why-so-special.html), we weren't ready to go home just yet. We drove around the city as it was slowly waking up and to see what else we could stumble upon.</p>
 
 This photograph is one of my favorite shots. As we were driving, I saw this mini truck with 4 kids and their mother, I assume, enjoying their open air and most luxurious ride. I was drawn to them. I asked my cousin to speed up and get me as close to them as possible.
 

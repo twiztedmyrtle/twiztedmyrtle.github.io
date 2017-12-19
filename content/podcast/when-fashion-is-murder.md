@@ -19,7 +19,6 @@ What is Vegan Fashion? Why are more companies turning to Vegan Fashion, and yet,
 
 Christina Sewell, Fashion Campaign Coordinator at <a target="_blank" href="http://www.peta.org/">PETA</a>, is responsible for compelling the fashion industry to embrace vegan leather. She works closely with brands like Victoria’s Secret, H&M, North Face, Patagonia and Prada. Christina educates designers, editors and fashion writers about how animals suffer when they’re turned into fur coats, leather handbags and snakeskin shoes. Christina shares how she tackles this behemoth and behind the scenes insights into the fashion industry.
 
- <a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep26_Christina_Sewell_Peta_Murder_for_Fashion_Vegan_Clothing.mp3" target="_blank">Listen to Show</a>
 
 <!--a href="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep26_Christina_Sewell_Peta_Murder_for_Fashion_Vegan_Clothing.mp3" target="_blank"><img src="/img/twiztedmyrtle/blog/radio-thumb.png" alt=""></a-->
 

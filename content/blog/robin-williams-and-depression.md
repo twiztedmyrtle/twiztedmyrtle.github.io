@@ -11,7 +11,7 @@ title = "Can anyone hear me?"
 type = "post"
 
 +++
-In light of Robin Williams death, it has stirred up a lot of pain within me. It has taken me back down memory lane of my own past dark times. And I've had a few in my life so far including when I left home (Muscat, Oman) to study in London at the tender age of 15, my divorce and a few others in what seems like fairly recent times. When I look at my own Facebook posts from the years that were tough for me, I can't seem to recognize myself. I see someone happy, smiling all the time and living life. And yet, outside of those fleeting moments worthy of posting on Facebook, there was such deep anguish and pain inside. What you see, is not always the reality.
+<p>In light of Robin Williams death, it has stirred up a lot of pain within me. It has taken me back down memory lane of my own past dark times. And I've had a few in my life so far including when I left home (Muscat, Oman) to study in London at the tender age of 15, my divorce and a few others in what seems like fairly recent times. When I look at my own Facebook posts from the years that were tough for me, I can't seem to recognize myself. I see someone happy, smiling all the time and living life. And yet, outside of those fleeting moments worthy of posting on Facebook, there was such deep anguish and pain inside. What you see, is not always the reality.</p>
 
 I've been told many times by many people that "I have it so together." I appreciate the compliment, but trust me ...
  I've broken down a few times in my life ...

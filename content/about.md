@@ -129,17 +129,9 @@ type = "page"
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h1 class="text-center element-top-120">“He who asks a question is a fool for a minute; <br> he who does not remains a fool forever”</h1>
-                    <!-- <p class="lead text-center">- Chinese Proverb</p>
                 </div>
             </div>
             <div class="row">
-                <!-- <div class="col-md-2">
-            <div class="figure element-top-30 element-bottom-20 os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0.1s">
-                <span class="figure-image">
-                    <img alt="" src="/img/twiztedmyrtle/tw-mark-teal.jpg">
-                </span>
-            </div>
-        </div> -->
                 <div class="col-md-6">
                     <div class="panel-group element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0s" id="accordion_653">
                         <div class="">

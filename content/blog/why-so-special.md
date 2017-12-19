@@ -11,7 +11,7 @@ title = "Why so special?"
 type = "post"
 
 +++
-While this may not be the sharpest photo in my collection, it is very dear to me because of what it signifies for my journey in photography. Here's the back story ...
+<p>While this may not be the sharpest photo in my collection, it is very dear to me because of what it signifies for my journey in photography. Here's the back story ...</p>
 
 
 Two of my cousins in Rajkot, India, entertained my madness by actually waking up super early in the morning to take me to Aji Dam for some cool sunrise shots. Pitch black and off we went. The roads were clear, silent and peaceful. It was a crisp and refreshing morning.

@@ -11,7 +11,7 @@ title = "Pt 2 - Racing Extinction - Why The Time to Act Is NOW!"
 
 +++
 <audio src="https://s3.amazonaws.com/twizted/static/assets/podcast/Ep13_Part2_Shawn_Heinrichs_RacingExtinction.mp3"></audio>
-Shawn Heinrichs - Our conversation continues with Shawn, an Emmy Winning Award Winning Cinematographer, artist, photographer and marine conservationist. It's an awakening, inspiring &amp; intellectually stimulating conversation. Why do people choose to believe that they, as one person, cannot make a difference? Why is the fishing industry knowingly leading creatures to extinction and the death of their livelihood? What does Shawn think of humanity? And behind the scenes on some of the moments showcased in the documentary film, Racing Extinction.
+<p>Shawn Heinrichs - Our conversation continues with Shawn, an Emmy Winning Award Winning Cinematographer, artist, photographer and marine conservationist. It's an awakening, inspiring &amp; intellectually stimulating conversation. Why do people choose to believe that they, as one person, cannot make a difference? Why is the fishing industry knowingly leading creatures to extinction and the death of their livelihood? What does Shawn think of humanity? And behind the scenes on some of the moments showcased in the documentary film, Racing Extinction.</p>
 
 
 
