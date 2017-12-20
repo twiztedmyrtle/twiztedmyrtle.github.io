@@ -12,3 +12,4 @@ title = "Blog"
 type = "post"
 
 +++
+This is my test blog. I do what I want with it!
