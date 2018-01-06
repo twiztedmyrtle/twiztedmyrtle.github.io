@@ -16,42 +16,25 @@ type = "page"
 		<div class="container-fullwidth">
 		<div class="row">
 		  <div class="col-md-12">
-			<div id="rev_slider_5_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="giving-back" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;max-width:1351px;">
-				<!-- START REVOLUTION SLIDER 5.4.6.3 auto mode -->
-					<div id="rev_slider_5_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.6.3">
-				<ul>	<!-- SLIDE  -->
-				    <li data-index="rs-24" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1200"  data-thumb="img/twiztedmyrtle/100x50_2a702-giving-back1.jpg"  data-delay="4500"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-						<!-- MAIN IMAGE -->
-				        <img src="img/twiztedmyrtle/2a702-giving-back1.jpg"  alt=""  data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-						<!-- LAYERS -->
-					</li>
-					<!-- SLIDE  -->
-				    <li data-index="rs-25" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1200"  data-thumb="img/twiztedmyrtle/100x50_2b7e2-giving-back2.jpg"  data-delay="4510"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-						<!-- MAIN IMAGE -->
-				        <img src="img/twiztedmyrtle/2b7e2-giving-back2.jpg"  alt=""  data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-						<!-- LAYERS -->
-					</li>
-					<!-- SLIDE  -->
-				    <li data-index="rs-26" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1200"  data-thumb="img/twiztedmyrtle/100x50_6215f-giving-back3.jpg"  data-delay="4480"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-						<!-- MAIN IMAGE -->
-				        <img src="img/twiztedmyrtle/6215f-giving-back3.jpg"  alt=""  data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-						<!-- LAYERS -->
-					</li>
-					<!-- SLIDE  -->
-				    <li data-index="rs-27" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1200"  data-thumb="img/twiztedmyrtle/100x50_7a3f7-giving-back4.jpg"  data-delay="4500"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-						<!-- MAIN IMAGE -->
-				        <img src="img/twiztedmyrtle/7a3f7-giving-back4.jpg"  alt=""  data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-						<!-- LAYERS -->
-					</li>
-					<!-- SLIDE  -->
-				    <li data-index="rs-28" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1200"  data-thumb="img/twiztedmyrtle/100x50_97eb0-giving-back5.jpg"  data-delay="4510"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-						<!-- MAIN IMAGE -->
-				        <img src="img/twiztedmyrtle/97eb0-giving-back5.jpg"  alt=""  data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-						<!-- LAYERS -->
-					</li>
-				</ul>
-				<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
-				</div><!-- END REVOLUTION SLIDER -->
+			<div class="flexslider" data-flex-directions="hide" data-flex-controlsposition="inside" id="about-slider" data-flex-animation="fade" style="height:480px;" data-flex-speed="4000">
+ -			  <ul class="slides">
+ -				<li>
+ -				  <img src="/img/twiztedmyrtle/giving-back2.jpg">
+ -				</li>
+ -				<li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
+ -					<img src="/img/twiztedmyrtle/giving-back3.jpg">
+ -				</li>
+ -				<li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
+ -					<img src="/img/twiztedmyrtle/giving-back1.jpg">
+ -				</li>
+ -				<li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
+ -					<img src="/img/twiztedmyrtle/giving-back4.jpg">
+ -				</li>
+ -				<li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
+ -					<img src="/img/twiztedmyrtle/giving-back5.jpg">
+ -				</li>
+ -			  </ul>
+ -			</div>
 		  </div>
 		</div>
 	  </div>
