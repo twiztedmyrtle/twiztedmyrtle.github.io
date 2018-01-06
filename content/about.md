@@ -348,79 +348,107 @@ type = "page"
     <div class="text-center flexslider feature-slider" data-flex-animation="fade" data-flex-controls="hide" data-flex-controls-position="outside" data-flex-controlsalign="center" data-flex-directions="hide" data-flex-slideshow="true" data-flex-speed="20000" data-os-animation="none" data-os-animation-delay="0s" id="flexslider-02">
     <ul class="slides">
       <li>
+        <img alt="Michael Luna" src="/img/twiztedmyrtle/about/michael.png" >
+      </li>
+      <li>
         <img alt="Non-Conformist" class="" height="" src="/img/twiztedmyrtle/about/asha.png">
       </li>
       <li>
-        <img alt="Norbert Rosing" src="/img/twiztedmyrtle/about/norbert.png" >
+        <img alt="Paul Mulligan" class="" height="" src="/img/twiztedmyrtle/about/paul.png">
       </li>
       <li>
         <img alt="Eric Snelz" src="/img/twiztedmyrtle/about/eric.png" >
       </li>
       <li>
-        <img alt="Michael Luna" src="/img/twiztedmyrtle/about/michael.png" >
+        <img alt="Casey Kern" class="" height="" src="/img/twiztedmyrtle/about/casey.png">
       </li>
       <li>
         <img alt="Mahesh Bhupathi" src="/img/twiztedmyrtle/about/bhupati.png" >
       </li>
+      <li>
+        <img alt="Norbert Rosing" src="/img/twiztedmyrtle/about/norbert.png" >
+      </li>
     </ul>
   </div>
 </div>
-  <div class="col-md-5 col-md-offset-1">
+  <div class="col-md-6">
   <div class="element-top-20 element-bottom-20 text-light flexslider feature-slider" data-flex-animation="slide" data-flex-controls="hide" data-flex-controls-position="outside" data-flex-controlsalign="center" data-flex-directions="hide" data-flex-slideshow="true" data-flex-speed="20000" data-os-animation="none" data-os-animation-delay="0s" id="flexslider-39">
   <ul class="slides">
     <li>
       <blockquote class="blockquote-simple text-center">
-        <h1>Twizted Asha</h1>
-        <footer>
-          <cite title="Norbert Rosing">Non-Conformist</cite>
-        </footer>
-      </blockquote>
-      <blockquote>
-        <p class="big">When was the last time you read a rotten testimonial? Take your time. I've got all day.</p>
-      </blockquote>
-    </li>
-    <li>
-      <blockquote class="blockquote-simple text-center">
-        <h1>Norbert Rosing</h1>
-        <footer>
-          <cite title="Norbert Rosing">Professional Animal and Nature Photographer  </cite>
-        </footer>
-      </blockquote>
-      <blockquote>
-        <p>I worked with Twizted side by side in Spitsbergen / Norway and saw her as a very dedicated and passioned photographer. She has a very artistic photographic eye and is able to pick out of a piece of art from a regular subject. Her way of communicating with people and her talent for photography makes her an extraordinary person to work with and to be around.</p>
-      </blockquote>
-    </li>
-    <li>
-      <blockquote class="blockquote-simple text-center">
-        <h1>Eric Snelz</h1>
-        <footer>
-          <cite title="Partner at Defero">CEO, Helping Hands For Freedom</cite>
-        </footer>
-      </blockquote>
-      <blockquote>
-        <p>Asha’s photography doesn’t confine itself to one genre. It can be both pleasing to the eye and soul while other times evoking a visceral reaction to the human condition. Be prepared to have either your imagination or intellect exposed to a unique perspective on life.</p>
-      </blockquote>
-    </li>
-    <li>
-      <blockquote class="blockquote-simple text-center">
-        <h1>Michael Luna</h1>
+        <h1 style="margin-bottom: 0px; line-height: 1em;">Michael Luna</h1>
         <footer>
           <cite title="Photographer">Professional Photographer</cite>
         </footer>
       </blockquote>
       <blockquote>
-        <p>As a professional photographer myself, one becomes jaded in the amount of forgettable or average imagery we are bombarded with everyday. Asha’s work never falls into that category. Many times both striking and rare and other times thought provoking to our social consciousness, words like “forgettable” and “average” never come to mind.</p>
+        <p>Insightful and wildly gifted with a true world heart, Asha is a rare talent and true compassionate freethinker. Her body of work is both striking and rare, and other times thought provoking to our social consciousness. I feel deeply fortunate to have met her through an unlikely encounter.</p>
       </blockquote>
     </li>
     <li>
       <blockquote class="blockquote-simple text-center">
-        <h1>Mahesh Bhupathi</h1>
+        <h1 style="margin-bottom: 0px; line-height: 1em;">Twizted Asha</h1>
         <footer>
-          <cite title="Photographer">Professional Tennis Player and Founder of International Premier Tennis League </cite>
+          <cite title="Norbert Rosing">Nasty Woman</cite>
         </footer>
       </blockquote>
       <blockquote>
-        <p>Twizted has a keen eye. She has the ability to see the smallest of details and bring their story to the forefront. She connects with her subjects intimately and captures their essence perfectly. Her photography is compelling!</p>
+        <p class="big">When was the last time you read a rotten testimonial? Take your time. I’ve got all day.</p>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote class="blockquote-simple text-center">
+        <h1 style="margin-bottom: 0px; line-height: 1em;">Paul Mulligan</h1>
+        <footer>
+          <cite title="">President &amp; CEO, Catholic Charities Community Services</cite>
+        </footer>
+      </blockquote>
+      <blockquote>
+        <p>Asha is truly a force to be reckoned with! Her fearlessness in standing up for those who have no voice makes her both one to watch and learn from. Her tremendous energy and enthusiasm reflect her passion for life, truth and justice. Spend 5 minutes with the woman and you quickly realize you’re not dealing in the realm of the ordinary, but in the world of exceptional.</p>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote class="blockquote-simple text-center">
+        <h1 style="margin-bottom: 0px; line-height: 1em;">Eric Snelz</h1>
+        <footer>
+          <cite title="">CEO, Helping Hands For Freedom</cite>
+        </footer>
+      </blockquote>
+      <blockquote>
+        <p>Asha’s photography doesn’t confine itself to one genre. It can be both pleasing to the eye and soul, while other times evoking a visceral reaction to the human condition. Be prepared to have either your imagination or intellect exposed to a unique perspective on life.</p>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote class="blockquote-simple text-center">
+        <h1 style="margin-bottom: 0px; line-height: 1em;">Casey Kern</h1>
+        <footer>
+          <cite title="">Senior Action Team Coordinator, PETA</cite>
+        </footer>
+      </blockquote>
+      <blockquote>
+        <p>Asha is truly an explorer of the mind and globe. Her blogs and podcasts hit listeners with a “wake up!” message as she explores shrouded topics from the dark animal skins trade to the invisible scars that we all carry. Her work is always meaningful!</p>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote class="blockquote-simple text-center">
+        <h1 style="margin-bottom: 0px; line-height: 1em;">Mahesh Bhupathi</h1>
+        <footer>
+          <cite title="Photographer">Retired Professional Tennis Player &amp; Founder of IPTL</cite>
+        </footer>
+      </blockquote>
+      <blockquote>
+        <p>Asha has a keen eye. She has the ability to see the smallest of details and bring their story to the forefront. She connects with her subjects intimately and captures their essence perfectly. Her photography is compelling!</p>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote class="blockquote-simple text-center">
+        <h1 style="margin-bottom: 0px; line-height: 1em;">Norbert Rosing</h1>
+        <footer>
+          <cite title="Norbert Rosing">Professional Animal and Nature Photographer  </cite>
+        </footer>
+      </blockquote>
+      <blockquote>
+        <p>I worked closely with Asha in Spitsbergen - dedicated and passionate photographer. She has a very artistic photographic eye and is able to pick out of a piece of art from a regular subject. Her way of communicating with people and her talent for photography makes her an extraordinary person to work with and to be around.</p>
       </blockquote>
     </li>
   </ul>
