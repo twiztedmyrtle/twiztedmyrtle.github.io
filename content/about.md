@@ -366,7 +366,7 @@ type = "page"
   </div>
 </div>
   <div class="col-md-5 col-md-offset-1">
-  <div class="element-top-40 element-bottom-40 text-light flexslider feature-slider" data-flex-animation="slide" data-flex-controls="hide" data-flex-controls-position="outside" data-flex-controlsalign="center" data-flex-directions="hide" data-flex-slideshow="true" data-flex-speed="20000" data-os-animation="none" data-os-animation-delay="0s" id="flexslider-39">
+  <div class="element-top-20 element-bottom-20 text-light flexslider feature-slider" data-flex-animation="slide" data-flex-controls="hide" data-flex-controls-position="outside" data-flex-controlsalign="center" data-flex-directions="hide" data-flex-slideshow="true" data-flex-speed="20000" data-os-animation="none" data-os-animation-delay="0s" id="flexslider-39">
   <ul class="slides">
     <li>
       <blockquote class="blockquote-simple text-center">
