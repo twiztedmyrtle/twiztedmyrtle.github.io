@@ -124,36 +124,55 @@ type = "page"
                 </p>
             </div>
             </div>
-            <div class="row">
-                <div class="col-md-10 col-md-offset-1">
-                    <div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
-                        <!-- <h1 class="super text-italic">Limited Edition Collection</h1> </div> -->
-                    <div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
-                    </div>
-                    <h1 class="text-center element-top-10 element-bottom-30 super">Choose Your Style</h1>
-                    <div class="flexslider" data-flex-directions="show" data-flex-controlsposition="outside" id="prints-slider" data-flex-animation="fade" style="height:600px;" data-flex-speed="12000">
-                      <ul class="slides">
-                        <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
-                            <img src="/img/twiztedmyrtle/Acrylic-Option.jpg">
-                        </li>
-                        <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
-                            <img src="/img/twiztedmyrtle/Dibond-Option.jpg">
-                        </li>
-                        <li>
-                          <img src="/img/twiztedmyrtle/Canvas-Option.jpg">
-                        </li>
-                        <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
-                            <img src="/img/twiztedmyrtle/Prints-Option.jpg">
-                        </li>
-                      </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="divider-wrapper">
-                <div class="visible-xs element-height-60"></div>
-                <div class="visible-sm element-height-60"></div>
-                <div class="visible-md element-height-60"></div>
-                <div class="visible-lg element-height-60"></div>
-            </div>
-    </div></div></section>
+        </div>
+    </div>
+</section>
+<section class="section">
+  <div class="background-overlay">
+</div>
+  <div class="container-fullwidth container-vertical-middle">
+  <div class="row ">
+    <div class="col-md-6">
+      <div class="text-center flexslider feature-slider" data-flex-animation="fade" data-flex-controls="hide" data-flex-controls-position="outside" data-flex-controlsalign="center" data-flex-directions="hide" data-flex-slideshow="true" data-flex-speed="20000" data-os-animation="none" data-os-animation-delay="0s" id="flexslider-02">
+        <ul class="slides">
+          <li>
+            <img alt="Acrylic" src="/img/twiztedmyrtle/acrylic.jpg">
+          </li>
+          <li>
+            <img alt="Di-bond" src="/img/twiztedmyrtle/Dibond.jpg">
+          </li>
+          <li>
+            <img alt="Canvas" src="/img/twiztedmyrtle/canvas-print.jpg">
+          </li>
+          <li>
+            <img alt="Prints" src="/img/twiztedmyrtle/prints.jpg">
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="col-md-5">
+        <div class="element-top-30 flexslider feature-slider" data-flex-animation="slide" data-flex-controls="hide" data-flex-controls-position="outside" data-flex-controlsalign="center" data-flex-directions="hide" data-flex-slideshow="true" data-flex-speed="20000" data-os-animation="none" data-os-animation-delay="0s" id="flexslider-39">
+        <ul class="slides">
+          <li>
+              <h1 style="font-family: 'Palatino-italic', sans-sefif; font-size: 36px; line-height: 3em; color: #458ccc;">Acrylic</h1>
+              <p>Twizted Signed Images are printed on award-winning archival Kodak Professional Endura Premier Metallic Paper and mounted to a 1/8&quot; thick piece of framer&#39;s grade acrylic with a museum back and cleat mount. Images garner unparalleled dynamic quality and come to life as they interact with light, often appearing weightless; this premier printing medium provides amazing depth, unmatched detail, and ultimately, stunning results! It has a distinctive, modern and sensuous appeal for the discerning admirer. Ready to hang and make a statement that reflects your sentiments and style.</p>
+          </li>
+          <li>
+              <h1 style="font-family: 'Palatino-italic', sans-sefif; font-size: 36px; line-height: 3em; color:#7e8fa3;">Di-Bond</h1>
+              <p>Artwork is printed directly onto the brushed metal DiBond® surface which brings out a unique and textured look to Twizted Images. DiBond is a trade name for two thin sheets of aluminum (0.3mm) enclosing a polyethylene core. Dibond is 1/8″thick, lightweight but strong, and provides high resistance to weathering and corrosion for unsurpassed durability. In fact, many modern buildings and architectural accents are coated in this material. DiBond brushed aluminum prints are ready to hang and the perfect option for a clean and modern look.</p>
+          </li>
+          <li>
+              <h1 style="font-family: 'Palatino-italic', sans-sefif; font-size: 36px; line-height: 3em; color: #fc952c;">Canvas</h1>
+              <p>Twizted Images come to life with this semi-gloss archival-rated custom canvas treatment. This classic material offers a unique texture while being lightweight. Printed with the latest in latex ink technology. Each canvas is hand-stretched across a 1.5″deep wooden frame (industry standard is 0.75”) that gives the image that classic, gallery wrapped canvas look, and is carefully packaged. Ready to hang and add character to your room!</p>
+          </li>
+          <li>
+              <h1 style="font-family: 'Palatino-italic', sans-sefif; font-size: 36px; line-height: 3em; color:#807a6e;">Prints</h1>
+              <p>Photo Prints - Images are printed on high definition Fuji Lustre photo paper that is thick and professional grade with 100 year archival paper quality. The Fuji Lustre paper has a mild sheen that brings out color with little reflectivity. The commercial grade professional photo printers combined with the Fuji Lustre paper truly create gorgeous results with high levels of contrast. Images are printed and then trimmed with an extra 1/2&quot; of white all around, providing freedom to frame and display the print with your personalized touch. Prints are ship rolled in a tube.</p>
+          </li>
+        </ul>
+    </div>
+  </div>
+</div>
+</div>
+</section>
 </article>
