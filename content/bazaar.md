@@ -139,7 +139,7 @@ type = "page"
             <img alt="Acrylic" src="/img/twiztedmyrtle/acrylic.jpg">
           </li>
           <li>
-            <img alt="Di-bond" src="/img/twiztedmyrtle/Dibond.jpg">
+            <img alt="Di-bond" src="/img/twiztedmyrtle/di-bond.jpg">
           </li>
           <li>
             <img alt="Canvas" src="/img/twiztedmyrtle/canvas-print.jpg">
