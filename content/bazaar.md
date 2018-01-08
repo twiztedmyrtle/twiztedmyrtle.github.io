@@ -151,7 +151,7 @@ type = "page"
       </div>
     </div>
     <div class="col-md-5">
-        <div class="element-top-30 flexslider feature-slider" data-flex-animation="slide" data-flex-controls="hide" data-flex-controls-position="outside" data-flex-controlsalign="center" data-flex-directions="hide" data-flex-slideshow="true" data-flex-speed="20000" data-os-animation="none" data-os-animation-delay="0s" id="flexslider-39">
+        <div class="element-top-60 flexslider feature-slider" data-flex-animation="slide" data-flex-controls="hide" data-flex-controls-position="outside" data-flex-controlsalign="center" data-flex-directions="hide" data-flex-slideshow="true" data-flex-speed="20000" data-os-animation="none" data-os-animation-delay="0s" id="flexslider-39">
         <ul class="slides">
           <li>
               <h1 style="font-family: 'Palatino-italic', sans-sefif; font-size: 36px; line-height: 3em; color: #458ccc;">Acrylic</h1>
