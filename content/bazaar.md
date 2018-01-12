@@ -19,28 +19,28 @@ type = "page"
             <div class="flexslider" data-flex-directions="hide" data-flex-controlsposition="inside" id="about-slider" data-flex-animation="fade" style="height:480px;" data-flex-speed="4000">
               <ul class="slides">
                 <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
-                    <img src="/img/twiztedmyrtle/print-buying.jpg">
+                    <img src="/img/twiztedmyrtle/bazaar/prints7.jpg">
                 </li>
                 <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
-                    <img src="/img/twiztedmyrtle/prints4.jpg">
+                    <img src="/img/twiztedmyrtle/bazaar/arizona.jpg">
                 </li>
                 <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
-                    <img src="/img/twiztedmyrtle/prints5.jpg">
+                    <img src="/img/twiztedmyrtle/bazaar/prints6.jpg">
                 </li>
                 <li>
-                  <img src="/img/twiztedmyrtle/prints2.jpg">
+                  <img src="/img/twiztedmyrtle/bazaar/uganda.jpg">
                 </li>
                 <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
-                    <img src="/img/twiztedmyrtle/prints6.jpg">
+                    <img src="/img/twiztedmyrtle/bazaar/prints5.jpg">
                 </li>
                 <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
-                    <img src="/img/twiztedmyrtle/prints3.jpg">
+                    <img src="/img/twiztedmyrtle/bazaar/france.jpg">
                 </li>
                 <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
-                    <img src="/img/twiztedmyrtle/prints7.jpg">
+                    <img src="/img/twiztedmyrtle/bazaar/prints8.jpg">
                 </li>
                 <li data-slotamount="5" data-saveperformance="on" data-title="Intro Slide">
-                    <img src="/img/twiztedmyrtle/prints1.jpg">
+                    <img src="/img/twiztedmyrtle/bazaar/svalbard.jpg">
                 </li>
               </ul>
             </div>
