@@ -4,6 +4,7 @@ title = "The Story Behind Twizted Myrtle"
 type = "page"
 
 +++
+{{% revslider name="testimonials-v2" %}}
 <article>
   <section class="section">
   <div class="container-fullwidth">
