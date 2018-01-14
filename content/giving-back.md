@@ -50,7 +50,7 @@ type = "page"
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
 					<div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
-						<h1 class="super text-italic">Be the drop in the ocean</h1> </div>
+						<h1 class="super text-italic">Be a drop in the ocean</h1> </div>
 					<div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
 						<p class="lead">We are bombarded with a plethora of issues that tug at our hearts. They can make us feel sad, angry, fearful, and even overwhelmed. It can be paralyzing. After all, one person certainly can’t lend their help to all of these causes, right?  </p>
 						<p class="lead">But one person doesn’t have to solve all problems. If we ALL took just ONE cause and become champions for that cause, then WE CAN make a difference. Mother Teresa said it best – “We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.” </p>
