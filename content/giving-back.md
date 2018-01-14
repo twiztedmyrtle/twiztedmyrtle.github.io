@@ -75,7 +75,7 @@ type = "page"
 					<span class="figure-image">
 						<img alt="" src="/img/twiztedmyrtle/peta.png">
 			</span>
-					<p class="lead center element-bottom-40 os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.2s">Animals are not ours to use, abuse or wear. As stewards of the planet, it is our responsibility to protect all animals from … well, us! Animals have a right to live free from pain and suffering. Like us, they feel pain, fear, loneliness, love and happiness. </p>
+					<p class="lead center element-bottom-40 os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.2s">Animals are not ours to use, abuse, eat or wear. As stewards of the planet, it is our responsibility to protect all animals from … well, us! Animals have a right to live free from pain and suffering. Like us, they feel pain, fear, loneliness, love and happiness. </p>
 					<p class="lead center os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.2s">How would we feel if our kids were stolen for display at zoos or killed for their skin and meat? Imprisonment and cruelty is not conservation, entertainment or sports. And murder is not vanity. Our family outings and the products we buy often support these cruel activities. Let’s end our support for these barbaric actions. </p>
 					<!-- <p class="lead center os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.2s">
 						On the most basic level, our actions and activities can make a greater impact than most think. Here are some things you can do – Ban zoos and Sea World. Don’t go to places or sports events that use animals in their shows. Don’t buy clothes, handbags, accessories or ornaments that are made from animals. </p> -->
