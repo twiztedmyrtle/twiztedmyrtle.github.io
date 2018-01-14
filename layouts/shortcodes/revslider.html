@@ -1,0 +1,53 @@
+<!--
+RevolutionSlider + hugo integration
+
+Params:
+    name:       sliderName #name of your slider set in revolution slider
+
+Creates a revSlider on your page, call it with:
+
+Example: {{/*
+
+    {{% revslider name="rev_slider1" %}}
+
+*/}}
+-->
+{{ if $.Get "name" }}
+    <!-- ADD-ONS JS FILES -->
+		<script defer='defer' type="text/javascript" src="/js/revolution.addon.slicey.min.js"></script>
+    <!-- REVOLUTION JS FILES -->
+		<script defer='defer' type="text/javascript" src="/js/jquery.themepunch.tools.min.js"></script>
+		<script defer='defer' type="text/javascript" src="/js/jquery.themepunch.revolution.min.js"></script>
+		<script defer='defer' type="text/javascript" src="/js/jquery.revslider.embed.js"></script>
+		<script defer='defer' type="text/javascript" src="/js/jquery.revslider-{{ $.Get "name" }}.js"></script>
+		<script defer='defer' type="text/javascript">
+			(function defer() {
+          if (window.jQuery) {
+                jQuery().embedRevslider();
+          } else {
+               setTimeout(function() { defer() }, 500);
+          }
+     })();
+		</script>
+		<script defer='defer' type="text/javascript" src="/js/extensions/revolution.extension.actions.min.js"></script>
+		<script defer='defer' type="text/javascript" src="/js/extensions/revolution.extension.carousel.min.js"></script>
+		<script defer='defer' type="text/javascript" src="/js/extensions/revolution.extension.kenburn.min.js"></script>
+		<script defer='defer' type="text/javascript" src="/js/extensions/revolution.extension.layeranimation.min.js"></script>
+		<script defer='defer' type="text/javascript" src="/js/extensions/revolution.extension.migration.min.js"></script>
+		<script defer='defer' type="text/javascript" src="/js/extensions/revolution.extension.navigation.min.js"></script>
+		<script defer='defer' type="text/javascript" src="/js/extensions/revolution.extension.parallax.min.js"></script>
+		<script defer='defer' type="text/javascript" src="/js/extensions/revolution.extension.slideanims.min.js"></script>
+		<script defer='defer' type="text/javascript" src="/js/extensions/revolution.extension.video.min.js"></script>
+		<script defer='defer' type="text/javascript">
+				function setREVStartSize(e){
+						try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+								if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}
+				};
+		</script>
+
+		<div class="revslider" data-alias="{{ $.Get "name" }}"></div>
+		<!-- <div class="revslider" data-alias="about_us_v2"></div> -->
+{{ else }}
+		<h1>Please set a name for "revslider"</h1>
+{{ end }}
