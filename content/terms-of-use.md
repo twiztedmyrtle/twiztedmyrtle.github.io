@@ -23,7 +23,7 @@ type = "page"
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
                     <div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
-                        <h1 class="super text-italic text-center">Terms of Use</h1> </div>
+                        <h1 class="super text-italic text-center">Terms of Uses</h1> </div>
                     <div class="col-text-1 element-top-20 element-bottom-20 os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.1s">
                         <p class="lead">
                             Legal mumbo-jumbo is a necessary evil. Or so they say. On a positive note, it makes for really good bedtime reading. It may not be as simple as Dr. Seuss, but it’s pretty darn close. Here goes the most legible fine print ...
