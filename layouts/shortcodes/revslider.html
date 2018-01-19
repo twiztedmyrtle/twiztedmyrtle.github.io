@@ -45,6 +45,12 @@ Example: {{/*
 						}catch(d){console.log("Failure at Presize of Slider:"+d)}
 				};
 		</script>
+		<style media="screen">
+			.custom.tparrows.tp-leftarrow:before,
+			.custom.tparrows.tp-rightarrow:before {
+			    display: none;
+			}
+		</style>
 
 		<div class="revslider" data-alias="{{ $.Get "name" }}"></div>
 		<!-- <div class="revslider" data-alias="about_us_v2"></div> -->
