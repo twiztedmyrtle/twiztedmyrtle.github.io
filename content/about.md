@@ -339,7 +339,7 @@ type = "page"
 </div>
 </div>
 </section>
-{{% revslider name="testimonials-v2" %}}
+{{% revslider name="testimonials_final" %}}
 
   <section class="section">
   <div class="background-overlay grid-overlay-0" style="background-color: rgba(255,255,255,1);">
