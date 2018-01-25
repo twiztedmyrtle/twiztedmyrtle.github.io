@@ -397,11 +397,12 @@ ul.pagination li {
     }
     .testimonials-slider .item {
         position: relative;
+        background: url('/sliders/testimonials_final/assets/6796f-testimony-mobile-bg.png');
+        background-size: cover;
+        min-height: 735px;
     }
     .slide-content {
-        position: absolute;
-        right: 0;
-        width: 50%;
+        padding: 0 1rem;
     }
     .slide-content h1 {
         text-align: center;
@@ -410,7 +411,6 @@ ul.pagination li {
         white-space: nowrap;
         font-size: 50px;
         font-weight: 500;
-        margin-top: 10rem;
         margin-bottom: 1rem;
     }
     .slide-content h2 {
@@ -425,58 +425,90 @@ ul.pagination li {
 
     }
     .slide-content p {
-        display: none;
         font-size: 20px;
         line-height: 25px;
         letter-spacing: 2px;
         font-weight: 400;
         font-family: Gentium Basic;
         z-index: 7;
-        padding-right: 5rem;
         white-space: normal;
         margin: auto;
+        padding-bottom: 1rem;
     }
 
-@media only screen and (min-width: 800px) {
-    .slide-content p {
-        display: block;
-    }
-}
+    /* responsive content updates */
+        @media only screen and (min-width: 600px and max-width: 800px;) {
+            .slide-content p {
+                display: none;
+            }
+        }
 
-@media only screen and (min-width: 1200px) {
-    .slide-content p {
-        font-size: 27px;
-        line-height: 40px;
-    }
-}
+        @media only screen and (min-width: 1200px) {
+            .slide-content p {
+                font-size: 27px;
+                line-height: 40px;
+            }
+        }
 
-.owl-nav {
-    position: relative;
-    top: -37rem;
-}
-.owl-prev {
-    float: left;
-    padding: 1rem;
-    overflow: hidden;
-    text-indent: -100rem;
-    height: 140px;
-    background-size: cover;
-    width: 100px;
-    background-position-x: 15px;
-    opacity: .3;
-    background-image: url('/img/slider-arrow.png');
-    -webkit-transform: rotate(180deg);
-    transform: rotate(180deg);
-}
-.owl-next {
-    float: right;
-    padding: 1rem;
-    overflow: hidden;
-    text-indent: -100rem;
-    height: 140px;
-    background-size: cover;
-    width: 100px;
-    background-position-x: 15px;
-    opacity: .3;
-    background-image: url('/img/slider-arrow.png');
-}
+        /* mobile slider styles */            
+            .owl-carousel.owl-loaded.testimonials-slider.desktop {
+                display: none;
+            }        
+
+        /* switch to desktop slider... will eventually be replaced by responsive slider */
+            @media only screen and (min-width: 600px) {
+                .owl-carousel.owl-loaded.testimonials-slider.desktop {
+                    display: block;
+                }
+                .owl-carousel.owl-loaded.testimonials-slider.mobile {
+                    display: none;
+                }
+                .testimonials-slider .item {
+                    background: none;
+                    min-height: 0;
+                }
+                .slide-content {
+                    position: absolute;
+                    right: 0;
+                    width: 50%;
+                    padding: 0;
+                }
+                .slide-content h1 {
+                    margin-top: 0rem;
+                }
+                .slide-content p {
+                    padding-right: 5rem;
+                }
+            }
+
+    /* owl carousel navigation */
+        .owl-nav {
+            position: relative;
+            top: -37rem;
+        }
+        .owl-prev {
+            float: left;
+            padding: 1rem;
+            overflow: hidden;
+            text-indent: -100rem;
+            height: 140px;
+            background-size: cover;
+            width: 100px;
+            background-position-x: 15px;
+            opacity: .3;
+            background-image: url('/img/slider-arrow.png');
+            -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+        }
+        .owl-next {
+            float: right;
+            padding: 1rem;
+            overflow: hidden;
+            text-indent: -100rem;
+            height: 140px;
+            background-size: cover;
+            width: 100px;
+            background-position-x: 15px;
+            opacity: .3;
+            background-image: url('/img/slider-arrow.png');
+        }

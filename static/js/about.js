@@ -142,7 +142,7 @@ jQuery(document).ready(function(){
     };
   }
 
-  jQuery('.testimonials-slider').owlCarousel({
+  jQuery('.testimonials-slider.desktop').owlCarousel({
     items: 1,
     loop:true,
     margin:10,
@@ -150,5 +150,15 @@ jQuery(document).ready(function(){
     autoplay: true,
     autoplayTimeout: 12000,
     nav: true
+  });
+
+  jQuery('.testimonials-slider.mobile').owlCarousel({
+    items: 1,
+    loop:true,
+    margin:10,
+    nav:true,
+    autoplay: true,
+    autoplayTimeout: 12000,
+    nav: false
   })
 });
