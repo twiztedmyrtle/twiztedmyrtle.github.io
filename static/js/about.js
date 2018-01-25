@@ -141,4 +141,13 @@ jQuery(document).ready(function(){
 
     };
   }
+
+  jQuery('.testimonials-slider').owlCarousel({
+    items: 1,
+    loop:true,
+    margin:10,
+    nav:true,
+    autoplay: true,
+    autoplayTimeout: 10000
+  })
 });
