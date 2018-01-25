@@ -388,12 +388,12 @@ ul.pagination li {
 
 /* testimonials slider */
     .testimonials-slider {
-        max-width:1200px;
+        max-width: 1200px;
         margin: auto;
         color: rgba(255,255,255,1);
-        font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-        font-style:italic;
-        text-align: center;
+        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+        font-style: italic;
+        text-align: left;
     }
     .testimonials-slider .item {
         position: relative;
@@ -401,7 +401,6 @@ ul.pagination li {
     .slide-content {
         position: absolute;
         right: 0;
-        text-align: center;
         width: 50%;
     }
     .slide-content h1 {
@@ -431,7 +430,7 @@ ul.pagination li {
         font-weight: 400;
         font-family: Gentium Basic;
         z-index: 7;
-        padding: 0 1rem;
+        padding-right: 1.2rem;
         white-space: normal;
         margin: auto;
     }

@@ -148,6 +148,6 @@ jQuery(document).ready(function(){
     margin:10,
     nav:true,
     autoplay: true,
-    autoplayTimeout: 10000
+    autoplayTimeout: 12000
   })
 });
