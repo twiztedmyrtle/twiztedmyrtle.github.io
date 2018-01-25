@@ -404,6 +404,7 @@ ul.pagination li {
         width: 50%;
     }
     .slide-content h1 {
+        text-align: center;
         line-height: 1;
         z-index: 9;
         white-space: nowrap;
@@ -413,6 +414,7 @@ ul.pagination li {
         margin-bottom: 1rem;
     }
     .slide-content h2 {
+        text-align: center;
         z-index: 8;
         white-space: nowrap;
         font-size: 20px;
@@ -430,7 +432,7 @@ ul.pagination li {
         font-weight: 400;
         font-family: Gentium Basic;
         z-index: 7;
-        padding-right: 1.2rem;
+        padding-right: 5rem;
         white-space: normal;
         margin: auto;
     }
@@ -446,4 +448,35 @@ ul.pagination li {
         font-size: 27px;
         line-height: 40px;
     }
+}
+
+.owl-nav {
+    position: relative;
+    top: -37rem;
+}
+.owl-prev {
+    float: left;
+    padding: 1rem;
+    overflow: hidden;
+    text-indent: -100rem;
+    height: 140px;
+    background-size: cover;
+    width: 100px;
+    background-position-x: 15px;
+    opacity: .3;
+    background-image: url('/img/slider-arrow.png');
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.owl-next {
+    float: right;
+    padding: 1rem;
+    overflow: hidden;
+    text-indent: -100rem;
+    height: 140px;
+    background-size: cover;
+    width: 100px;
+    background-position-x: 15px;
+    opacity: .3;
+    background-image: url('/img/slider-arrow.png');
 }
