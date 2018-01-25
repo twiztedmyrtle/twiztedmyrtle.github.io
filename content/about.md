@@ -352,8 +352,8 @@ type = "page"
   <div class="item">
     <div class="slide-content">
       <h1>Twizted Asha</h1>
-      <h2>Nasty Woman </h2>
-      <p>When was the last time you read a rotten testimonial? Take your time. I’ve got all day.</p>
+      <h2>Nasty Woman</h2>
+      <p style="margin-top: 6rem;">When was the last time you read a rotten testimonial? Take your time. I’ve got all day.</p>
     </div>
     <img src="/sliders/testimonials_final/assets/ded69-Testimonial-Base-Asha-2.jpg" />
     </div>
@@ -384,8 +384,8 @@ type = "page"
   <div class="item">
     <div class="slide-content">
       <h1>Norbert Rosing</h1>
-      <h2>NProfessional Wildlife Photographer</h2>
-      <p>WI worked closely with Asha in Spitsbergen. She has a very artistic photographic eye and is able to pick out a piece of art from a regular subject. Her way of communicating with people and talent for photography makes her an extraordinary person to work with and be around.</p>
+      <h2>Professional Wildlife Photographer</h2>
+      <p>I worked closely with Asha in Spitsbergen. She has a very artistic photographic eye and is able to pick a piece of art from a regular subject. Her way of communicating with people and talent for photography makes her an extraordinary person to work with and be around.</p>
     </div>
     <img src="/sliders/testimonials_final/assets/828fd-Testimonial-Base-Norbert.jpg" />
     </div>
