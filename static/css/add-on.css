@@ -385,3 +385,66 @@ ul.pagination li {
         transition: opacity .3s 0s, visibility 0s 0s;
         opacity: .5;
     }
+
+/* testimonials slider */
+    .testimonials-slider {
+        max-width:1200px;
+        margin: auto;
+        color: rgba(255,255,255,1);
+        font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+        font-style:italic;
+        text-align: center;
+    }
+    .testimonials-slider .item {
+        position: relative;
+    }
+    .slide-content {
+        position: absolute;
+        right: 0;
+        text-align: center;
+        width: 50%;
+    }
+    .slide-content h1 {
+        line-height: 1;
+        z-index: 9;
+        white-space: nowrap;
+        font-size: 50px;
+        font-weight: 500;
+        margin-top: 10rem;
+        margin-bottom: 1rem;
+    }
+    .slide-content h2 {
+        z-index: 8;
+        white-space: nowrap;
+        font-size: 20px;
+        font-weight: 400;
+        margin-top: 0;
+        margin-bottom: 2.5rem;
+        line-height: 1;
+
+    }
+    .slide-content p {
+        display: none;
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: 2px;
+        font-weight: 400;
+        font-family: Gentium Basic;
+        z-index: 7;
+        padding: 0 1rem;
+        white-space: normal;
+        margin: auto;
+    }
+
+@media only screen and (min-width: 800px) {
+    .slide-content p {
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .slide-content p {
+        font-size: 27px;
+        line-height: 40px;
+    }
+}
