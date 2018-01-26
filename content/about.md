@@ -340,7 +340,8 @@ type = "page"
 </div>
 </section>
 
-<div class="owl-carousel testimonials-slider desktop">
+<section class="section">
+  <div class="owl-carousel testimonials-slider desktop">
   <div class="item">
     <div class="slide-content">
       <h1>Michael Luna</h1>
@@ -458,6 +459,7 @@ type = "page"
     </div>
     </div>
 </div>
+</section>
 
   <section class="section">
   <div class="background-overlay grid-overlay-0" style="background-color: rgba(255,255,255,1);">
