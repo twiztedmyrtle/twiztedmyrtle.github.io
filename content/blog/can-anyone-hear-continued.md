@@ -11,7 +11,7 @@ title = "Can anyone hear me? continued ..."
 type = "post"
 
 +++
-<p>To continue our conversation inspired by [Robin Williams](/posts/robin-williams-and-depression.html) death and the story I shared ...</p>
+To continue our conversation inspired by [Robin Williams](/blog/can-anyone-hear-me.html.html) death and the story I shared ...
 
 
 There's a school of thought that responds to depression as such – "You don't need anyone else. All you need is you. You need to love yourself and not wait for someone to love you to make you happy." I wholeheartedly agree with this philosophy for people that are not suffering from depression. However, you are not yourself when you are in depression. Your outlook on life, people and the world we live in is entirely different and not a healthy one. You don't care about anything or yourself, and are lost in a sea of darkness. So to suggest this thought to someone in depression or contemplating suicide is suicidal. They may interpret this sentiment as being judgmental, possibly condescending and that you don't understand their plight. And they will retreat within again.

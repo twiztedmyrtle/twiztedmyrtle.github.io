@@ -12,7 +12,7 @@ type = "post"
 
 +++
 <p>
-  I fell in love with an unlikely character - the Bison! They&#39;re not exactly handsome in a traditional sense like an Arabian horse. And yet, there&#39;s something about their raw, rugged and mighty ways that take you back to prehistoric days in a flash, and draws you in.
+  I fell in love with an unlikely character - the Bison! They're not exactly handsome in a traditional sense like an Arabian horse. And yet, there's something about their raw, rugged and mighty ways that take you back to prehistoric days in a flash, and draws you in.
 </p> 
 <p>
   A particular insane close encounter with the primal beast at Yellowstone National Park was nothing short of surreal and transcendental. I could live and die in that moment a thousand times.

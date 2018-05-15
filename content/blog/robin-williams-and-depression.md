@@ -27,4 +27,4 @@ Having endured just a pinch of the pain that Robin Williams and many others that
  Why are we so mean to each other? Why is it so hard to be supportive of each other? Why are we so judgmental? Why do we not take the time to listen and truly be there for each other? Why do we not care about the pain that we bestow upon others, to the point where we drive some of them to take the ultimate plunge? Why?
 
 [Conversation continued ...
-](/posts/can-anyone-hear-continued.html)
+](/blog/can-anyone-hear-me-continued-....html.html)
