@@ -9,6 +9,7 @@ featuredpath = "date"
 linktitle = ""
 title = "Selling Death"
 type = "post"
+
 +++
 <p>The documentary "Trophy" takes you into the world of big game hunting and conservation. While the battle to save wildlife has become a complex issue, one thing is clear as day - when demand stops, the killing stops. Some noteworthy highlights from the film -</p>
 
