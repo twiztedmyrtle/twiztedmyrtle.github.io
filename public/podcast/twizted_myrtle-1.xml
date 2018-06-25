@@ -1,0 +1,120 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>Myrtle Productions</title>
+        <link> http://twiztedmyrtle.com/
+        </link>
+        <language>en-us</language>
+        <copyright>Myrtle Productions LLC</copyright>
+        <description>
+            Twizted Myrtle believes in challenging our thoughts, beliefs and judgments. We engage in thought provoking conversations with raw honesty on a host of issues most would fear to tread. You may get angry. You may get sad. Or you may get inspired. What you do with these emotions and new perspectives is up to you. Join us to discover your power, transform your life and LIVE again!
+        </description>
+        <atom:link href="http://artist.twiztedmyrtle.com/static/assets/podcast/twizted_myrtle.xml" rel="self" type="application/rss+xml" />
+        <itunes:author>Twizted</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:new-feed-url>
+            http://artist.twiztedmyrtle.com/static/assets/podcast/twizted_myrtle.xml
+        </itunes:new-feed-url>
+        <itunes:owner>
+            <itunes:name>Myrtle Productions</itunes:name>
+            <itunes:email>asha@twiztedmyrtle.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+        <image>
+            <url>
+                http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg
+            </url>
+            <title>Myrtle Productions</title>
+            <link> http://twiztedmyrtle.com/
+            </link>
+        </image>
+        <itunes:category text="Society &amp; Culture">
+        	<itunes:category text="Philosophy"/>
+        </itunes:category>
+        <item>
+            <title>
+                India's Obsession with White Skin
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                You think America has problems with skin color? Try India! Did you know that India is obsessed with white skin. What are the implications of this unhealthy desire for fair skin? How does this translate into society … our thoughts, self worth and interactions? We explore this topic in depth with Suhrid Ganguly, a Bengali, who has a darker skin complexion.
+            </description>
+            <media:thumbnail url="http://artist.twiztedmyrtle.com/static/assets/images/twiztedmyrtle/blog/TwiztedMyrtle_Suhrid_Ganguly.jpg" />
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep05_SuhridGanguly_WhiteSkinObsession.mp3" length="52489339" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep05_SuhridGanguly_WhiteSkinObsession.mp3
+            </guid>
+            <pubDate>Sat, 13 Feb 2016 11:04:33 +0000</pubDate>
+            <itunes:duration>37:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Sexual Advances in Business
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twiztedmyrtle/blog/TwiztedMyrtle_Rachel_Lutowsky.jpg" />
+            <description>As a working woman, do you struggle with men hitting on you in business settings? Have you figured out how to handle these unwanted sexual advances, while being taken seriously for your work? Rachel Lutowsky, founder of Dynamic Leadership Solutions, and your host, Asha, share some of their undesired experiences and what they've learned from them.</description>
+            <media:thumbnail url="http://artist.twiztedmyrtle.com/static/assets/images/twiztedmyrtle/blog/TwiztedMyrtle_Rachel_Lutowsky.jpg" />
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep04_RachelLutowsky_SexualAdvances.mp3" length="41760523" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep04_RachelLutowsky_SexualAdvances.mp3
+            </guid>
+            <pubDate>Sat, 06 Feb 2016 16:42:33 +0000</pubDate>
+            <itunes:duration>42:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>How Do You Know You're Gay?</title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Jeffrey Hattrick was born in a conservative Catholic family. He found himself attracted to men. Oh Boy! So how did his parents react when a love letter he wrote to his man crush fell out of his bag? How did he handle being shoved in trash cans in school? Is it okay to call someone gay, queer or fag? Do gay people have the desire to have children? How do gay people have sex? Jeffrey openly shares his experiences and insights into what it’s like being gay.
+            </description>
+            <media:thumbnail url="http://artist.twiztedmyrtle.com/static/assets/images/twiztedmyrtle/blog/TwiztedMyrtle_JeffreyHattrick.jpg" />
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep03_JeffreyHattrick_BeingGay.mp3" length="55193248" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep03_JeffreyHattrick_BeingGay.mp3
+            </guid>
+            <pubDate>Sat, 30 Jan 2016 15:21:33 +0000</pubDate>
+            <itunes:duration>57:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Living a Life of Quiet Desperation?
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                You know you’re not happy, but don’t know how to get out of it? Len Gutman knows what that’s like. It took a heart attack to "wake" him up and change the course of his life. His journey led him to discovering true happiness. How did he do it?
+            </description>
+            <media:thumbnail url="http://artist.twiztedmyrtle.com/static/assets/images/twiztedmyrtle/blog/TwiztedMyrtle_Len.jpg" />
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep02_LenGutman_HeartAttack.mp3" length="46640967" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep02_LenGutman_HeartAttack.mp3
+            </guid>
+            <pubDate>Sat, 23 Jan 2016 11:45:33 +0000</pubDate>
+            <itunes:duration>48:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>
+                Sara's Journey of Sexual Abuse, Self Injury &amp; Drug Addiction at 11yrs old
+            </title>
+            <itunes:author>Twizted</itunes:author>
+            <itunes:image href="http://artist.twiztedmyrtle.com/static/assets/images/twz-itunes-3k.jpg" />
+            <description>
+                Sara sheds light on how her perpetrator groomed her for one year to become a victim of sexual abuse. How did he get in her mind? What drove her to cut her body with a razor and become addicted to it? How did she get introduced to drugs? Her reasons were profound!
+            </description>
+            <media:thumbnail url="http://artist.twiztedmyrtle.com/static/assets/images/twiztedmyrtle/blog/TwiztedMyrtle_Sara.jpg" />
+            <enclosure url="http://artist.twiztedmyrtle.com/static/assets/podcast/Ep01_Sara_SpiralingJourney.mp3" length="67100028" type="audio/mpeg" />
+            <guid>
+                http://artist.twiztedmyrtle.com/static/assets/podcast/Ep01_Sara_SpiralingJourney.mp3
+            </guid>
+            <pubDate>Sat, 16 Jan 2016 10:45:33 +0000</pubDate>
+            <itunes:duration>46:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+    </channel>
+</rss>
