@@ -28,7 +28,7 @@ type = "page"
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-4 ">
           <div class="gift-box">
             <h2>Pay it Forward</h2>
             <p>Put another message here</p>
