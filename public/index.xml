@@ -676,7 +676,7 @@ We got in line to get our tickets and were brimming with excitement.</descriptio
       
       <guid>//artist.twiztedmyrtle.com/gift.html</guid>
       <description>Pay it Forward Put another message here
-   --   Other content goes here Michael Luna Professional Photographer Insightful and wildly gifted with a true world heart, Asha is a rare talent and true compassionate freethinker. Her body of work is both striking and rare, and other times thought provoking to our social consciousness. I feel deeply fortunate to have met her through an unlikely encounter.</description>
+   $(document).ready(function(event) { Donately.init({ // Make sure selector exists on page selector: &#39;#donation-form&#39;, options: { &#39;donately-id&#39;: &#34;act_e15d48cba3f6&#34;, &#39;stripe-publishable-key&#39;: &#34;pk_live_utA1FOFqgfkva7uvXOzctfp4&#34;, &#39;donately-presets&#39;: &#34;5,10,50,100&#34;, &#39;donately-donor-pays-fees&#39;: &#34;true&#34;, &#39;donately-duration&#39;: &#34;default_recurring&#34;, &#39;donately-billing-zip&#39;: &#34;true&#34;, &#39;donately-address&#39;: &#34;true&#34;, &#39;donately-payment-options&#39;: &#34;cc,ach&#34;, &#39;donately-custom-css&#39;: JSON.stringify({ &#34;.donately-donation-form&#34;: { &#34;font-family&#34;: &#34;\&#34;Palatino-italic\&#34;, sans-serif&#34; }, &#34;.donately-btn&#34;: { &#34;background-color&#34;: &#34;#50b598&#34;, &#34;width&#34;: &#34;100%&#34;, &#34;height&#34;:&#34;50px&#34;, &#34;color&#34;: &#34;#ffffff&#34;}, &#34;.donately-btn:hover&#34;: { &#34;</description>
     </item>
     
     <item>
