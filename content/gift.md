@@ -32,7 +32,7 @@ type = "page"
       <div class="row">
         <div class="col-md-4 ">
           <div class="gift-box">
-            <h2>Pay it Forward</h2>
+            <h3>Pay it Forward</h3>
             <p>Put another message here</p>
             <hr style="border-top: 2px solid #50b598">
             <script src="//cdn.donately.com/dntly-core/1.8/core.min.js" type="text/javascript"></script>
