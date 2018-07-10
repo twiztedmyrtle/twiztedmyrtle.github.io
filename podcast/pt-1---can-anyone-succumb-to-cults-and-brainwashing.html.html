@@ -116,8 +116,12 @@
                 }
 
                 .gift-box {
-                  background: #eee;
-                  border-radius: 10px;
+                  border: 1px solid #e7e8e9;
+                  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.15), 0 0 10px rgba(232, 232, 231, 0.25), inset 0 0 46px rgba(255, 255, 255, 0.29);
+                  background-image: radial-gradient(center center, 105px 105px, rgba(255, 255, 255, 0.03) 0%, rgba(0, 0, 0, 0.03) 100%);
+                  background: #fcfcfc;
+                  margin-top: 30px;
+                  border-radius: 4px;
                   padding: 15px;
                 }
             </style>
@@ -551,7 +555,7 @@ Rick Ross is the founder and Executive Director of The Cult Education Institute.
                     'donately-id': "act_e15d48cba3f6",
                     'stripe-publishable-key': "pk_live_utA1FOFqgfkva7uvXOzctfp4",
                     'donately-presets': "5,10,50,100",
-                    'donately-donor-pays-fees': "true",
+                    'donately-donor-pays-fees': "false",
                     'donately-duration': "default_recurring",
                     'donately-billing-zip': "true",
                     'donately-address': "true",
@@ -560,16 +564,16 @@ Rick Ross is the founder and Executive Director of The Cult Education Institute.
                       ".donately-donation-form": { "font-family": "\"Palatino-italic\", sans-serif" },
                       ".donately-btn": { "background-color": "#50b598", "width": "100%", "height":"50px", "color": "#ffffff"},
                       ".donately-btn:hover": { "background-color": "#c7bcb6"},
-                      ".donately-preset-fields .donately-preset-amounts label": {"background":"linear-gradient(to bottom,from(#ffffff),to(#eeeeee))","color":"#333","border":"1px solid #d2d2d2","borderRadius":"5px","cursor":"pointer"},
-                      ".donately-preset-fields .donately-preset-amounts label:hover": { "background-color": "#c7bcb6", "color":"white" },
+                      ".donately-preset-fields .donately-preset-amounts label": {"background":"linear-gradient(180deg,rgba(255,255,255,1)0%,rgba(238,238,238,1)100%)","color":"#333","border":"1px solid #d2d2d2","borderRadius":"5px","cursor":"pointer"},
+                      ".donately-preset-fields .donately-preset-amounts label:hover": { "background": "#c7bcb6", "color":"white" },
                       ".donately-secure-header": {"background-color":"#c7bcb6","color":"#333333"},
-                      "#donately-onbehalf, #donately-amount, #org_name, #donately-first-name, #donately-last-name, #donately-street-address, #donately-street-address-2, #donately-city, #donately-zip-code, #donately-email, #donately-phone-number, #h-first-name, #h-last-name, #h-email, .donately-donation-form select":{"border":"1px solid #50b598"},
                       "#donation-form > form > fieldset.donately-fields.donately-preset-fields > label": { "color":"transparent" },
-                      "#donation-form > form > fieldset.donately-fields.donately-preset-fields > label::before": { "content":"'1. Select Gift Amount'", "color": "#4f4f4f", "font-size": "1.5em" },
+                      "#donation-form > form > fieldset.donately-fields.donately-preset-fields > label::before": { "content":"'1. Select Gift Amount'", "color": "#4f4f4f", "font-size": ".8em" },
                       "#donation-form > form > fieldset.donately-fields.donately-payment-fields > label": { "color":"transparent" },
-                      "#donation-form > form > fieldset.donately-fields.donately-payment-fields > label::before": { "content":"'2. Payment Information'", "color": "#4f4f4f", "font-size": "1.5em" },
+                      "#donation-form > form > fieldset.donately-fields.donately-payment-fields > label::before": { "content":"'2. Payment Information'", "color": "#4f4f4f", "font-size": ".8em" },
                       "#donation-form > form > fieldset.donately-fields.donately-payment-fields": { "content": "''", "border-top": "5px solid #50b598", "display": "block", "padding-top": "20px" },
-                      ".donately-branding": { "display": "none" }
+                      ".donately-branding": { "display": "none" },
+                      "label.donately-label.selected": { "color": "white" }
                     })
                   },
                   afterFormLoad: function(){
