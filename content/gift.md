@@ -39,7 +39,7 @@ type = "page"
             <div id="donation-form"></div>
           </div>
         </div>
-        <div class="col-md-8">
+        <div class="col-md-7 col-md-offset-1">
           <h1>
             “We are what we think. With our thoughts we make the world –Buddha
           </h1>
