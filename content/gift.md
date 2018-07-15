@@ -32,7 +32,7 @@ type = "page"
       <div class="row">
         <div class="col-md-4 ">
           <div class="gift-box">
-            <h3>Create a Ripple</h3>
+            <h3 style="margin-top: 10px">Create a Ripple</h3>
             <p style="font-size:14px;">I pour tremendous thought, time, resources and soul into the work I create. If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. Your Twizted support is needed. Join my Circle of Allies through a recurring or one-time gift. </p>
             <p style="font-size:14px;">
               While Twizted Myrtle is not a non-profit, it is an organization you can gift to. Per Uncle Sam, you can give $14,500 per person as a gift.
@@ -43,7 +43,7 @@ type = "page"
           </div>
         </div>
         <div class="col-md-7 col-md-offset-1">
-          <h1>
+          <h1 class="">
             “Ripple effect on the ocean, every drop has  - Yoda
           </h1>
           <p class="lead">
