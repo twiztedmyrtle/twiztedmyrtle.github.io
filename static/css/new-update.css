@@ -51,3 +51,24 @@
 .audio-nomargin {
   margin-bottom: 0 !important;
 }
+
+.email-wrapper {
+  padding: 50px;
+}
+.email-testimony {
+  position: relative;
+  background: white;
+  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.15), 0 0 10px rgba(232, 232, 231, 0.25), inset 0 0 46px rgba(255, 255, 255, 0.5);
+  padding: 40px;
+  margin-bottom: 60px;
+  border-radius: 6px;
+}
+.email-testimony i {
+  position: absolute;
+  background: #50b598;
+  color: white;
+  padding: 15px;
+  border-radius: 50%;
+  right:20px;
+  top: -20px;
+}
