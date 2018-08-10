@@ -34,9 +34,9 @@ type = "page"
           <div class="gift-box">
             <h3 style="margin-top: 10px">Create a Ripple</h3>
             <p style="font-size:14px;">I pour tremendous thought, time, resources and soul into the work I create. If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. Your Twizted support is needed. Join my Circle of Allies through a recurring or one-time gift. </p>
-            <!-- <p style="font-size:14px;">
-              While Twizted Myrtle is not a non-profit, it is an organization you can gift to. Per Uncle Sam, you can give $14,500 per person as a gift.
-            </p> -->
+            <p style="font-size:14px;">
+              “Ripple effect on the ocean, every drop has  - Yoda
+            </p>
             <hr style="border-top: 2px solid #50b598">
             <script src="//cdn.donately.com/dntly-core/1.8/core.min.js" type="text/javascript"></script>
             <div id="donation-form"></div>
@@ -44,13 +44,13 @@ type = "page"
         </div>
         <div class="col-md-7 col-md-offset-1">
           <h1 class="">
-            “Ripple effect on the ocean, every drop has  - Yoda
+            “We realize the importance of our voices only when we are silenced – Malala
           </h1>
           <p class="lead">
             Driven by a relentless hunger for truth, happiness and freedom for all, Twizted content is thought-provoking and action driven.  I expose my audience to diverse social topics in a way that is bold, curious and challenges our sacred ways of thinking. Stirring thoughts lead to ripples towards change - compassion and unity.
           </p>
           <p class="lead">
-            I am a voice unhindered by societal pressure and politics. While we may not agree on all elements, through Twizted Myrtle, your voice is heard. And amplified. Together we will be fearless in breaking the shackles of society.
+            I am a voice unhindered by societal pressure and politics. Thus, through Twizted Myrtle, your voice is heard. And amplified. Together we will be fearless in breaking the shackles of society.
           </p>
           <p class="lead">
             In this spirit, I invite you to join Twizted Circle of Allies. Through your recurring or one-time gift, you are supporting audacious content nowhere else to be found. Your support is vital for continuity of this work. I’m immensely thankful you feel called to give.
@@ -58,11 +58,10 @@ type = "page"
           <p class="lead">
             Cheers to truly living, and living truly!
           </p>
-          <img src="/img/twiztedmyrtle/twizted-signature.svg" alt="twiztedmyrtle signature" width="120px">
-          <h2 class="element-top-90 text-center">
-            Real Emails
-          </h2>
+          <img src="/img/twiztedmyrtle/twizted-signature.svg" alt="twiztedmyrtle signature" width="120px" class="element-bottom-70">
           <hr>
+          <p class="lead element-top-50">If this doesn’t suit your fancy, there is another way to heed Yoda’s advice. You can be a Twizted pillar and ambassador of change by purchasing Twizted Myrtle photography. <a href="https://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw" target="_blank">Click here to peruse gallery </a> and buy some goodies.
+          </p>
         </div>
       </div>
     </div>
@@ -72,6 +71,12 @@ type = "page"
       <div class="container">
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
+          <h2 class="element-top-90 text-center">
+            Real Emails
+          </h2>
+          <p class="lead">Twizted work focuses on what we think and why. Because all actions result from our thoughts. When we change our thoughts, we change the world. But don’t take my word for it. Snoop into my mailbox and decide for yourself.
+</p>
+          <hr>
           <div class="email-wrapper">
             <div class="email-testimony">
               <i class="fa fa-envelope"></i>
