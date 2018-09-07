@@ -71,8 +71,9 @@ type = "page"
         <option value="Big Ups">Big Ups</option>
       </select>
     </span> </span><br>
+    <div class="g-recaptcha" data-sitekey="6Lc89W4UAAAAAHoZYnn0EYGl5fxqv2IqvRAS-KYg"></div>
     <input type="text" name="areYouPotato" style="display: none">
-            <button type="submit" class="btn btn-lg element-top-30 btn-primary g-recaptcha" data-sitekey="6LfiUmQUAAAAANjU-YhU5AQ2p1hguzduv9YBitGN"
+            <button type="submit" class="btn btn-lg element-top-30 btn-primary g-recaptcha" data-sitekey="6Lc89W4UAAAAAHoZYnn0EYGl5fxqv2IqvRAS-KYg"
 data-callback="YourOnSubmitFn">Send at Light Speeeeed ...</button>
         </form>
     </section>
