@@ -412,8 +412,202 @@ Product Orders A variety of personal information is collected for each product o
             <script>
               $(document).ready(function(event) {
 
+                
+                const custom_donately_css = {
+                    ".donately-donation-form": {
+                      "font-family": "Palatino-italic, sans-serif"
+                    },
+                    ".donately-btn": {
+                      "background-color": "#50b598",
+                      "width": "100%",
+                      "height": "50px",
+                      "color": "#ffffff"
+                    },
+                    ".donately-preset-fields .donately-preset-amounts li label:not(.donately-dollar-sign)": {
+                      "background": "linear-gradient(180deg, rgba(255, 255, 255, 1)0%, rgba(238, 238, 238, 1)100%)",
+                      "color": "#333",
+                      "border": "1px solid #d2d2d2",
+                      "border-radius": "5px",
+                      "cursor": "pointer",
+                      "color": "#333 !important"
+                    },
+                    ".donately-preset-fields .donately-preset-amounts li label.donately-dollar-sign:hover" : {
+                      "color":"#333"
+                    },
+                    ".donately-secure-header": {
+                      "color": "#333333"
+                    },
+                    "#donation-form>form>fieldset.donately-fields.donately-preset-fields>label::before, #donation-form>form>fieldset.donately-fields.donately-payment-fields>label::before, label#donately-contact-info::before": {
+                      "content": "'1. Select Gift Amount'",
+                      "color": "#4f4f4f",
+                      "font-size": ".8em"
+                    },
+                    "label#donately-contact-info::before": {
+                      "content": "'2. Contact Information'"
+                    },
+                    "#donation-form>form>fieldset.donately-fields.donately-payment-fields>label::before": {
+                      "content": "'3. Payment Information'"
+                    },
+                    "#donation-form>form>fieldset.donately-fields.donately-payment-fields": {
+                      "content": "''",
+                      "border-top": "2px solid #50b598",
+                      "display": "block",
+                      "padding-top": "20px"
+                    },
+                    ".donately-branding": {
+                      "display": "none;"
+                    },
+                    "label.donately-label.selected, .donately-preset-fields .donately-preset-amounts label:hover": {
+                      "color": "white;"
+                    },
+                    "#donately-first-name::-webkit-input-placeholder, #donately-last-name::-webkit-input-placeholder, #donately-email::-webkit-input-placeholder, #donately-street-address::-webkit-input-placeholder, #donately-street-address-2::-webkit-input-placeholder, #donately-city::-webkit-input-placeholder, #donately-zip-code::-webkit-input-placeholder, #donation-form>form>fieldset.donately-fields.donately-payment-fields>label": {
+                      "color": "transparent;"
+                    },
+                    ".donately-city-group, .donately-zip-code-group, .donately-state-group, .donately-country-group": {
+                     "width": "50%"
+                    },
+                    ".donately-city-group select, .donately-state-group select, .donately-zip-code-group select, .donately-country-group select": {
+                      "padding-left": "13px;"
+                    },
+                    "#donation-form": {
+                      "max-width": "330px",
+                      "margin": "2rem auto"
+                    },
+                    "#donately-street-address-2": {
+                      "display": "none"
+                    },
+                    ".donately-preset-amounts": {
+                      "display": "block"
+                    },
+                    ".donately-preset-fields .donately-preset-amounts li": {
+                      "display": "block",
+                      "float": "left",
+                      "width": "33%"
+                    },
+                    ".donately-preset-fields .donately-preset-amounts li:nth-of-type(4),.donately-preset-fields .donately-preset-amounts li:nth-of-type(5),.donately-preset-fields .donately-preset-amounts li:nth-of-type(6)": {
+                      "padding-right": "10px",
+                      "padding-top": "10px"
+                    },
+                    "input#donately-amount": {
+                      "display": "block",
+                      "padding": ".6rem .5rem .6rem 1.6rem",
+                      "border-radius": "5px",
+                      "font-size": "1.25rem"
+                    },
+                    ".donately-preset-fields .donately-preset-amounts label.donately-dollar-sign, .donately-preset-fields .donately-preset-amounts label.donately-dollar-sign:hover": {
+                      "position": "absolute",
+                      "border": "none",
+                      "background": "none !important",
+                      "padding": "0",
+                      "text-align": "left",
+                      "font-size": "20px",
+                      "color": "#333 !important",
+                      "top" : "1.05em",
+                      "left" : ".8em"
+                    },
+                    "#donately-amount-wrapper": {
+                      "position": "relative",
+                      "display": "none"
+                    },
+                    "#donately-amount-wrapper.active": {
+                      "display": "block"
+                    },
+                    ".donately-preset-fields .donately-preset-amounts li label.donately-label.un-selected": {
+                      "background": "#edf1f4"
+                    },
+                    ".donately-preset-fields .donately-preset-amounts li label.donately-label.selected, .donately-preset-fields .donately-preset-amounts li label.donately-label.selected:hover": {
+                      "background": "rgb(80, 181, 152) !important",
+                      "color": "#fff !important"
+                    },
+                    "#donation-form>form>fieldset.donately-fields.donately-preset-fields>label, #donation-form>form>fieldset.donately-fields.donately-payment-fields>label, label#donately-contact-info": {
+                      "color": "transparent"
+                    },
+                    "label#donately-contact-info": {
+                      "border-top": "2px solid #50b598",
+                      "display": "block",
+                      "padding-top": "20px",
+                      "padding-bottom": "10px"
+                    },
+                    ".donately-btn:hover, .donately-preset-fields .donately-preset-amounts li label:hover, .donately-secure-header": {
+                      "background": "#c7bcb6 !important",
+                      "color": "#fff !important"
+                    }
+                  };
+
+                
+                function custom_donately_scripts() {
+                  $('.donately-preset-amounts').on('click', '.donately-label', function() {
+                      
+                      $('.donately-preset-amounts .donately-label')
+                        .removeClass('selected')
+                        .addClass('un-selected');
+
+                      
+                      $(this)
+                        .removeClass('un-selected')
+                        .addClass('selected');
+
+                      $donatelyWrapper = $('#donately-amount-wrapper');
+
+                      
+                      if( $(this).attr('id') === 'presets-other-label' ) {
+                        $donatelyWrapper
+                          .addClass('active')
+                          .children('.donately-text-input')
+                          .val('')
+                          .attr('placeholder', '');
+                      } else {
+                        $donatelyWrapper
+                          .removeClass('active');
+                      }
+                    });
+
+                    
+                    $('.donately-btn')
+                      .val('Deliver my gift');
+
+                    
+                    $('#donately-preset-option-4')
+                      .clone()
+                      .attr('id', 'donately-preset-option-other')
+                      .appendTo('.donately-preset-amounts')
+                      .children('input')
+                      .attr('name', '')
+                      .attr('value', 'other')
+                      .attr('tabindex', '5')
+                      .parent('li')
+                      .children('label')
+                      .attr('id', 'presets-other-label')
+                      .html('Other');
+
+                    
+                    $('.donately-preset-amounts')
+                      .append('<li id="donately-amount-wrapper"></li>');
+
+                    
+                    $('#donately-amount')
+                      .appendTo('#donately-amount-wrapper')
+                      .before( $( '.donately-dollar-sign' ) );
+
+                    
+                    $('.donately-label.donately-payment-label')
+                      .clone()
+                      .attr('id', 'donately-contact-info')
+                      .insertBefore('#custom-fields-location-namegroups');
+
+                    
+                    $('.donately-label.donately-payment-label')
+
+                    
+                    $('#custom-fields-location-submit')
+                      .before( $('.donately-fields.donately-payment-fields') )
+                      .before( $('.donately-secure-fields.donately-payment-types.ptype-cc') )
+                      .before( $('.donately-secure-fields.donately-payment-types.ptype-ach.donately-hide'));
+
+                }
+
+                
                 Donately.init({
-                  
                   selector: '#donation-form',
                   options: {
                     'donately-id': "act_e15d48cba3f6",
@@ -424,88 +618,14 @@ Product Orders A variety of personal information is collected for each product o
                     'donately-billing-zip': "true",
                     'donately-address': "true",
                     'donately-payment-options': "cc,ach",
-                    'donately-custom-css': JSON.stringify({
-                      ".donately-donation-form": { "font-family": "\"Palatino-italic\", sans-serif" },
-                      ".donately-btn": { "background-color": "#50b598", "width": "100%", "height":"50px", "color": "#ffffff"},
-                      ".donately-btn:hover": { "background-color": "#c7bcb6"},
-                      ".donately-preset-fields .donately-preset-amounts label": {"background":"linear-gradient(180deg,rgba(255,255,255,1)0%,rgba(238,238,238,1)100%)","color":"#333","border":"1px solid #d2d2d2","borderRadius":"5px","cursor":"pointer"},
-                      ".donately-preset-fields .donately-preset-amounts label:hover": { "background": "#c7bcb6", "color":"white" },
-                      ".donately-secure-header": {"background-color":"#c7bcb6","color":"#333333"},
-                      "#donation-form > form > fieldset.donately-fields.donately-preset-fields > label": { "color":"transparent" },
-                      "#donation-form > form > fieldset.donately-fields.donately-preset-fields > label::before": { "content":"'1. Select Gift Amount'", "color": "#4f4f4f", "font-size": ".8em" },
-                      "#donation-form > form > fieldset.donately-fields.donately-payment-fields > label": { "color":"transparent" },
-                      "#donation-form > form > fieldset.donately-fields.donately-payment-fields > label::before": { "content":"'2. Payment Information'", "color": "#4f4f4f", "font-size": ".8em" },
-                      "#donation-form > form > fieldset.donately-fields.donately-payment-fields": { "content": "''", "border-top": "2px solid #50b598", "display": "block", "padding-top": "20px" },
-                      ".donately-branding": { "display": "none" },
-                      "label.donately-label.selected": { "color": "white" },
-                      "#donately-first-name::-webkit-input-placeholder, #donately-last-name::-webkit-input-placeholder, #donately-email::-webkit-input-placeholder, #donately-street-address::-webkit-input-placeholder, #donately-street-address-2::-webkit-input-placeholder, #donately-city::-webkit-input-placeholder, #donately-zip-code::-webkit-input-placeholder": { "color": "transparent" },
-                      ".donately-city-group select, .donately-state-group select": { "padding-left": "13px" },
-                      ".donately-zip-code-group select, .donately-country-group select": { "padding-left": "13px" }
-                    })
+                    'donately-custom-css': JSON.stringify(custom_donately_css)
                   },
-                  afterFormLoad: function(){
-                    $("#donately-preset-option-1 .donately-label").click(function(){
-                      if(!$(this).hasClass("selected")) {
-                        $(this).css("background-color", "#50b598").addClass("selected")
-                        $("#donately-preset-option-2 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                        $("#donately-preset-option-3 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                        $("#donately-preset-option-4 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                      } else {
-                        $(this).css("background-color", "#EDF1F4").removeClass("selected")
-                      }
-                    })
-                    $("#donately-preset-option-2 .donately-label").click(function(){
-                      if(!$(this).hasClass("selected")) {
-                        $(this).css("background-color", "#50b598").addClass("selected")
-                        $("#donately-preset-option-1 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                        $("#donately-preset-option-3 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                        $("#donately-preset-option-4 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                      } else {
-                        $(this).css("background-color", "#EDF1F4").removeClass("selected")
-                      }
-                    })
-                    $("#donately-preset-option-3 .donately-label").click(function(){
-                      if(!$(this).hasClass("selected")) {
-                        $(this).css("background-color", "#50b598").addClass("selected")
-                        $("#donately-preset-option-1 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                        $("#donately-preset-option-2 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                        $("#donately-preset-option-4 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                      } else {
-                        $(this).css("background-color", "#EDF1F4").removeClass("selected")
-                      }
-                    })
-                    $("#donately-preset-option-4 .donately-label").click(function(){
-                      if(!$(this).hasClass("selected")) {
-                        $(this).css("background-color", "#50b598").addClass("selected")
-                        $("#donately-preset-option-1 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                        $("#donately-preset-option-2 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                        $("#donately-preset-option-3 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                      } else {
-                        $(this).css("background-color", "#EDF1F4").removeClass("selected")
-                      }
-                    })
-                    $("#donately-payment-option-1 .donately-label").click(function(){
-                      if(!$(this).hasClass("selected")) {
-                        $(this).css("background-color", "#50b598").addClass("selected")
-                        $("#donately-payment-option-2 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                      } else {
-                        $(this).css("background-color", "#EDF1F4").removeClass("selected")
-                      }
-                    })
-                    $("#donately-payment-option-2 .donately-label").click(function(){
-                      if(!$(this).hasClass("selected")) {
-                        $(this).css("background-color", "#50b598").addClass("selected")
-                        $("#donately-payment-option-1 .donately-label").css("background", "#EDF1F4").removeClass("selected")
-                      } else {
-                        $(this).css("background-color", "#EDF1F4").removeClass("selected")
-                      }
-                    })
-                    
-                    
-                    $(".donately-btn").val("Deliver my gift")
-                   }
-                })
-              })
+                  afterFormLoad: function() {
+                    custom_donately_scripts();
+                  }
+                });
+              });
+
 
             </script>
         
