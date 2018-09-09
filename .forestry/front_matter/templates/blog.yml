@@ -54,6 +54,7 @@ fields:
   hidden: false
   default: []
 pages:
+- content/blog/why-so-special.md
 - content/blog/valentine-2017.md
 - content/blog/portland-embraces-weird.md
 - content/blog/poor-rich.md
@@ -82,7 +83,6 @@ pages:
 - content/blog/the-tree-analogy.md
 - content/blog/high-on-speed-bondurant-driving.md
 - content/blog/how-to-beat-depression.md
-- content/blog/why-so-special.md
 - content/blog/beautiful-inspiration.md
 - content/blog/the-bison-story.md
 - content/blog/decision-to-indias-daughter.md

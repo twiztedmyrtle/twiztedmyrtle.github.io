@@ -59,6 +59,8 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/podcast/indias-obsession-with-white-skin.md
+- content/podcast/cults-rick-ross.md
 - content/podcast/pickup-artist.md
 - content/podcast/nyla-the-high-pimpstress-burlesque-stripper.md
 - content/podcast/louie-psihoyos-the-cove.md
@@ -78,10 +80,8 @@ pages:
 - content/podcast/child-safety-from-sexual-abuse.md
 - content/podcast/len-gutman-heart-attack.md
 - content/podcast/sexual-abuse-downward-spiral.md
-- content/podcast/cults-rick-ross.md
 - content/podcast/how-do-you-know-you-are-gay.md
 - content/podcast/india-vs-pakistan.md
 - content/podcast/can-one-person-change-the-world.md
-- content/podcast/indias-obsession-with-white-skin.md
 - content/podcast/victim-of-financial-advisor.md
 - content/podcast/stop-living-in-fear.md
