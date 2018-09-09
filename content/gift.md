@@ -33,7 +33,7 @@ type = "page"
         <div class="col-md-4 ">
           <div class="gift-box">
             <h3 style="margin-top: 10px">Create a Ripple</h3>
-            <p style="font-size:14px;">I pour tremendous thought, time, resources and soul into the work I create. If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. Your Twizted support is needed. Join my Circle of Allies through a recurring or one-time gift. </p>
+            <p style="font-size:14px;">I pour tremendous thought, time, resources and soul into the work I create. If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. Your Twizted support is needed to continue this bold work. Join my Circle of Allies through a recurring or one-time gift. </p>
             <p style="font-size:14px;">
               “Ripple effect on the ocean, every drop has  - Yoda
             </p>
@@ -43,7 +43,7 @@ type = "page"
           </div>
         </div>
         <div class="col-md-7 col-md-offset-1">
-          <h1 class="">
+          <h1 class="element-bottom-30">
             “We realize the importance of our voices only when we are silenced – Malala
           </h1>
           <p class="lead">
@@ -60,23 +60,21 @@ type = "page"
           </p>
           <img src="/img/twiztedmyrtle/twizted-signature.svg" alt="twiztedmyrtle signature" width="120px" class="element-bottom-70">
           <hr>
-          <p class="lead element-top-50">If this doesn’t suit your fancy, there is another way to heed Yoda’s advice. You can be a Twizted pillar and ambassador of change by purchasing Twizted Myrtle photography. <a href="https://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw" target="_blank">Click here to peruse gallery </a> and buy some goodies.
+          <p class="lead element-top-50">You can also heed Yoda's advice and become a Twizted ally by purchasing Twizted Myrtle photography. <a href="https://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw" target="_blank">Click here to peruse gallery </a> and buy.
           </p>
         </div>
       </div>
     </div>
   </section>
   <section class="section">
-    <div class="background-overlay" style="background-color: rgba(238,238,238,1);"></div>
+    <div class="background-overlay" style="background-color: rgba(200, 188, 182,1);"></div>
       <div class="container">
       <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-          <h2 class="element-top-90 text-center">
+        <div class="col-md-10 col-md-offset-1 text-center element-top-40">
+          <h1 class="text-light super">
             Real Emails
-          </h2>
-          <p class="lead">Twizted work focuses on what we think and why. Because all actions result from our thoughts. When we change our thoughts, we change the world. But don’t take my word for it. Snoop into my mailbox and decide for yourself.
-</p>
-          <hr>
+          </h1>
+          <p class="lead text-light">It's good to be bad! Go on. You know you wanna snoop into my inbox.</p>
           <div class="email-wrapper">
             <div class="email-testimony">
               <i class="fa fa-envelope"></i>

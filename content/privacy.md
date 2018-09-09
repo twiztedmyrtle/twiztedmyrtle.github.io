@@ -36,7 +36,7 @@ type = "page"
                             </p>
                             <h3 class="big element-top-40">Blog Interaction</h3>
                             <p class="lead">
-                                Only the personal information you voluntarily provide is collected. This may include – your email address in order to subscribe to the Smashup newsletter; your name, email and/or social media profile in order to comment on the blog via third party vendor <a href="https://help.disqus.com/customer/portal/articles/466259-privacy-policy" target="_blank">Disqus</a>; your name, email and message when you fill out the contact form via third party vendor <a href="https://getform.org/privacy_policy" target="_blank">Get Form</a>.
+                                Only the personal information you voluntarily provide is collected. This may include – your email address in order to subscribe to the Smashup newsletter; your name, email and/or social media profile in order to comment on the blog via third party vendor <a href="https://help.disqus.com/customer/portal/articles/466259-privacy-policy" target="_blank">Disqus</a>; your name, email and message when you fill out the contact form via third party vendor <a href="https://formbucket.com/privacy-policy" target="_blank">Form Bucket</a>.
                             </p>
                             <h3 class="big element-top-40">Public Posts</h3>
                              <p class="lead">
