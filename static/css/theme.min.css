@@ -10930,7 +10930,11 @@ ul.figure-overlay-icons a {
 }
 
 .element-height-600 {
-    height: 500px
+    height: 600px
+}
+
+.element-height-800 {
+    height: 800px
 }
 
 .block {

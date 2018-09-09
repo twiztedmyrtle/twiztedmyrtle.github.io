@@ -5,15 +5,15 @@ type = "page"
 +++
 <article>
   <section class="section">
-    <div class="background-media" data-0-top-bottom="background-position: 0% 50px" data-start="background-position: 0% 0px" style="background-image: url(/img/twiztedmyrtle/gift-asha.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:cover; background-position: -300px 0%;">
+    <div class="background-media" data-0-top-bottom="background-position: 0% 50px" data-start="background-position: 0% 0px" style="background-image: url(/img/twiztedmyrtle/circle-of-allies.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:cover; background-position: -300px 0%;">
     </div>
     <div class="background-overlay" style="background-color: rgba(255,255,255,0.2);"></div>
     <div class="container">
         <div class="divider-wrapper">
-            <div class="visible-xs element-height-100"></div>
-            <div class="visible-sm element-height-200"></div>
-            <div class="visible-md element-height-600"></div>
-            <div class="visible-lg element-height-600"></div>
+            <div class="visible-xs element-height-200"></div>
+            <div class="visible-sm element-height-400"></div>
+            <div class="visible-md element-height-800"></div>
+            <div class="visible-lg element-height-800"></div>
         </div>
     </div>
   </section>
