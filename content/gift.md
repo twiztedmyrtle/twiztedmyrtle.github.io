@@ -62,6 +62,21 @@ type = "page"
           <hr>
           <p class="lead element-top-50">You can also heed Yoda's advice and become a Twizted ally by purchasing Twizted Myrtle photography. <a href="https://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw" target="_blank">Click here to peruse gallery </a> and buy.
           </p>
+          <div class="faqs">
+            <h2>FAQs</h2>
+            <div class="question element-bottom-20">
+              <p>Is my payment information secure?<br>
+                Hell Yeah! Payments are processed through <a href="" title="">Stripe</a>. They hold the highest level of PCI compliance.</p>
+            </div>
+            <div class="question element-bottom-20">
+              <p>How do I make changes to my gift?<br>
+                Easy Peasy. To cancel recurring gift, <a href="mailto:cancelgift@twiztedmyrtle.com" title="">go here</a>. To change recurring account, <a href="mailto:changegift@twiztedmyrtle.com" title="">click here</a>.</p>
+            </div>
+            <div class="question element-bottom-20">
+              <p>What impact does your work have?<br>
+              NONE. Just kidding! Rather than listen to me yak-yak, snoop into my mailbox and discover for yourself.</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -70,11 +85,10 @@ type = "page"
     <div class="background-overlay" style="background-color: rgba(200, 188, 182,1);"></div>
       <div class="container">
       <div class="row">
-        <div class="col-md-10 col-md-offset-1 text-center element-top-40">
-          <h1 class="text-light super">
+        <div class="col-md-10 col-md-offset-1 element-top-40">
+          <h1 class="text-light text-center super">
             Real Emails
           </h1>
-          <p class="lead text-light">It's good to be bad! Go on. You know you wanna snoop into my inbox.</p>
           <div class="email-wrapper">
             <div class="email-testimony">
               <i class="fa fa-envelope"></i>
