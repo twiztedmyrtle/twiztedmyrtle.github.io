@@ -72,3 +72,14 @@
   right:20px;
   top: -20px;
 }
+
+.faqs  {
+  padding: 15px 30px;
+  background: #fcfcfc;
+  border: 1px solid #e7e8e9;
+  border-radius: 4px;
+}
+
+.question {
+  /*border-bottom: 1px solid #56b497;*/
+}
