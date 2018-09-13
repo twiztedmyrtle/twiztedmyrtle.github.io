@@ -33,7 +33,7 @@ type = "page"
         <div class="col-md-4 ">
           <div class="gift-box">
             <h3 style="margin-top: 10px">Create a Ripple</h3>
-            <p style="font-size:14px;">I pour tremendous thought, time, resources and soul into the work I create. If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. Your Twizted support is needed to continue this bold work. Join my Circle of Allies through a recurring or one-time gift. </p>
+            <p style="font-size:14px;">If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. I pour tremendous thought, time, resources and soul into the work I create. Your generous support is needed to continue this bold work and create ripples in the world. Join my Circle of Allies through a recurring or one-time gift. </p>
             <p style="font-size:14px;">
               “Ripple effect on the ocean, every drop has  - Yoda
             </p>
