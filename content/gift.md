@@ -58,22 +58,23 @@ type = "page"
           <p class="lead">
             Cheers to truly living, and living truly!
           </p>
-          <img src="/img/twiztedmyrtle/twizted-signature.svg" alt="twiztedmyrtle signature" width="120px" class="element-bottom-70">
+          <img src="/img/twiztedmyrtle/twizted-signature.svg" alt="twiztedmyrtle signature" width="120px" class="element-bottom-50">
           <hr>
           <p class="lead element-top-50">You can also heed Yoda's advice and become a Twizted ally by purchasing Twizted Myrtle photography. <a href="https://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw" target="_blank">Click here to peruse gallery </a> and buy.
           </p>
-          <div class="faqs">
+          <hr>
+          <div class="faqs element-top-50">
             <h2>FAQs</h2>
             <div class="question element-bottom-20">
-              <p>Is my payment information secure?<br>
+              <p class="lead">Is my payment information secure?<br>
                 Hell Yeah! Payments are processed through <a href="" title="">Stripe</a>. They hold the highest level of PCI compliance.</p>
             </div>
             <div class="question element-bottom-20">
-              <p>How do I make changes to my gift?<br>
+              <p class="lead">How do I make changes to my gift?<br>
                 Easy Peasy. To cancel recurring gift, <a href="mailto:cancelgift@twiztedmyrtle.com" title="">go here</a>. To change recurring account, <a href="mailto:changegift@twiztedmyrtle.com" title="">click here</a>.</p>
             </div>
             <div class="question element-bottom-20">
-              <p>What impact does your work have?<br>
+              <p class="lead">What impact does your work have?<br>
               NONE. Just kidding! Rather than listen to me yak-yak, snoop into my mailbox and discover for yourself.</p>
             </div>
           </div>
