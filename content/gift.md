@@ -33,7 +33,7 @@ type = "page"
         <div class="col-md-4 ">
           <div class="gift-box">
             <h3 style="margin-top: 10px">Create a Ripple</h3>
-            <p style="font-size:14px;">If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. I pour tremendous thought, time, resources and soul into the work I create. Your generous support is needed to continue this bold work and create ripples in the world. Join my Circle of Allies through a recurring or one-time gift. </p>
+            <p style="font-size:14px;">If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. I pour tremendous thought, time, resources and soul into the work I create. Your generous support is instrumental in creating ripples in the world. Join my Circle of Allies through a recurring or one-time gift. </p>
             <p style="font-size:14px;">
               “Ripple effect on the ocean, every drop has  - Yoda
             </p>
@@ -64,18 +64,18 @@ type = "page"
           </p>
           <hr>
           <div class="faqs element-top-50">
-            <h2>FAQs</h2>
+            <h2>Tidbits</h2>
             <div class="question element-bottom-20">
               <p class="lead">Is my payment information secure?<br>
-                Hell Yeah! Payments are processed through <a href="" title="">Stripe</a>. They hold the highest level of PCI compliance.</p>
+                Hell Yeah! Payments are processed securedly through Stripe.</p>
             </div>
             <div class="question element-bottom-20">
               <p class="lead">How do I make changes to my gift?<br>
-                Easy Peasy. To cancel recurring gift, <a href="mailto:cancelgift@twiztedmyrtle.com" title="">go here</a>. To change recurring account, <a href="mailto:changegift@twiztedmyrtle.com" title="">click here</a>.</p>
+                Easy Peasy. <a href="mailto:cancelgift@twiztedmyrtle.com" title="">Cancel recurring gift</a> or <a href="mailto:changegift@twiztedmyrtle.com" title="">Change recurring account</a>.</p>
             </div>
             <div class="question element-bottom-20">
               <p class="lead">What impact does your work have?<br>
-              NONE. Just kidding! Rather than listen to me yak-yak, snoop into my mailbox and discover for yourself.</p>
+              NONE. Just kidding! Rather than listen to me yak-yak, snoop into my mailbox below and discover for yourself.</p>
             </div>
           </div>
         </div>
