@@ -33,7 +33,7 @@ type = "page"
         <div class="col-md-4 ">
           <div class="gift-box">
             <h3 style="margin-top: 10px">Create a Ripple</h3>
-            <p style="font-size:14px;">If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. I pour tremendous thought, time, resources and soul into the work I create. Your generous support is instrumental in creating ripples in the world. Join my Circle of Allies through a recurring or one-time gift. </p>
+            <p style="font-size:14px;">If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. Your generous support is instrumental in creating ripples in the world. Join my Circle of Allies through a recurring or one-time gift. </p>
             <p style="font-size:14px;">
               “Ripple effect on the ocean, every drop has  - Yoda
             </p>
@@ -50,7 +50,7 @@ type = "page"
             Driven by a relentless hunger for truth, happiness and freedom for all, Twizted content is thought-provoking and action driven.  I expose my audience to diverse social topics in a way that is bold, curious and challenges our sacred ways of thinking. Stirring thoughts lead to ripples towards change - compassion and unity.
           </p>
           <p class="lead">
-            I am a voice unhindered by societal pressure and politics. Thus, through Twizted Myrtle, your voice is heard. And amplified. Together we will be fearless in breaking the shackles of society.
+            I am a voice unhindered by societal pressure and politics. Twizted Myrtle serves as a conduit through which our voices are heard. And amplified. Together we will be fearless in breaking the shackles of society.
           </p>
           <p class="lead">
             In this spirit, I invite you to join Twizted Circle of Allies. Through your recurring or one-time gift, you are supporting audacious content nowhere else to be found. Your support is vital for continuity of this work. I’m immensely thankful you feel called to give.
@@ -67,11 +67,11 @@ type = "page"
             <h2>Tidbits</h2>
             <div class="question element-bottom-20">
               <p class="lead">Is my payment information secure?<br>
-                Hell Yeah! Payments are processed securedly through Stripe.</p>
+                Bet your bottom dollar it is! Payments are processed securely through Stripe.</p>
             </div>
             <div class="question element-bottom-20">
               <p class="lead">How do I make changes to my gift?<br>
-                Easy Peasy. <a href="mailto:cancelgift@twiztedmyrtle.com" title="">Cancel recurring gift</a> or <a href="mailto:changegift@twiztedmyrtle.com" title="">Change recurring account</a>.</p>
+                Easy Peasy. <a href="mailto:cancelgift@twiztedmyrtle.com" title="">Cancel recurring gift</a> or <a href="mailto:changegift@twiztedmyrtle.com" title="">Change recurring amount</a>.</p>
             </div>
             <div class="question element-bottom-20">
               <p class="lead">What impact does your work have?<br>
@@ -95,7 +95,7 @@ type = "page"
               <i class="fa fa-envelope"></i>
               <div class="testimony-container">
                 <p>Hi Asha,</p>
-                <p>I love hearing your mind. You have a different and bold view on things. Not only that, but you give explanations of why you think that way. I don’t always agree with you, but I still love hearing what you have to say. It allows me to consider things I didn’t think about before and decide how I feel about something.  You make a question my why.</p>
+                <p>I love hearing your mind. You have a different and bold view on things. Not only that, but you give explanations of why you think that way. I don’t always agree with you, but I still love hearing what you have to say. It allows me to consider things I didn’t think about before and decide how I feel about something.  You make me question my why.</p>
                 <p>My favorite part is the journey. You take me on a journey of "no return" which is empowering. No return to the world as I knew it! I love traveling “with you.” It triggers thoughts within me. You challenge my views of the world, which makes me a better human.</p>
                 <p>Hugggggs!!!!</p>
                 <p>Mila</p>  
@@ -113,7 +113,7 @@ type = "page"
             <div class="email-testimony">
               <i class="fa fa-envelope"></i>
               <div class="testimony-container">
-                <p>I applaud you for speaking out about what happened and not accepting bullshit excuses for his behavior. The world needs more people like you. It restores my faith in humanity. Keep being you, and don't ever stop fighting for what is right. You make a difference to every person who knows you, sees your images, and reads your blog. You touch their lives for the better. I'm so happy that I have had the privilege to meet you. You have definitely touched my life. Thank you for that :)
+                <p>I applaud you for speaking out about what happened and not accepting bullshit excuses for his behavior. The world needs more people like you. It restores my faith in humanity. Keep being you, and don't ever stop fighting for what is right. You make a difference to every person who knows you, sees your images and reads your blog. You touch their lives for the better. I'm so happy that I have had the privilege to meet you. You have definitely touched my life. Thank you for that :)
                 </p>
                 <p>Sending big hugs and warm wishes your way :)</p>
                 <p>- Samantha</p>
@@ -130,7 +130,7 @@ type = "page"
             <div class="email-testimony">
               <i class="fa fa-envelope"></i>
               <div class="testimony-container">
-                <p>Your work reveals your amazing vision, strength, courage, and determination … I hope you will continue to delight us … never resting on your laurels. I can't wait to see what you do over the years to come.</p>
+                <p>Your work reveals your amazing vision, strength, courage and determination … I hope you will continue to delight us … never resting on your laurels. I can't wait to see what you do over the years to come.</p>
                 <p>All the best.</p>
                 <p>Robert</p>
               </div>
@@ -180,7 +180,7 @@ type = "page"
             <div class="email-testimony">
               <i class="fa fa-envelope"></i>
               <div class="testimony-container">
-                <p>Asha, What wonderful things to read! The part about having freedom to be yourself, really resonated with me. I am working on extending the thought to let people around me be who they need to be and not try to control them or be judgmental. I remember you fondly and am so happy to see that you are happy. Sending love,</p>
+                <p>Asha, what wonderful things to read! The part about having freedom to be yourself really resonated with me. I am working on extending the thought to let people around me be who they need to be and not try to control them or be judgmental. I remember you fondly and am so happy to see that you are happy. Sending love,</p>
                 <p>Gisa</p>
               </div>
             </div>
@@ -188,7 +188,7 @@ type = "page"
               <i class="fa fa-envelope"></i>
               <div class="testimony-container">
               <p>Hallo Asha,</p>
-              <p>Wow! Wow again! Usually I don’t care too much about pictures. I prefer my mental, personal photomap. But your "Uganda-album"... it really touched me!!! The human like emotions on the great apes, the hand on the bars, and the million things YOU see (but actually don’t see) every day: a man a woman, a vern, a goat or a rooster. You made them come alive!!!
+              <p>Wow! Wow again! Usually I don’t care too much about pictures. I prefer my mental, personal photomap. But your "Uganda-album"... it really touched me!!! The human like emotions on the great apes, the hand on the bars, and the million things YOU see (but actually don’t see) every day: a man, a woman, a vern, a goat or a rooster. You made them come alive!!!
               Thanks for sharing sister!</p>
               <p>Xo Michel</p>
             </div>
@@ -229,7 +229,7 @@ type = "page"
             <div class="email-testimony">
               <i class="fa fa-envelope"></i>
               <div class="testimony-container">
-                <p>You and I aren’t so different after all in terms of how we see things. We might just use different language or operate from a different framework. But I’m inspired by your passion for righting wrongs and speaking up fearlessly for those who have no voice. </p>
+                <p>You and I aren’t so different after all in terms of how we see things. We might use different language or operate from a different framework. But I’m inspired by your passion for righting wrongs and speaking up fearlessly for those who have no voice. </p>
                <p>Paul</p>
               </div>
             </div>
@@ -237,7 +237,7 @@ type = "page"
               <i class="fa fa-envelope"></i>
               <div class="testimony-container">
                 <p>I like hearing about the things you're putting out into the universe.</p>
-                <p>I am so sorry, but not surprised, to hear about what happened in Greenland. I agree with you a 100%! I just had a long talk with my husband about the saying "boys will be boys” and how insidious it is. Of course he claimed that I needed to take it all in context and understand that moms use it very innocently, but I was adamant that he didn't understand how that perpetuates this entire culture around men having no responsibility to control themselves. </p>
+                <p>I am so sorry, but not surprised, to hear about what happened in Greenland. I agree with you 100%! I just had a long talk with my husband about the saying "boys will be boys” and how insidious it is. Of course he claimed that I needed to take it all in context and understand that moms use it very innocently, but I was adamant that he didn't understand how that perpetuates this entire culture around men having no responsibility to control themselves. </p>
                 <p>So glad you were able to get out safe and sound and are now sharing your story!</p>
                <p>Bhavika</p>
               </div>
