@@ -74,7 +74,7 @@ type = "page"
             <h2>Tidbits</h2>
             <div class="question element-bottom-20">
               <p class="lead">Is my payment information secure?<br>
-                Bet your bottom dollar it is! Payments are processed securely via Stripe.</p>
+                Bet your bottom dollar it is! Payments are processed securely through Stripe.</p>
             </div>
             <div class="question element-bottom-20">
               <p class="lead">How do I make changes to my gift?<br>
