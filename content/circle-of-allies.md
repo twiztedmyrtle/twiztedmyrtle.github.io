@@ -67,14 +67,14 @@ type = "page"
           </p>
           <img src="/img/twiztedmyrtle/twizted-signature.svg" alt="twiztedmyrtle signature" width="120px" class="element-bottom-50">
           <hr>
-          <p class="lead element-top-50">You can also heed Yoda's advice and become a Twizted ally by purchasing Twizted Myrtle photography. <a href="https://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw" target="_blank">Click here to peruse gallery </a> and buy.
+          <p class="lead element-top-50">You can also heed Yoda's advice and become a Twizted ally by purchasing Twizted Myrtle photography. <a href="https://twiztedmyrtle.photoshelter.com/gallery-collection/View-Gallery/C0000qSXIepKx7lw" target="_blank">Peruse gallery to buy</a>.
           </p>
           <hr>
           <div class="faqs element-top-50">
             <h2>Tidbits</h2>
             <div class="question element-bottom-20">
               <p class="lead">Is my payment information secure?<br>
-                Bet your bottom dollar it is! Payments are processed securely through Stripe.</p>
+                Bet your bottom dollar it is! Payments are processed securely via Stripe.</p>
             </div>
             <div class="question element-bottom-20">
               <p class="lead">How do I make changes to my gift?<br>
@@ -82,7 +82,7 @@ type = "page"
             </div>
             <div class="question element-bottom-20">
               <p class="lead">What impact does your work have?<br>
-              NONE. Just kidding! Rather than listen to me yak-yak, snoop into my mailbox below and discover for yourself.</p>
+              NONE. Just kidding! Rather than listen to me yak-yak, snoop into my mailbox below and discover for yourself. Scroll below.</p>
             </div>
           </div>
         </div>
