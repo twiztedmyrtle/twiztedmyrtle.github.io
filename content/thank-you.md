@@ -13,28 +13,9 @@ type = "page"
 +++
 <article>
     <section class="section">
-        <div class="background-media" data-0-top-bottom="background-position: 50% 50px" data-start="background-position: 50% -31px" style="background-image: url(/img/twiztedmyrtle/world-map.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:cover; background-position: 50% 0%;">
-        </div>
-        <div class="background-overlay" style="background-color: rgba(86,180,151,0.2);"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-2 text-center"></div>
-                <div class="col-md-8 text-center">
-                    <h1 class="element-top-120 element-bottom-120 text-light os-animation big" data-os-animation="fadeIn" data-os-animation-delay="0s">
-              Thank you!</h1>
-                </div>
-                <div class="col-md-2"></div>
-            </div>
-        </div>
+        <img src="/img/twiztedmyrtle/twz-thank-you-image.jpg" alt="twiztedmyrtle signature" >
     </section>
-    <section class="contact-form">
-        <div class="row">
-            <div class="col-md-12">
-                <h2>Thank you for you interest. I'll be in touch soon. If I'm out in the boonies somewhere photographing some cool shit, then it may take me a little longer. Talk soon :)
-            </div>
-        </div>
-    </section>
-    <section class="section">
+    <!-- <section class="section">
         <div class="background-overlay" style="background-color: rgba(255,255,255,0);"></div>
         <div class="container">
             <div class="row">
@@ -52,5 +33,5 @@ type = "page"
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 </article>
