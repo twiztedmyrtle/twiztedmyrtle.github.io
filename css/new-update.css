@@ -83,3 +83,11 @@
 .question {
   /*border-bottom: 1px solid #56b497;*/
 }
+
+.contact-form-funds {
+  background: rgba(255,255,255,.8);
+  border-radius: 7px;
+  box-shadow: 0 10px 15px rgba(0,0,0,.3);
+  padding: 3em;
+  margin: 60px auto;
+}
