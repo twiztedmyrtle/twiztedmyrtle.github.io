@@ -268,7 +268,7 @@ Resources -
         <div class="post-media">
           <div class="figure fade-in text-center figcaption-middle">
             <a href="//artist.twiztedmyrtle.com/podcast/pt-1---can-one-person-change-the-world.html.html" class="image featured">
-            <img src="/img/twiztedmyrtle/blog/2016/04/Shawn-Heinrichs-ChangetheWorld_TwiztedMyrtle.jpg" alt="" />
+            <img src="date/Shawn-Heinrichs-ChangetheWorld_TwiztedMyrtle.jpg" alt="" />
             <div class="figure-overlay">
               <div class="figure-overlay-container">
                 <div class="figure-caption"><span class="figure-overlay-icons"><i class="icon-link"></i></span></div>
@@ -768,6 +768,12 @@ Shawn Heinrichs, an Emmy Award Winning Cinematographer, artist, photographer, an
                     'donately-address': "true",
                     'donately-payment-options': "cc,ach",
                     'donately-custom-css': JSON.stringify(custom_donately_css)
+                  },
+                  onSuccess: function() {
+                    
+
+                    window.location.href = "https://artist.twiztedmyrtle.com/thank-you.html"
+
                   },
                   afterFormLoad: function() {
                     custom_donately_scripts();

@@ -437,7 +437,7 @@
 
         
 
-        <a href="//artist.twiztedmyrtle.com/podcast/the-real-truth-behind-men-sex-and-how-they-think.html.html" class="" style="background-image: url('/img/twiztedmyrtle/blog//Vince-Kelvin-Men-Sex-Truth.jpg')" rel="previous">
+        <a href="//artist.twiztedmyrtle.com/podcast/the-real-truth-behind-men-sex-and-how-they-think.html.html" class="" style="background-image: url('/img/twiztedmyrtle/blog/2016/05/Vince-Kelvin-Men-Sex-Truth.jpg')" rel="previous">
             <span class="pager-nav-details">
               <p>
                 NEXT
@@ -757,6 +757,12 @@
                     'donately-address': "true",
                     'donately-payment-options': "cc,ach",
                     'donately-custom-css': JSON.stringify(custom_donately_css)
+                  },
+                  onSuccess: function() {
+                    
+
+                    window.location.href = "https://artist.twiztedmyrtle.com/thank-you.html"
+
                   },
                   afterFormLoad: function() {
                     custom_donately_scripts();

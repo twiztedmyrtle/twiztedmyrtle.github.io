@@ -871,6 +871,12 @@ Don&rsquo;t think any further than today. Focus on today and get through today. 
                     'donately-payment-options': "cc,ach",
                     'donately-custom-css': JSON.stringify(custom_donately_css)
                   },
+                  onSuccess: function() {
+                    
+
+                    window.location.href = "https://artist.twiztedmyrtle.com/thank-you.html"
+
+                  },
                   afterFormLoad: function() {
                     custom_donately_scripts();
                   }

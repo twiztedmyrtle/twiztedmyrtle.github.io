@@ -778,6 +778,12 @@ Truthfully, we haven’t attained peace in this world because we don’t really 
                     'donately-payment-options': "cc,ach",
                     'donately-custom-css': JSON.stringify(custom_donately_css)
                   },
+                  onSuccess: function() {
+                    
+
+                    window.location.href = "https://artist.twiztedmyrtle.com/thank-you.html"
+
+                  },
                   afterFormLoad: function() {
                     custom_donately_scripts();
                   }

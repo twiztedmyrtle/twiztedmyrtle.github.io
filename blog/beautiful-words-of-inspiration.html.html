@@ -797,6 +797,12 @@ very exciting news!  Wish you all the best Asha following your heart.  I&rsquo;m
                     'donately-payment-options': "cc,ach",
                     'donately-custom-css': JSON.stringify(custom_donately_css)
                   },
+                  onSuccess: function() {
+                    
+
+                    window.location.href = "https://artist.twiztedmyrtle.com/thank-you.html"
+
+                  },
                   afterFormLoad: function() {
                     custom_donately_scripts();
                   }

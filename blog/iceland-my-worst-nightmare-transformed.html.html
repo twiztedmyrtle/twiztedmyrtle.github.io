@@ -784,6 +784,12 @@ On day 3 of the photo tour, I asked myself – knowing what I know now about Ice
                     'donately-payment-options': "cc,ach",
                     'donately-custom-css': JSON.stringify(custom_donately_css)
                   },
+                  onSuccess: function() {
+                    
+
+                    window.location.href = "https://artist.twiztedmyrtle.com/thank-you.html"
+
+                  },
                   afterFormLoad: function() {
                     custom_donately_scripts();
                   }
