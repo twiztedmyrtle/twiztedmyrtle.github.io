@@ -91,3 +91,16 @@
   padding: 3em;
   margin: 60px auto;
 }
+
+.img-res.mobile {
+  display: none;
+}
+
+@media only screen and (max-device-width: 575px) {
+  .img-res {
+    display: none;
+  }
+  .img-res.mobile {
+    display: block;
+  }
+}
