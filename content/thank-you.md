@@ -13,7 +13,8 @@ type = "page"
 +++
 <article>
     <section class="section">
-        <img src="/img/twiztedmyrtle/twz-thank-you-image.jpg" alt="twiztedmyrtle signature" >
+        <img src="/img/twiztedmyrtle/twz-thank-you-image.jpg" class="img-res" alt="thank you for donating to twizted myrtle">
+        <img src="/img/twiztedmyrtle/twz-thank-you-image-mobile.jpg" class="img-res mobile" alt="thank you for donating to twizted myrtle">
     </section>
     <!-- <section class="section">
         <div class="background-overlay" style="background-color: rgba(255,255,255,0);"></div>
