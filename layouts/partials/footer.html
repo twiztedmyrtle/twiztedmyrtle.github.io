@@ -311,6 +311,12 @@
                     'donately-payment-options': "cc,ach",
                     'donately-custom-css': JSON.stringify(custom_donately_css)
                   },
+                  onSuccess: function() {
+                    //replace the url with your own
+
+                    window.location.href = "https://artist.twiztedmyrtle.com/thank-you.html"
+
+                  },
                   afterFormLoad: function() {
                     custom_donately_scripts();
                   }
