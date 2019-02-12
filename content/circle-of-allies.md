@@ -40,7 +40,7 @@ type = "page"
         <div class="col-md-4 ">
           <div class="gift-box">
             <h3 style="margin-top: 10px">Create a Ripple</h3>
-            <p style="font-size:14px;">If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. Your generous support is instrumental in creating ripples in the world. Join my Circle of Allies through a recurring or one-time gift. </p>
+            <p style="font-size:14px;">If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. Your patronage is crucial to twizted work that requires an astounding amount of time, money and soul to create. Join my Circle of Allies through a recurring or one-time gift. </p>
             <p style="font-size:14px;">
               “Ripple effect on the ocean, every drop has  - Yoda
             </p>
