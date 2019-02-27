@@ -10,7 +10,7 @@ type = "page"
         <div class="col-md-12">
           <div class="flexslider" data-flex-directions="hide" data-flex-controlsposition="inside" id="about-slider" data-flex-animation="fade" style="height:480px;" data-flex-speed="4000">
             <ul class="slides">
-              <li data-slotamount="3" data-saveperformance="on" data-title="Intro Slide"><img src="/img/twiztedmyrtle/circle-of-allies.jpg"></li>
+              <li data-slotamount="3" data-saveperformance="on" data-title="Intro Slide"><img src="/img/twiztedmyrtle/CircleofAllies_TwiztedMyrtle.jpg"></li>
             </ul>
           <div class="container">
               <div class="divider-wrapper">
@@ -40,7 +40,7 @@ type = "page"
         <div class="col-md-4 ">
           <div class="gift-box">
             <h3 style="margin-top: 10px">Create a Ripple</h3>
-            <p style="font-size:14px;">If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. Your patronage is crucial to twizted work that requires an astounding amount of time, money and soul to create. Join my Circle of Allies through a recurring or one-time gift. </p>
+            <p style="font-size:14px;">If you are inspired, empowered or experience disagreement with my work, please consider becoming a sustaining patron. Your patronage is crucial to twizted work which requires an astounding amount of time, money and soul to create. Join my Circle of Allies through a recurring or one-time gift. </p>
             <p style="font-size:14px;">
               “Ripple effect on the ocean, every drop has  - Yoda
             </p>
