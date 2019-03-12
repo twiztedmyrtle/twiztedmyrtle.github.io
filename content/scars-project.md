@@ -20,7 +20,7 @@ type = "page"
             <div class="row">
                 <div class="col-md-8">
                     <h1 class=" hyper element-top-150 text-light os-animation big" data-os-animation="fadeIn" data-os-animation-delay="0s">
-            7.2 Billion<small class="hairline"> human souls</small></h1>
+            7.7 Billion<small class="hairline"> human souls</small></h1>
                     <h2 class="text-light element-bottom-150">ALL HAVE SCARS!</h2> </div>
                 <div class="col-md-4 text-center"> </div>
             </div>
