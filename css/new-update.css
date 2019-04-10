@@ -84,6 +84,22 @@
   /*border-bottom: 1px solid #56b497;*/
 }
 
+.topic-comment {
+  display: flex;
+  font-size: 21.6px;
+  /*font-weight: 300;*/
+}
+
+.person {
+  padding-right: 10px;
+  min-width: 120px;
+}
+
+.comment {
+  margin-left: 10px;
+}
+
+
 .contact-form-funds {
   background: rgba(255,255,255,.8);
   border-radius: 7px;
