@@ -470,6 +470,7 @@ ul.pagination li {
                 .slide-content {
                     position: absolute;
                     right: 0;
+                    top: 8rem;
                     width: 50%;
                     padding: 0;
                 }
